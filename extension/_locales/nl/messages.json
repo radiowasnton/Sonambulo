@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Donkere modus"
+  },
+  "extDescription": {
+    "message": "De nacht, levendiger dan ooit. Kies de donkere of lichte modus voor elke website en geef je ogen alleen het beste."
+  },
+  "cmdToggleSite": {
+    "message": "Op deze site wisselen tussen donkere en normale modus"
+  },
+  "cmdCycleMode": {
+    "message": "Modus wisselen: Donker, Gefilterd, Normaal"
+  },
+  "cmdToggleContrast": {
+    "message": "Hoog contrast op deze site in- of uitschakelen"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo pauzeren of hervatten"
+  },
+  "modeDark": {
+    "message": "Donker"
+  },
+  "modeFiltered": {
+    "message": "Gefilterd"
+  },
+  "modeNormal": {
+    "message": "Normaal"
+  },
+  "modeContrast": {
+    "message": "Hoog contrast"
+  },
+  "hintFiltered": {
+    "message": "Behoudt de originele kleuren en verzacht helderheid en blauw licht"
+  },
+  "hintContrast": {
+    "message": "Voegt een hoogcontraststijl toe bovenop de modus"
+  },
+  "statusSaved": {
+    "message": "Opgeslagen voor deze site"
+  },
+  "statusDefault": {
+    "message": "Standaardinstellingen"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo is gepauzeerd"
+  },
+  "statusScheduled": {
+    "message": "Buiten de ingestelde uren"
+  },
+  "unsupported": {
+    "message": "Sonámbulo kan deze pagina niet aanpassen."
+  },
+  "hcBoost": {
+    "message": "Verhoogd"
+  },
+  "hcGray": {
+    "message": "Grijstinten"
+  },
+  "hcYellow": {
+    "message": "Geel op zwart"
+  },
+  "hcCyan": {
+    "message": "Cyaan op zwart"
+  },
+  "hcGreen": {
+    "message": "Groen op zwart"
+  },
+  "hcIntensity": {
+    "message": "Intensiteit"
+  },
+  "tuneTitle": {
+    "message": "Aanpassingen"
+  },
+  "tuneBrightness": {
+    "message": "Helderheid"
+  },
+  "tuneContrast": {
+    "message": "Contrast"
+  },
+  "tuneSaturation": {
+    "message": "Verzadiging"
+  },
+  "tuneWarmth": {
+    "message": "Blauwlichtfilter"
+  },
+  "reset": {
+    "message": "Herstellen"
+  },
+  "powerPause": {
+    "message": "Pauzeren"
+  },
+  "powerResume": {
+    "message": "Hervatten"
+  },
+  "navSettings": {
+    "message": "Instellingen"
+  },
+  "tabGeneral": {
+    "message": "Algemeen"
+  },
+  "tabSites": {
+    "message": "Websites"
+  },
+  "tabBackup": {
+    "message": "Back-up"
+  },
+  "defaultMode": {
+    "message": "Standaardmodus"
+  },
+  "followOS": {
+    "message": "Systeemthema volgen"
+  },
+  "followOSHint": {
+    "message": "Websites zonder opgeslagen instellingen worden donker wanneer je systeem donker is."
+  },
+  "darkScrollbars": {
+    "message": "Donkere schuifbalken"
+  },
+  "detectDark": {
+    "message": "Donkere websites herkennen"
+  },
+  "detectDarkHint": {
+    "message": "Laat websites die al donker zijn ongemoeid."
+  },
+  "schedule": {
+    "message": "Schema"
+  },
+  "scheduleFrom": {
+    "message": "Van"
+  },
+  "scheduleTo": {
+    "message": "Tot"
+  },
+  "language": {
+    "message": "Taal"
+  },
+  "languageAuto": {
+    "message": "Automatisch"
+  },
+  "shortcuts": {
+    "message": "Sneltoetsen"
+  },
+  "shortcutsChange": {
+    "message": "Sneltoetsen wijzigen"
+  },
+  "shortcutNone": {
+    "message": "Niet ingesteld"
+  },
+  "sitesSearch": {
+    "message": "Websites zoeken"
+  },
+  "add": {
+    "message": "Toevoegen"
+  },
+  "filterAll": {
+    "message": "Alles"
+  },
+  "sitesEmpty": {
+    "message": "Geen websites om te tonen."
+  },
+  "sitesRemove": {
+    "message": "Verwijderen"
+  },
+  "sitesRemoveAll": {
+    "message": "Alles verwijderen"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Alle opgeslagen websites verwijderen?"
+  },
+  "sitesSubdomains": {
+    "message": "Instellingen die voor een domein zijn opgeslagen, gelden ook voor de subdomeinen."
+  },
+  "sitesInvalid": {
+    "message": "Voer een geldig domein in, zoals example.com."
+  },
+  "cancel": {
+    "message": "Annuleren"
+  },
+  "backupExport": {
+    "message": "Exporteren"
+  },
+  "backupImport": {
+    "message": "Importeren"
+  },
+  "backupHint": {
+    "message": "Sla je instellingen en websites op in een bestand, of herstel ze vanuit een bestand."
+  },
+  "backupImported": {
+    "message": "Geïmporteerde websites: {count}"
+  },
+  "backupInvalid": {
+    "message": "Dit bestand is geen geldige back-up."
+  },
+  "aboutLine": {
+    "message": "Versie {version} · Gemaakt door radiowasnton · Apache-licentie 2.0"
+  },
+  "engine": {
+    "message": "Engine"
+  },
+  "engineStyles": {
+    "message": "Stijlen"
+  },
+  "engineRender": {
+    "message": "Weergave"
+  },
+  "hintEngineStyles": {
+    "message": "Kleurt de CSS van de pagina om en laat afbeeldingen en inhoud ongemoeid. De meest getrouwe."
+  },
+  "hintEngineRender": {
+    "message": "Inverteert de gerenderde pagina met een GPU-filter. Werkt bijna overal, maar kan afbeeldingen veranderen."
+  },
+  "hcInvert": {
+    "message": "Omgekeerde kleuren"
+  },
+  "hcInvertGray": {
+    "message": "Omgekeerde grijstinten"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Donker met zachtgrijze achtergronden."
+  },
+  "hintOled": {
+    "message": "Donker met zuiver zwarte achtergronden. Bespaart energie op OLED-schermen."
+  },
+  "hcStack": {
+    "message": "Bovenop de modus"
+  },
+  "hintHcStack": {
+    "message": "Aan: past het schema toe bovenop de wijzigingen van de modus. Uit: toont alleen het schema, zoals de oorspronkelijke extensie."
+  },
+  "solidBg": {
+    "message": "Effen achtergrond"
+  },
+  "hintSolidBg": {
+    "message": "Vervangt achtergrondafbeeldingen en kleurverlopen van de pagina door een effen kleur. Handig als een pagina maar licht donkerder wordt."
+  }
+}

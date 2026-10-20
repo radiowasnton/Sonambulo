@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Σκοτεινή λειτουργία"
+  },
+  "extDescription": {
+    "message": "Η νύχτα, πιο ζωντανή από ποτέ. Επιλέξτε σκοτεινή ή φωτεινή λειτουργία για κάθε ιστότοπο και δώστε στα μάτια σας μόνο το καλύτερο."
+  },
+  "cmdToggleSite": {
+    "message": "Εναλλαγή σκοτεινής και κανονικής λειτουργίας σε αυτόν τον ιστότοπο"
+  },
+  "cmdCycleMode": {
+    "message": "Αλλαγή λειτουργίας: Σκοτεινή, Φιλτραρισμένη, Κανονική"
+  },
+  "cmdToggleContrast": {
+    "message": "Ενεργοποίηση ή απενεργοποίηση υψηλής αντίθεσης σε αυτόν τον ιστότοπο"
+  },
+  "cmdTogglePower": {
+    "message": "Παύση ή συνέχιση του Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Σκοτεινή"
+  },
+  "modeFiltered": {
+    "message": "Φιλτραρισμένη"
+  },
+  "modeNormal": {
+    "message": "Κανονική"
+  },
+  "modeContrast": {
+    "message": "Υψηλή αντίθεση"
+  },
+  "hintFiltered": {
+    "message": "Διατηρεί τα αρχικά χρώματα και μαλακώνει τη φωτεινότητα και το μπλε φως"
+  },
+  "hintContrast": {
+    "message": "Προσθέτει ένα στυλ υψηλής αντίθεσης πάνω από την επιλεγμένη λειτουργία"
+  },
+  "statusSaved": {
+    "message": "Αποθηκεύτηκε για αυτόν τον ιστότοπο"
+  },
+  "statusDefault": {
+    "message": "Προεπιλεγμένες ρυθμίσεις"
+  },
+  "statusPaused": {
+    "message": "Το Sonámbulo βρίσκεται σε παύση"
+  },
+  "statusScheduled": {
+    "message": "Εκτός των προγραμματισμένων ωρών"
+  },
+  "unsupported": {
+    "message": "Το Sonámbulo δεν μπορεί να αλλάξει αυτή τη σελίδα."
+  },
+  "hcBoost": {
+    "message": "Αυξημένη"
+  },
+  "hcGray": {
+    "message": "Αποχρώσεις του γκρι"
+  },
+  "hcYellow": {
+    "message": "Κίτρινο σε μαύρο"
+  },
+  "hcCyan": {
+    "message": "Κυανό σε μαύρο"
+  },
+  "hcGreen": {
+    "message": "Πράσινο σε μαύρο"
+  },
+  "hcIntensity": {
+    "message": "Ένταση"
+  },
+  "tuneTitle": {
+    "message": "Προσαρμογές"
+  },
+  "tuneBrightness": {
+    "message": "Φωτεινότητα"
+  },
+  "tuneContrast": {
+    "message": "Αντίθεση"
+  },
+  "tuneSaturation": {
+    "message": "Κορεσμός"
+  },
+  "tuneWarmth": {
+    "message": "Φίλτρο μπλε φωτός"
+  },
+  "reset": {
+    "message": "Επαναφορά"
+  },
+  "powerPause": {
+    "message": "Παύση"
+  },
+  "powerResume": {
+    "message": "Συνέχιση"
+  },
+  "navSettings": {
+    "message": "Ρυθμίσεις"
+  },
+  "tabGeneral": {
+    "message": "Γενικά"
+  },
+  "tabSites": {
+    "message": "Ιστότοποι"
+  },
+  "tabBackup": {
+    "message": "Αντίγραφο ασφαλείας"
+  },
+  "defaultMode": {
+    "message": "Προεπιλεγμένη λειτουργία"
+  },
+  "followOS": {
+    "message": "Ακολούθηση του θέματος του συστήματος"
+  },
+  "followOSHint": {
+    "message": "Οι ιστότοποι χωρίς αποθηκευμένες ρυθμίσεις σκουραίνουν όταν το σύστημά σας είναι σε σκοτεινή λειτουργία."
+  },
+  "darkScrollbars": {
+    "message": "Σκοτεινές γραμμές κύλισης"
+  },
+  "detectDark": {
+    "message": "Εντοπισμός σκοτεινών ιστότοπων"
+  },
+  "detectDarkHint": {
+    "message": "Αφήνει ανέγγιχτους τους ιστότοπους που είναι ήδη σκοτεινοί."
+  },
+  "schedule": {
+    "message": "Πρόγραμμα"
+  },
+  "scheduleFrom": {
+    "message": "Από"
+  },
+  "scheduleTo": {
+    "message": "Έως"
+  },
+  "language": {
+    "message": "Γλώσσα"
+  },
+  "languageAuto": {
+    "message": "Αυτόματα"
+  },
+  "shortcuts": {
+    "message": "Συντομεύσεις πληκτρολογίου"
+  },
+  "shortcutsChange": {
+    "message": "Αλλαγή συντομεύσεων"
+  },
+  "shortcutNone": {
+    "message": "Δεν έχει οριστεί"
+  },
+  "sitesSearch": {
+    "message": "Αναζήτηση ιστότοπων"
+  },
+  "add": {
+    "message": "Προσθήκη"
+  },
+  "filterAll": {
+    "message": "Όλοι"
+  },
+  "sitesEmpty": {
+    "message": "Δεν υπάρχουν ιστότοποι για εμφάνιση."
+  },
+  "sitesRemove": {
+    "message": "Κατάργηση"
+  },
+  "sitesRemoveAll": {
+    "message": "Κατάργηση όλων"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Να καταργηθούν όλοι οι αποθηκευμένοι ιστότοποι;"
+  },
+  "sitesSubdomains": {
+    "message": "Οι ρυθμίσεις που αποθηκεύονται για έναν τομέα ισχύουν και για τους υποτομείς του."
+  },
+  "sitesInvalid": {
+    "message": "Εισαγάγετε έναν έγκυρο τομέα, π.χ. example.com."
+  },
+  "cancel": {
+    "message": "Ακύρωση"
+  },
+  "backupExport": {
+    "message": "Εξαγωγή"
+  },
+  "backupImport": {
+    "message": "Εισαγωγή"
+  },
+  "backupHint": {
+    "message": "Αποθηκεύστε τις ρυθμίσεις και τους ιστότοπούς σας σε αρχείο ή επαναφέρετέ τα από αρχείο."
+  },
+  "backupImported": {
+    "message": "Ιστότοποι που εισήχθησαν: {count}"
+  },
+  "backupInvalid": {
+    "message": "Αυτό το αρχείο δεν είναι έγκυρο αντίγραφο ασφαλείας."
+  },
+  "aboutLine": {
+    "message": "Έκδοση {version} · Δημιουργός: radiowasnton · Άδεια Apache 2.0"
+  },
+  "engine": {
+    "message": "Μηχανή"
+  },
+  "engineStyles": {
+    "message": "Στυλ"
+  },
+  "engineRender": {
+    "message": "Απόδοση"
+  },
+  "hintEngineStyles": {
+    "message": "Αλλάζει τα χρώματα του CSS της σελίδας και αφήνει ανέγγιχτες τις εικόνες και το περιεχόμενο. Η πιο πιστή."
+  },
+  "hintEngineRender": {
+    "message": "Αντιστρέφει την ήδη αποδοσμένη σελίδα με φίλτρο GPU. Λειτουργεί σχεδόν παντού, αλλά μπορεί να αλλοιώσει τις εικόνες."
+  },
+  "hcInvert": {
+    "message": "Αντεστραμμένα χρώματα"
+  },
+  "hcInvertGray": {
+    "message": "Αντεστραμμένες αποχρώσεις του γκρι"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Σκοτεινό με απαλό γκρι φόντο."
+  },
+  "hintOled": {
+    "message": "Σκοτεινό με απόλυτο μαύρο φόντο. Εξοικονομεί ενέργεια στις οθόνες OLED."
+  },
+  "hcStack": {
+    "message": "Πάνω από τη λειτουργία"
+  },
+  "hintHcStack": {
+    "message": "Ενεργό: εφαρμόζει το σχήμα πάνω από τις αλλαγές της λειτουργίας. Ανενεργό: εμφανίζει μόνο το σχήμα, όπως η αρχική επέκταση."
+  },
+  "solidBg": {
+    "message": "Συμπαγές φόντο"
+  },
+  "hintSolidBg": {
+    "message": "Αντικαθιστά τις εικόνες και τις διαβαθμίσεις φόντου της σελίδας με ένα συμπαγές χρώμα. Χρησιμοποιήστε το αν μια σελίδα σκουραίνει ελάχιστα."
+  }
+}

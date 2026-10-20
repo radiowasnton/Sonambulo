@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Tmavý režim"
+  },
+  "extDescription": {
+    "message": "Noc, živšia než kedykoľvek predtým. Vyberte tmavý alebo svetlý režim pre každý web a doprajte svojim očiam len to najlepšie."
+  },
+  "cmdToggleSite": {
+    "message": "Prepnúť medzi tmavým a normálnym režimom na tomto webe"
+  },
+  "cmdCycleMode": {
+    "message": "Zmeniť režim: Tmavý, Filtrovaný, Normálny"
+  },
+  "cmdToggleContrast": {
+    "message": "Zapnúť alebo vypnúť vysoký kontrast na tomto webe"
+  },
+  "cmdTogglePower": {
+    "message": "Pozastaviť alebo obnoviť Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Tmavý"
+  },
+  "modeFiltered": {
+    "message": "Filtrovaný"
+  },
+  "modeNormal": {
+    "message": "Normálny"
+  },
+  "modeContrast": {
+    "message": "Vysoký kontrast"
+  },
+  "hintFiltered": {
+    "message": "Zachová pôvodné farby a zjemní jas a modré svetlo"
+  },
+  "hintContrast": {
+    "message": "Pridá štýl s vysokým kontrastom nad zvolený režim"
+  },
+  "statusSaved": {
+    "message": "Uložené pre tento web"
+  },
+  "statusDefault": {
+    "message": "Predvolené nastavenia"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo je pozastavené"
+  },
+  "statusScheduled": {
+    "message": "Mimo plánovaných hodín"
+  },
+  "unsupported": {
+    "message": "Sonámbulo nemôže túto stránku zmeniť."
+  },
+  "hcBoost": {
+    "message": "Zvýšený"
+  },
+  "hcGray": {
+    "message": "Odtiene sivej"
+  },
+  "hcYellow": {
+    "message": "Žltá na čiernej"
+  },
+  "hcCyan": {
+    "message": "Azúrová na čiernej"
+  },
+  "hcGreen": {
+    "message": "Zelená na čiernej"
+  },
+  "hcIntensity": {
+    "message": "Intenzita"
+  },
+  "tuneTitle": {
+    "message": "Úpravy"
+  },
+  "tuneBrightness": {
+    "message": "Jas"
+  },
+  "tuneContrast": {
+    "message": "Kontrast"
+  },
+  "tuneSaturation": {
+    "message": "Sýtosť"
+  },
+  "tuneWarmth": {
+    "message": "Filter modrého svetla"
+  },
+  "reset": {
+    "message": "Obnoviť predvolené"
+  },
+  "powerPause": {
+    "message": "Pozastaviť"
+  },
+  "powerResume": {
+    "message": "Obnoviť"
+  },
+  "navSettings": {
+    "message": "Nastavenia"
+  },
+  "tabGeneral": {
+    "message": "Všeobecné"
+  },
+  "tabSites": {
+    "message": "Weby"
+  },
+  "tabBackup": {
+    "message": "Záloha"
+  },
+  "defaultMode": {
+    "message": "Predvolený režim"
+  },
+  "followOS": {
+    "message": "Riadiť sa motívom systému"
+  },
+  "followOSHint": {
+    "message": "Weby bez uložených nastavení stmavnú, keď je váš systém tmavý."
+  },
+  "darkScrollbars": {
+    "message": "Tmavé posuvníky"
+  },
+  "detectDark": {
+    "message": "Rozpoznať tmavé weby"
+  },
+  "detectDarkHint": {
+    "message": "Weby, ktoré sú už tmavé, nechá bez zmeny."
+  },
+  "schedule": {
+    "message": "Plán"
+  },
+  "scheduleFrom": {
+    "message": "Od"
+  },
+  "scheduleTo": {
+    "message": "Do"
+  },
+  "language": {
+    "message": "Jazyk"
+  },
+  "languageAuto": {
+    "message": "Automaticky"
+  },
+  "shortcuts": {
+    "message": "Klávesové skratky"
+  },
+  "shortcutsChange": {
+    "message": "Zmeniť skratky"
+  },
+  "shortcutNone": {
+    "message": "Nenastavené"
+  },
+  "sitesSearch": {
+    "message": "Hľadať weby"
+  },
+  "add": {
+    "message": "Pridať"
+  },
+  "filterAll": {
+    "message": "Všetky"
+  },
+  "sitesEmpty": {
+    "message": "Žiadne weby na zobrazenie."
+  },
+  "sitesRemove": {
+    "message": "Odstrániť"
+  },
+  "sitesRemoveAll": {
+    "message": "Odstrániť všetky"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Odstrániť všetky uložené weby?"
+  },
+  "sitesSubdomains": {
+    "message": "Nastavenia uložené pre doménu platia aj pre jej subdomény."
+  },
+  "sitesInvalid": {
+    "message": "Zadajte platnú doménu, napríklad example.com."
+  },
+  "cancel": {
+    "message": "Zrušiť"
+  },
+  "backupExport": {
+    "message": "Exportovať"
+  },
+  "backupImport": {
+    "message": "Importovať"
+  },
+  "backupHint": {
+    "message": "Uložte nastavenia a weby do súboru alebo ich z neho obnovte."
+  },
+  "backupImported": {
+    "message": "Importované weby: {count}"
+  },
+  "backupInvalid": {
+    "message": "Tento súbor nie je platná záloha."
+  },
+  "aboutLine": {
+    "message": "Verzia {version} · Autor: radiowasnton · Licencia Apache 2.0"
+  },
+  "engine": {
+    "message": "Engine"
+  },
+  "engineStyles": {
+    "message": "Štýly"
+  },
+  "engineRender": {
+    "message": "Vykresľovanie"
+  },
+  "hintEngineStyles": {
+    "message": "Prefarbí CSS stránky a nechá obrázky aj obsah bez zmeny. Najvernejší."
+  },
+  "hintEngineRender": {
+    "message": "Invertuje už vykreslenú stránku filtrom GPU. Funguje takmer všade, ale môže zmeniť obrázky."
+  },
+  "hcInvert": {
+    "message": "Invertované farby"
+  },
+  "hcInvertGray": {
+    "message": "Invertované odtiene sivej"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Tmavý s jemným sivým pozadím."
+  },
+  "hintOled": {
+    "message": "Tmavý s čisto čiernym pozadím. Šetrí energiu na OLED displejoch."
+  },
+  "hcStack": {
+    "message": "Navyše k režimu"
+  },
+  "hintHcStack": {
+    "message": "Zapnuté: použije schému navyše k zmenám režimu. Vypnuté: zobrazí iba schému ako pôvodné rozšírenie."
+  },
+  "solidBg": {
+    "message": "Plné pozadie"
+  },
+  "hintSolidBg": {
+    "message": "Nahradí obrázky a prechody na pozadí stránky jednolitou farbou. Použite, keď sa stránka stmaví len mierne."
+  }
+}

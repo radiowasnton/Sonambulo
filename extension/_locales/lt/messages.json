@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Tamsusis režimas"
+  },
+  "extDescription": {
+    "message": "Naktis, gyvesnė nei bet kada. Pasirinkite tamsųjį arba šviesųjį režimą kiekvienai svetainei ir suteikite savo akims tik geriausia."
+  },
+  "cmdToggleSite": {
+    "message": "Perjungti tamsųjį ir įprastą režimą šioje svetainėje"
+  },
+  "cmdCycleMode": {
+    "message": "Keisti režimą: tamsusis, filtruotas, įprastas"
+  },
+  "cmdToggleContrast": {
+    "message": "Įjungti arba išjungti didelį kontrastą šioje svetainėje"
+  },
+  "cmdTogglePower": {
+    "message": "Pristabdyti arba tęsti Sonámbulo veikimą"
+  },
+  "modeDark": {
+    "message": "Tamsusis"
+  },
+  "modeFiltered": {
+    "message": "Filtruotas"
+  },
+  "modeNormal": {
+    "message": "Įprastas"
+  },
+  "modeContrast": {
+    "message": "Didelis kontrastas"
+  },
+  "hintFiltered": {
+    "message": "Išsaugo originalias spalvas ir sušvelnina ryškumą bei mėlyną šviesą"
+  },
+  "hintContrast": {
+    "message": "Prie pasirinkto režimo prideda didelio kontrasto stilių"
+  },
+  "statusSaved": {
+    "message": "Išsaugota šiai svetainei"
+  },
+  "statusDefault": {
+    "message": "Numatytieji nustatymai"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo veikimas pristabdytas"
+  },
+  "statusScheduled": {
+    "message": "Ne suplanuotu laiku"
+  },
+  "unsupported": {
+    "message": "Sonámbulo negali pakeisti šio puslapio."
+  },
+  "hcBoost": {
+    "message": "Padidintas"
+  },
+  "hcGray": {
+    "message": "Pilkų atspalvių"
+  },
+  "hcYellow": {
+    "message": "Geltona ant juodos"
+  },
+  "hcCyan": {
+    "message": "Žydra ant juodos"
+  },
+  "hcGreen": {
+    "message": "Žalia ant juodos"
+  },
+  "hcIntensity": {
+    "message": "Intensyvumas"
+  },
+  "tuneTitle": {
+    "message": "Koregavimai"
+  },
+  "tuneBrightness": {
+    "message": "Ryškumas"
+  },
+  "tuneContrast": {
+    "message": "Kontrastas"
+  },
+  "tuneSaturation": {
+    "message": "Sodrumas"
+  },
+  "tuneWarmth": {
+    "message": "Mėlynos šviesos filtras"
+  },
+  "reset": {
+    "message": "Atkurti numatytuosius"
+  },
+  "powerPause": {
+    "message": "Pristabdyti"
+  },
+  "powerResume": {
+    "message": "Tęsti"
+  },
+  "navSettings": {
+    "message": "Nustatymai"
+  },
+  "tabGeneral": {
+    "message": "Bendra"
+  },
+  "tabSites": {
+    "message": "Svetainės"
+  },
+  "tabBackup": {
+    "message": "Atsarginė kopija"
+  },
+  "defaultMode": {
+    "message": "Numatytasis režimas"
+  },
+  "followOS": {
+    "message": "Sekti sistemos temą"
+  },
+  "followOSHint": {
+    "message": "Svetainės be išsaugotų nustatymų patamsėja, kai jūsų sistema veikia tamsiuoju režimu."
+  },
+  "darkScrollbars": {
+    "message": "Tamsios slinkties juostos"
+  },
+  "detectDark": {
+    "message": "Aptikti tamsias svetaines"
+  },
+  "detectDarkHint": {
+    "message": "Nekeičia svetainių, kurios jau yra tamsios."
+  },
+  "schedule": {
+    "message": "Tvarkaraštis"
+  },
+  "scheduleFrom": {
+    "message": "Nuo"
+  },
+  "scheduleTo": {
+    "message": "Iki"
+  },
+  "language": {
+    "message": "Kalba"
+  },
+  "languageAuto": {
+    "message": "Automatiškai"
+  },
+  "shortcuts": {
+    "message": "Spartieji klavišai"
+  },
+  "shortcutsChange": {
+    "message": "Keisti sparčiuosius klavišus"
+  },
+  "shortcutNone": {
+    "message": "Nenustatyta"
+  },
+  "sitesSearch": {
+    "message": "Ieškoti svetainių"
+  },
+  "add": {
+    "message": "Pridėti"
+  },
+  "filterAll": {
+    "message": "Visos"
+  },
+  "sitesEmpty": {
+    "message": "Nėra rodytinų svetainių."
+  },
+  "sitesRemove": {
+    "message": "Pašalinti"
+  },
+  "sitesRemoveAll": {
+    "message": "Pašalinti visas"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Pašalinti visas išsaugotas svetaines?"
+  },
+  "sitesSubdomains": {
+    "message": "Domenui išsaugoti nustatymai taikomi ir jo subdomenams."
+  },
+  "sitesInvalid": {
+    "message": "Įveskite tinkamą domeną, pvz., example.com."
+  },
+  "cancel": {
+    "message": "Atšaukti"
+  },
+  "backupExport": {
+    "message": "Eksportuoti"
+  },
+  "backupImport": {
+    "message": "Importuoti"
+  },
+  "backupHint": {
+    "message": "Išsaugokite nustatymus ir svetaines faile arba atkurkite juos iš failo."
+  },
+  "backupImported": {
+    "message": "Importuota svetainių: {count}"
+  },
+  "backupInvalid": {
+    "message": "Šis failas nėra tinkama atsarginė kopija."
+  },
+  "aboutLine": {
+    "message": "Versija {version} · Autorius: radiowasnton · Apache licencija 2.0"
+  },
+  "engine": {
+    "message": "Variklis"
+  },
+  "engineStyles": {
+    "message": "Stiliai"
+  },
+  "engineRender": {
+    "message": "Vaizdavimas"
+  },
+  "hintEngineStyles": {
+    "message": "Perspalvina puslapio CSS ir nepaliečia paveikslėlių bei turinio. Tiksliausias."
+  },
+  "hintEngineRender": {
+    "message": "Invertuoja jau atvaizduotą puslapį GPU filtru. Veikia beveik visur, bet gali pakeisti paveikslėlius."
+  },
+  "hcInvert": {
+    "message": "Invertuotos spalvos"
+  },
+  "hcInvertGray": {
+    "message": "Invertuoti pilkų atspalvių"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Tamsus su švelniu pilku fonu."
+  },
+  "hintOled": {
+    "message": "Tamsus su gryna juoda spalva fone. Taupo energiją OLED ekranuose."
+  },
+  "hcStack": {
+    "message": "Ant režimo"
+  },
+  "hintHcStack": {
+    "message": "Įjungta: taiko schemą ant režimo pakeitimų. Išjungta: rodo tik schemą, kaip originalus plėtinys."
+  },
+  "solidBg": {
+    "message": "Vienspalvis fonas"
+  },
+  "hintSolidBg": {
+    "message": "Puslapio fono paveikslėlius ir perėjimus pakeičia viena spalva. Naudokite, jei puslapis patamsėja tik šiek tiek."
+  }
+}

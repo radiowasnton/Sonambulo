@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - الوضع الداكن"
+  },
+  "extDescription": {
+    "message": "الليل، أكثر حيوية من أي وقت مضى. اختر الوضع الداكن أو الفاتح لكل موقع، وامنح عينيك الأفضل فقط."
+  },
+  "cmdToggleSite": {
+    "message": "التبديل بين الوضع الداكن والعادي في هذا الموقع"
+  },
+  "cmdCycleMode": {
+    "message": "تغيير الوضع: داكن، مُرشَّح، عادي"
+  },
+  "cmdToggleContrast": {
+    "message": "تشغيل التباين العالي أو إيقافه في هذا الموقع"
+  },
+  "cmdTogglePower": {
+    "message": "إيقاف Sonámbulo مؤقتًا أو استئنافه"
+  },
+  "modeDark": {
+    "message": "داكن"
+  },
+  "modeFiltered": {
+    "message": "مُرشَّح"
+  },
+  "modeNormal": {
+    "message": "عادي"
+  },
+  "modeContrast": {
+    "message": "تباين عالٍ"
+  },
+  "hintFiltered": {
+    "message": "يحافظ على الألوان الأصلية ويخفف السطوع والضوء الأزرق"
+  },
+  "hintContrast": {
+    "message": "يضيف نمط تباين عالٍ فوق الوضع المختار"
+  },
+  "statusSaved": {
+    "message": "محفوظ لهذا الموقع"
+  },
+  "statusDefault": {
+    "message": "الإعدادات الافتراضية"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo متوقف مؤقتًا"
+  },
+  "statusScheduled": {
+    "message": "خارج الساعات المجدولة"
+  },
+  "unsupported": {
+    "message": "لا يستطيع Sonámbulo تعديل هذه الصفحة."
+  },
+  "hcBoost": {
+    "message": "معزَّز"
+  },
+  "hcGray": {
+    "message": "تدرّج الرمادي"
+  },
+  "hcYellow": {
+    "message": "أصفر على أسود"
+  },
+  "hcCyan": {
+    "message": "سماوي على أسود"
+  },
+  "hcGreen": {
+    "message": "أخضر على أسود"
+  },
+  "hcIntensity": {
+    "message": "الشدة"
+  },
+  "tuneTitle": {
+    "message": "التعديلات"
+  },
+  "tuneBrightness": {
+    "message": "السطوع"
+  },
+  "tuneContrast": {
+    "message": "التباين"
+  },
+  "tuneSaturation": {
+    "message": "التشبّع"
+  },
+  "tuneWarmth": {
+    "message": "مرشّح الضوء الأزرق"
+  },
+  "reset": {
+    "message": "إعادة الضبط"
+  },
+  "powerPause": {
+    "message": "إيقاف مؤقت"
+  },
+  "powerResume": {
+    "message": "استئناف"
+  },
+  "navSettings": {
+    "message": "الإعدادات"
+  },
+  "tabGeneral": {
+    "message": "عام"
+  },
+  "tabSites": {
+    "message": "المواقع"
+  },
+  "tabBackup": {
+    "message": "نسخة احتياطية"
+  },
+  "defaultMode": {
+    "message": "الوضع الافتراضي"
+  },
+  "followOS": {
+    "message": "اتباع سمة النظام"
+  },
+  "followOSHint": {
+    "message": "تتحول المواقع التي لا تملك إعدادات محفوظة إلى الوضع الداكن عندما يكون نظامك داكنًا."
+  },
+  "darkScrollbars": {
+    "message": "أشرطة تمرير داكنة"
+  },
+  "detectDark": {
+    "message": "اكتشاف المواقع الداكنة"
+  },
+  "detectDarkHint": {
+    "message": "يترك المواقع الداكنة أصلًا دون تغيير."
+  },
+  "schedule": {
+    "message": "الجدولة"
+  },
+  "scheduleFrom": {
+    "message": "من"
+  },
+  "scheduleTo": {
+    "message": "إلى"
+  },
+  "language": {
+    "message": "اللغة"
+  },
+  "languageAuto": {
+    "message": "تلقائي"
+  },
+  "shortcuts": {
+    "message": "اختصارات لوحة المفاتيح"
+  },
+  "shortcutsChange": {
+    "message": "تغيير الاختصارات"
+  },
+  "shortcutNone": {
+    "message": "غير معيّن"
+  },
+  "sitesSearch": {
+    "message": "ابحث في المواقع"
+  },
+  "add": {
+    "message": "إضافة"
+  },
+  "filterAll": {
+    "message": "الكل"
+  },
+  "sitesEmpty": {
+    "message": "لا توجد مواقع للعرض."
+  },
+  "sitesRemove": {
+    "message": "إزالة"
+  },
+  "sitesRemoveAll": {
+    "message": "إزالة الكل"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "هل تريد إزالة جميع المواقع المحفوظة؟"
+  },
+  "sitesSubdomains": {
+    "message": "تسري الإعدادات المحفوظة لنطاق ما على نطاقاته الفرعية أيضًا."
+  },
+  "sitesInvalid": {
+    "message": "أدخل نطاقًا صالحًا، مثل example.com."
+  },
+  "cancel": {
+    "message": "إلغاء"
+  },
+  "backupExport": {
+    "message": "تصدير"
+  },
+  "backupImport": {
+    "message": "استيراد"
+  },
+  "backupHint": {
+    "message": "احفظ إعداداتك ومواقعك في ملف، أو استعدها من ملف."
+  },
+  "backupImported": {
+    "message": "المواقع المستوردة: {count}"
+  },
+  "backupInvalid": {
+    "message": "هذا الملف ليس نسخة احتياطية صالحة."
+  },
+  "aboutLine": {
+    "message": "الإصدار {version} · من تطوير radiowasnton · ترخيص Apache 2.0"
+  },
+  "engine": {
+    "message": "المحرك"
+  },
+  "engineStyles": {
+    "message": "الأنماط"
+  },
+  "engineRender": {
+    "message": "العرض"
+  },
+  "hintEngineStyles": {
+    "message": "يعيد تلوين CSS الصفحة ويترك الصور والمحتوى دون مساس. الأكثر أمانة."
+  },
+  "hintEngineRender": {
+    "message": "يعكس الصفحة المعروضة بمرشّح GPU. يعمل تقريبًا في كل مكان لكنه قد يغيّر الصور."
+  },
+  "hcInvert": {
+    "message": "ألوان معكوسة"
+  },
+  "hcInvertGray": {
+    "message": "تدرّج رمادي معكوس"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "داكن بخلفيات رمادية ناعمة."
+  },
+  "hintOled": {
+    "message": "داكن بخلفيات سوداء خالصة. يوفّر الطاقة على شاشات OLED."
+  },
+  "hcStack": {
+    "message": "فوق الوضع الحالي"
+  },
+  "hintHcStack": {
+    "message": "مفعّل: يطبّق المخطط فوق تغييرات الوضع. معطّل: يعرض المخطط وحده كما كانت الإضافة الأصلية."
+  },
+  "solidBg": {
+    "message": "خلفية موحّدة"
+  },
+  "hintSolidBg": {
+    "message": "يستبدل صور الخلفية والتدرجات اللونية في الصفحة بلون واحد. استخدمه إذا أصبحت الصفحة داكنة قليلًا فقط."
+  }
+}

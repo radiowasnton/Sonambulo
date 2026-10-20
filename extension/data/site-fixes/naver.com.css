@@ -1,0 +1,4 @@
+a::after,
+button::after {
+    filter: invert(85%);
+}

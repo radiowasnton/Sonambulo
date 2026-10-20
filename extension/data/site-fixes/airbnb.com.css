@@ -1,0 +1,13 @@
+html {}
+
+label img {
+    filter: invert(80%);
+}
+
+button svg:not[style*='fill:'] {
+    filter: invert(80%);
+}
+
+button svg[style*='fill: none'] {
+    filter: invert(80%);
+}

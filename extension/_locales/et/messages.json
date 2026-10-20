@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Tume režiim"
+  },
+  "extDescription": {
+    "message": "Öö, elavam kui kunagi varem. Vali iga veebisaidi jaoks tume või hele režiim ja anna oma silmadele ainult parim."
+  },
+  "cmdToggleSite": {
+    "message": "Lülita sellel saidil tume ja tavaline režiim vahel"
+  },
+  "cmdCycleMode": {
+    "message": "Vaheta režiimi: Tume, Filtreeritud, Tavaline"
+  },
+  "cmdToggleContrast": {
+    "message": "Lülita sellel saidil kõrge kontrast sisse või välja"
+  },
+  "cmdTogglePower": {
+    "message": "Peata Sonámbulo või jätka selle kasutamist"
+  },
+  "modeDark": {
+    "message": "Tume"
+  },
+  "modeFiltered": {
+    "message": "Filtreeritud"
+  },
+  "modeNormal": {
+    "message": "Tavaline"
+  },
+  "modeContrast": {
+    "message": "Kõrge kontrast"
+  },
+  "hintFiltered": {
+    "message": "Säilitab algsed värvid ning pehmendab eredust ja sinist valgust"
+  },
+  "hintContrast": {
+    "message": "Lisab valitud režiimile kõrge kontrastsusega stiili"
+  },
+  "statusSaved": {
+    "message": "Salvestatud sellele saidile"
+  },
+  "statusDefault": {
+    "message": "Vaikeseaded"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo on peatatud"
+  },
+  "statusScheduled": {
+    "message": "Ajastatud tundidest väljaspool"
+  },
+  "unsupported": {
+    "message": "Sonámbulo ei saa seda lehte muuta."
+  },
+  "hcBoost": {
+    "message": "Suurendatud"
+  },
+  "hcGray": {
+    "message": "Halltoonid"
+  },
+  "hcYellow": {
+    "message": "Kollane mustal"
+  },
+  "hcCyan": {
+    "message": "Tsüaan mustal"
+  },
+  "hcGreen": {
+    "message": "Roheline mustal"
+  },
+  "hcIntensity": {
+    "message": "Intensiivsus"
+  },
+  "tuneTitle": {
+    "message": "Kohandused"
+  },
+  "tuneBrightness": {
+    "message": "Eredus"
+  },
+  "tuneContrast": {
+    "message": "Kontrast"
+  },
+  "tuneSaturation": {
+    "message": "Küllastus"
+  },
+  "tuneWarmth": {
+    "message": "Sinise valguse filter"
+  },
+  "reset": {
+    "message": "Lähtesta"
+  },
+  "powerPause": {
+    "message": "Peata"
+  },
+  "powerResume": {
+    "message": "Jätka"
+  },
+  "navSettings": {
+    "message": "Seaded"
+  },
+  "tabGeneral": {
+    "message": "Üldine"
+  },
+  "tabSites": {
+    "message": "Veebisaidid"
+  },
+  "tabBackup": {
+    "message": "Varukoopia"
+  },
+  "defaultMode": {
+    "message": "Vaikerežiim"
+  },
+  "followOS": {
+    "message": "Järgi süsteemi teemat"
+  },
+  "followOSHint": {
+    "message": "Salvestatud seadeteta saidid muutuvad tumedaks, kui su süsteem on tumedas režiimis."
+  },
+  "darkScrollbars": {
+    "message": "Tumedad kerimisribad"
+  },
+  "detectDark": {
+    "message": "Tuvasta tumedad saidid"
+  },
+  "detectDarkHint": {
+    "message": "Jätab juba tumedad saidid muutmata."
+  },
+  "schedule": {
+    "message": "Ajakava"
+  },
+  "scheduleFrom": {
+    "message": "Alates"
+  },
+  "scheduleTo": {
+    "message": "Kuni"
+  },
+  "language": {
+    "message": "Keel"
+  },
+  "languageAuto": {
+    "message": "Automaatne"
+  },
+  "shortcuts": {
+    "message": "Kiirklahvid"
+  },
+  "shortcutsChange": {
+    "message": "Muuda kiirklahve"
+  },
+  "shortcutNone": {
+    "message": "Määramata"
+  },
+  "sitesSearch": {
+    "message": "Otsi veebisaite"
+  },
+  "add": {
+    "message": "Lisa"
+  },
+  "filterAll": {
+    "message": "Kõik"
+  },
+  "sitesEmpty": {
+    "message": "Kuvatavaid saite pole."
+  },
+  "sitesRemove": {
+    "message": "Eemalda"
+  },
+  "sitesRemoveAll": {
+    "message": "Eemalda kõik"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Kas eemaldada kõik salvestatud saidid?"
+  },
+  "sitesSubdomains": {
+    "message": "Domeenile salvestatud seaded kehtivad ka selle alamdomeenidele."
+  },
+  "sitesInvalid": {
+    "message": "Sisesta kehtiv domeen, näiteks example.com."
+  },
+  "cancel": {
+    "message": "Tühista"
+  },
+  "backupExport": {
+    "message": "Ekspordi"
+  },
+  "backupImport": {
+    "message": "Impordi"
+  },
+  "backupHint": {
+    "message": "Salvesta oma seaded ja saidid faili või taasta need failist."
+  },
+  "backupImported": {
+    "message": "Imporditud saidid: {count}"
+  },
+  "backupInvalid": {
+    "message": "See fail ei ole kehtiv varukoopia."
+  },
+  "aboutLine": {
+    "message": "Versioon {version} · Autor: radiowasnton · Apache'i litsents 2.0"
+  },
+  "engine": {
+    "message": "Mootor"
+  },
+  "engineStyles": {
+    "message": "Stiilid"
+  },
+  "engineRender": {
+    "message": "Renderdus"
+  },
+  "hintEngineStyles": {
+    "message": "Värvib lehe CSS-i ümber ning jätab pildid ja sisu puutumata. Kõige täpsem."
+  },
+  "hintEngineRender": {
+    "message": "Pöörab juba renderdatud lehe GPU filtriga ümber. Töötab peaaegu kõikjal, kuid võib pilte muuta."
+  },
+  "hcInvert": {
+    "message": "Inverteeritud värvid"
+  },
+  "hcInvertGray": {
+    "message": "Inverteeritud halltoonid"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Tume pehme halli taustaga."
+  },
+  "hintOled": {
+    "message": "Tume puhtalt musta taustaga. Säästab OLED-ekraanidel energiat."
+  },
+  "hcStack": {
+    "message": "Režiimi peale"
+  },
+  "hintHcStack": {
+    "message": "Sees: rakendab skeemi režiimi muudatuste peale. Väljas: näitab ainult skeemi, nagu algne laiendus."
+  },
+  "solidBg": {
+    "message": "Ühtlane taust"
+  },
+  "hintSolidBg": {
+    "message": "Asendab lehe taustapildid ja üleminekud ühtlase värviga. Kasuta, kui leht tumeneb vaid veidi."
+  }
+}

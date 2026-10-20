@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Modalità scura"
+  },
+  "extDescription": {
+    "message": "La notte, più viva che mai. Scegli la modalità scura o chiara per ogni sito e dai ai tuoi occhi solo il meglio."
+  },
+  "cmdToggleSite": {
+    "message": "Alterna modalità scura e normale su questo sito"
+  },
+  "cmdCycleMode": {
+    "message": "Cambia modalità: Scura, Filtrata, Normale"
+  },
+  "cmdToggleContrast": {
+    "message": "Attiva o disattiva l'alto contrasto su questo sito"
+  },
+  "cmdTogglePower": {
+    "message": "Metti in pausa o riprendi Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Scura"
+  },
+  "modeFiltered": {
+    "message": "Filtrata"
+  },
+  "modeNormal": {
+    "message": "Normale"
+  },
+  "modeContrast": {
+    "message": "Alto contrasto"
+  },
+  "hintFiltered": {
+    "message": "Mantiene i colori originali e attenua luminosità e luce blu"
+  },
+  "hintContrast": {
+    "message": "Aggiunge uno stile ad alto contrasto sopra la modalità scelta"
+  },
+  "statusSaved": {
+    "message": "Salvato per questo sito"
+  },
+  "statusDefault": {
+    "message": "Impostazioni predefinite"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo è in pausa"
+  },
+  "statusScheduled": {
+    "message": "Fuori dagli orari programmati"
+  },
+  "unsupported": {
+    "message": "Sonámbulo non può modificare questa pagina."
+  },
+  "hcBoost": {
+    "message": "Aumentato"
+  },
+  "hcGray": {
+    "message": "Scala di grigi"
+  },
+  "hcYellow": {
+    "message": "Giallo su nero"
+  },
+  "hcCyan": {
+    "message": "Ciano su nero"
+  },
+  "hcGreen": {
+    "message": "Verde su nero"
+  },
+  "hcIntensity": {
+    "message": "Intensità"
+  },
+  "tuneTitle": {
+    "message": "Regolazioni"
+  },
+  "tuneBrightness": {
+    "message": "Luminosità"
+  },
+  "tuneContrast": {
+    "message": "Contrasto"
+  },
+  "tuneSaturation": {
+    "message": "Saturazione"
+  },
+  "tuneWarmth": {
+    "message": "Filtro luce blu"
+  },
+  "reset": {
+    "message": "Ripristina"
+  },
+  "powerPause": {
+    "message": "Pausa"
+  },
+  "powerResume": {
+    "message": "Riprendi"
+  },
+  "navSettings": {
+    "message": "Impostazioni"
+  },
+  "tabGeneral": {
+    "message": "Generali"
+  },
+  "tabSites": {
+    "message": "Siti web"
+  },
+  "tabBackup": {
+    "message": "Backup"
+  },
+  "defaultMode": {
+    "message": "Modalità predefinita"
+  },
+  "followOS": {
+    "message": "Segui il tema del sistema"
+  },
+  "followOSHint": {
+    "message": "I siti senza impostazioni salvate diventano scuri quando il sistema è in modalità scura."
+  },
+  "darkScrollbars": {
+    "message": "Barre di scorrimento scure"
+  },
+  "detectDark": {
+    "message": "Rileva i siti scuri"
+  },
+  "detectDarkHint": {
+    "message": "Lascia invariati i siti che sono già scuri."
+  },
+  "schedule": {
+    "message": "Orario"
+  },
+  "scheduleFrom": {
+    "message": "Dalle"
+  },
+  "scheduleTo": {
+    "message": "Alle"
+  },
+  "language": {
+    "message": "Lingua"
+  },
+  "languageAuto": {
+    "message": "Automatica"
+  },
+  "shortcuts": {
+    "message": "Scorciatoie da tastiera"
+  },
+  "shortcutsChange": {
+    "message": "Cambia scorciatoie"
+  },
+  "shortcutNone": {
+    "message": "Non assegnata"
+  },
+  "sitesSearch": {
+    "message": "Cerca siti web"
+  },
+  "add": {
+    "message": "Aggiungi"
+  },
+  "filterAll": {
+    "message": "Tutti"
+  },
+  "sitesEmpty": {
+    "message": "Nessun sito da mostrare."
+  },
+  "sitesRemove": {
+    "message": "Rimuovi"
+  },
+  "sitesRemoveAll": {
+    "message": "Rimuovi tutti"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Rimuovere tutti i siti salvati?"
+  },
+  "sitesSubdomains": {
+    "message": "Le impostazioni salvate per un dominio valgono anche per i suoi sottodomini."
+  },
+  "sitesInvalid": {
+    "message": "Inserisci un dominio valido, come example.com."
+  },
+  "cancel": {
+    "message": "Annulla"
+  },
+  "backupExport": {
+    "message": "Esporta"
+  },
+  "backupImport": {
+    "message": "Importa"
+  },
+  "backupHint": {
+    "message": "Salva le tue impostazioni e i tuoi siti in un file, oppure ripristinali da un file."
+  },
+  "backupImported": {
+    "message": "Siti importati: {count}"
+  },
+  "backupInvalid": {
+    "message": "Questo file non è un backup valido."
+  },
+  "aboutLine": {
+    "message": "Versione {version} · Creato da radiowasnton · Licenza Apache 2.0"
+  },
+  "engine": {
+    "message": "Motore"
+  },
+  "engineStyles": {
+    "message": "Stili"
+  },
+  "engineRender": {
+    "message": "Render"
+  },
+  "hintEngineStyles": {
+    "message": "Ricolora il CSS della pagina e lascia intatti immagini e contenuti. Il più fedele."
+  },
+  "hintEngineRender": {
+    "message": "Inverte la pagina già renderizzata con un filtro GPU. Funziona quasi ovunque, ma può alterare le immagini."
+  },
+  "hcInvert": {
+    "message": "Colori invertiti"
+  },
+  "hcInvertGray": {
+    "message": "Scala di grigi invertita"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Scuro con sfondi grigio tenue."
+  },
+  "hintOled": {
+    "message": "Scuro con sfondi nero puro. Risparmia energia sugli schermi OLED."
+  },
+  "hcStack": {
+    "message": "Sopra la modalità"
+  },
+  "hintHcStack": {
+    "message": "Attivo: applica lo schema sopra le modifiche della modalità. Disattivo: mostra solo lo schema, come faceva l'estensione originale."
+  },
+  "solidBg": {
+    "message": "Sfondo a tinta unita"
+  },
+  "hintSolidBg": {
+    "message": "Sostituisce le immagini e i gradienti di sfondo della pagina con un colore pieno. Usalo se una pagina si scurisce solo un po'."
+  }
+}

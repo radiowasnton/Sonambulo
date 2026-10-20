@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Темний режим"
+  },
+  "extDescription": {
+    "message": "Ніч, живіша, ніж будь-коли. Обирайте темний або світлий режим для кожного сайту й даруйте очам лише найкраще."
+  },
+  "cmdToggleSite": {
+    "message": "Перемкнути темний і звичайний режим на цьому сайті"
+  },
+  "cmdCycleMode": {
+    "message": "Змінити режим: Темний, Фільтр, Звичайний"
+  },
+  "cmdToggleContrast": {
+    "message": "Увімкнути або вимкнути високий контраст на цьому сайті"
+  },
+  "cmdTogglePower": {
+    "message": "Призупинити або відновити Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Темний"
+  },
+  "modeFiltered": {
+    "message": "Фільтр"
+  },
+  "modeNormal": {
+    "message": "Звичайний"
+  },
+  "modeContrast": {
+    "message": "Високий контраст"
+  },
+  "hintFiltered": {
+    "message": "Зберігає початкові кольори та пом'якшує яскравість і синє світло"
+  },
+  "hintContrast": {
+    "message": "Додає стиль із високим контрастом поверх вибраного режиму"
+  },
+  "statusSaved": {
+    "message": "Збережено для цього сайту"
+  },
+  "statusDefault": {
+    "message": "Типові налаштування"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo призупинено"
+  },
+  "statusScheduled": {
+    "message": "Поза запланованим часом"
+  },
+  "unsupported": {
+    "message": "Sonámbulo не може змінити цю сторінку."
+  },
+  "hcBoost": {
+    "message": "Посилений"
+  },
+  "hcGray": {
+    "message": "Відтінки сірого"
+  },
+  "hcYellow": {
+    "message": "Жовтий на чорному"
+  },
+  "hcCyan": {
+    "message": "Блакитний на чорному"
+  },
+  "hcGreen": {
+    "message": "Зелений на чорному"
+  },
+  "hcIntensity": {
+    "message": "Інтенсивність"
+  },
+  "tuneTitle": {
+    "message": "Налаштування"
+  },
+  "tuneBrightness": {
+    "message": "Яскравість"
+  },
+  "tuneContrast": {
+    "message": "Контраст"
+  },
+  "tuneSaturation": {
+    "message": "Насиченість"
+  },
+  "tuneWarmth": {
+    "message": "Фільтр синього світла"
+  },
+  "reset": {
+    "message": "Скинути"
+  },
+  "powerPause": {
+    "message": "Призупинити"
+  },
+  "powerResume": {
+    "message": "Відновити"
+  },
+  "navSettings": {
+    "message": "Налаштування"
+  },
+  "tabGeneral": {
+    "message": "Загальні"
+  },
+  "tabSites": {
+    "message": "Сайти"
+  },
+  "tabBackup": {
+    "message": "Резервна копія"
+  },
+  "defaultMode": {
+    "message": "Типовий режим"
+  },
+  "followOS": {
+    "message": "Дотримуватися теми системи"
+  },
+  "followOSHint": {
+    "message": "Сайти без збережених налаштувань стають темними, коли у вашій системі ввімкнено темну тему."
+  },
+  "darkScrollbars": {
+    "message": "Темні смуги прокручування"
+  },
+  "detectDark": {
+    "message": "Розпізнавати темні сайти"
+  },
+  "detectDarkHint": {
+    "message": "Не змінює сайти, які вже темні."
+  },
+  "schedule": {
+    "message": "Розклад"
+  },
+  "scheduleFrom": {
+    "message": "З"
+  },
+  "scheduleTo": {
+    "message": "До"
+  },
+  "language": {
+    "message": "Мова"
+  },
+  "languageAuto": {
+    "message": "Автоматично"
+  },
+  "shortcuts": {
+    "message": "Сполучення клавіш"
+  },
+  "shortcutsChange": {
+    "message": "Змінити сполучення клавіш"
+  },
+  "shortcutNone": {
+    "message": "Не призначено"
+  },
+  "sitesSearch": {
+    "message": "Пошук сайтів"
+  },
+  "add": {
+    "message": "Додати"
+  },
+  "filterAll": {
+    "message": "Усі"
+  },
+  "sitesEmpty": {
+    "message": "Немає сайтів для показу."
+  },
+  "sitesRemove": {
+    "message": "Видалити"
+  },
+  "sitesRemoveAll": {
+    "message": "Видалити всі"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Видалити всі збережені сайти?"
+  },
+  "sitesSubdomains": {
+    "message": "Налаштування, збережені для домену, застосовуються і до його піддоменів."
+  },
+  "sitesInvalid": {
+    "message": "Введіть дійсний домен, наприклад example.com."
+  },
+  "cancel": {
+    "message": "Скасувати"
+  },
+  "backupExport": {
+    "message": "Експорт"
+  },
+  "backupImport": {
+    "message": "Імпорт"
+  },
+  "backupHint": {
+    "message": "Збережіть налаштування й сайти у файл або відновіть їх із файлу."
+  },
+  "backupImported": {
+    "message": "Імпортовано сайтів: {count}"
+  },
+  "backupInvalid": {
+    "message": "Цей файл не є дійсною резервною копією."
+  },
+  "aboutLine": {
+    "message": "Версія {version} · Автор: radiowasnton · Ліцензія Apache 2.0"
+  },
+  "engine": {
+    "message": "Рушій"
+  },
+  "engineStyles": {
+    "message": "Стилі"
+  },
+  "engineRender": {
+    "message": "Рендер"
+  },
+  "hintEngineStyles": {
+    "message": "Перефарбовує CSS сторінки й не чіпає зображення та вміст. Найточніший."
+  },
+  "hintEngineRender": {
+    "message": "Інвертує вже відрисовану сторінку GPU-фільтром. Працює майже всюди, але може спотворювати зображення."
+  },
+  "hcInvert": {
+    "message": "Інвертовані кольори"
+  },
+  "hcInvertGray": {
+    "message": "Інвертовані відтінки сірого"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Темний режим із м'яким сірим тлом."
+  },
+  "hintOled": {
+    "message": "Темний режим із суто чорним тлом. Заощаджує енергію на OLED-екранах."
+  },
+  "hcStack": {
+    "message": "Поверх режиму"
+  },
+  "hintHcStack": {
+    "message": "Увімк.: застосовує схему поверх змін режиму. Вимк.: показує лише схему, як оригінальне розширення."
+  },
+  "solidBg": {
+    "message": "Суцільний фон"
+  },
+  "hintSolidBg": {
+    "message": "Замінює фонові зображення та градієнти сторінки однотонним кольором. Використовуйте, якщо сторінка темніє лише трохи."
+  }
+}

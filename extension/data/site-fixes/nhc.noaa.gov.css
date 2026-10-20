@@ -1,0 +1,18 @@
+.center,
+.altformatcenter,
+.altformat,
+.header,
+.footer,
+.footer-legal {
+    background-image: none !important;
+    background-color: #1f1f1f !important;
+}
+
+.nhctab_middle_on {
+    background-image: none !important;
+}
+
+.nhctab_middle_off {
+    background-image: none !important;
+    background-color: #4c4c4c !important;
+}

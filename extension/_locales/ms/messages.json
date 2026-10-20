@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Mod Gelap"
+  },
+  "extDescription": {
+    "message": "Malam, lebih hidup berbanding dahulu. Pilih mod gelap atau cerah untuk setiap tapak web dan berikan yang terbaik untuk mata anda."
+  },
+  "cmdToggleSite": {
+    "message": "Tukar antara mod gelap dan biasa pada tapak ini"
+  },
+  "cmdCycleMode": {
+    "message": "Tukar mod: Gelap, Ditapis, Biasa"
+  },
+  "cmdToggleContrast": {
+    "message": "Hidupkan atau matikan kontras tinggi pada tapak ini"
+  },
+  "cmdTogglePower": {
+    "message": "Jeda atau sambung semula Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Gelap"
+  },
+  "modeFiltered": {
+    "message": "Ditapis"
+  },
+  "modeNormal": {
+    "message": "Biasa"
+  },
+  "modeContrast": {
+    "message": "Kontras tinggi"
+  },
+  "hintFiltered": {
+    "message": "Mengekalkan warna asal dan melembutkan kecerahan serta cahaya biru"
+  },
+  "hintContrast": {
+    "message": "Menambah gaya kontras tinggi di atas mod yang dipilih"
+  },
+  "statusSaved": {
+    "message": "Disimpan untuk tapak ini"
+  },
+  "statusDefault": {
+    "message": "Tetapan lalai"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo dijeda"
+  },
+  "statusScheduled": {
+    "message": "Di luar waktu yang dijadualkan"
+  },
+  "unsupported": {
+    "message": "Sonámbulo tidak dapat mengubah halaman ini."
+  },
+  "hcBoost": {
+    "message": "Dipertingkat"
+  },
+  "hcGray": {
+    "message": "Skala kelabu"
+  },
+  "hcYellow": {
+    "message": "Kuning pada hitam"
+  },
+  "hcCyan": {
+    "message": "Sian pada hitam"
+  },
+  "hcGreen": {
+    "message": "Hijau pada hitam"
+  },
+  "hcIntensity": {
+    "message": "Keamatan"
+  },
+  "tuneTitle": {
+    "message": "Pelarasan"
+  },
+  "tuneBrightness": {
+    "message": "Kecerahan"
+  },
+  "tuneContrast": {
+    "message": "Kontras"
+  },
+  "tuneSaturation": {
+    "message": "Ketepuan"
+  },
+  "tuneWarmth": {
+    "message": "Penapis cahaya biru"
+  },
+  "reset": {
+    "message": "Tetap semula"
+  },
+  "powerPause": {
+    "message": "Jeda"
+  },
+  "powerResume": {
+    "message": "Sambung semula"
+  },
+  "navSettings": {
+    "message": "Tetapan"
+  },
+  "tabGeneral": {
+    "message": "Am"
+  },
+  "tabSites": {
+    "message": "Tapak web"
+  },
+  "tabBackup": {
+    "message": "Sandaran"
+  },
+  "defaultMode": {
+    "message": "Mod lalai"
+  },
+  "followOS": {
+    "message": "Ikut tema sistem"
+  },
+  "followOSHint": {
+    "message": "Tapak tanpa tetapan tersimpan menjadi gelap apabila sistem anda dalam mod gelap."
+  },
+  "darkScrollbars": {
+    "message": "Bar skrol gelap"
+  },
+  "detectDark": {
+    "message": "Kesan tapak gelap"
+  },
+  "detectDarkHint": {
+    "message": "Membiarkan tapak yang sudah gelap tidak berubah."
+  },
+  "schedule": {
+    "message": "Jadual"
+  },
+  "scheduleFrom": {
+    "message": "Dari"
+  },
+  "scheduleTo": {
+    "message": "Hingga"
+  },
+  "language": {
+    "message": "Bahasa"
+  },
+  "languageAuto": {
+    "message": "Automatik"
+  },
+  "shortcuts": {
+    "message": "Pintasan papan kekunci"
+  },
+  "shortcutsChange": {
+    "message": "Tukar pintasan"
+  },
+  "shortcutNone": {
+    "message": "Belum ditetapkan"
+  },
+  "sitesSearch": {
+    "message": "Cari tapak web"
+  },
+  "add": {
+    "message": "Tambah"
+  },
+  "filterAll": {
+    "message": "Semua"
+  },
+  "sitesEmpty": {
+    "message": "Tiada tapak untuk dipaparkan."
+  },
+  "sitesRemove": {
+    "message": "Alih keluar"
+  },
+  "sitesRemoveAll": {
+    "message": "Alih keluar semua"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Alih keluar semua tapak yang disimpan?"
+  },
+  "sitesSubdomains": {
+    "message": "Tetapan yang disimpan untuk sesuatu domain turut terpakai pada subdomainnya."
+  },
+  "sitesInvalid": {
+    "message": "Masukkan domain yang sah, contohnya example.com."
+  },
+  "cancel": {
+    "message": "Batal"
+  },
+  "backupExport": {
+    "message": "Eksport"
+  },
+  "backupImport": {
+    "message": "Import"
+  },
+  "backupHint": {
+    "message": "Simpan tetapan dan tapak anda ke dalam fail, atau pulihkan daripada fail."
+  },
+  "backupImported": {
+    "message": "Tapak diimport: {count}"
+  },
+  "backupInvalid": {
+    "message": "Fail itu bukan sandaran yang sah."
+  },
+  "aboutLine": {
+    "message": "Versi {version} · Dibuat oleh radiowasnton · Lesen Apache 2.0"
+  },
+  "engine": {
+    "message": "Enjin"
+  },
+  "engineStyles": {
+    "message": "Gaya"
+  },
+  "engineRender": {
+    "message": "Render"
+  },
+  "hintEngineStyles": {
+    "message": "Mewarna semula CSS halaman dan membiarkan imej serta kandungan tidak berubah. Paling setia."
+  },
+  "hintEngineRender": {
+    "message": "Menyongsangkan halaman yang telah dirender dengan penapis GPU. Berfungsi hampir di mana-mana, tetapi boleh mengubah imej."
+  },
+  "hcInvert": {
+    "message": "Warna songsang"
+  },
+  "hcInvertGray": {
+    "message": "Skala kelabu songsang"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Gelap dengan latar belakang kelabu lembut."
+  },
+  "hintOled": {
+    "message": "Gelap dengan latar belakang hitam pekat. Menjimatkan kuasa pada skrin OLED."
+  },
+  "hcStack": {
+    "message": "Di atas mod"
+  },
+  "hintHcStack": {
+    "message": "Hidup: menggunakan skema di atas perubahan mod. Mati: hanya memaparkan skema, seperti sambungan asal."
+  },
+  "solidBg": {
+    "message": "Latar belakang pepejal"
+  },
+  "hintSolidBg": {
+    "message": "Menggantikan imej dan kecerunan latar belakang halaman dengan satu warna pepejal. Gunakan jika halaman hanya menjadi sedikit gelap."
+  }
+}

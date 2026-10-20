@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Dark Mode"
+  },
+  "extDescription": {
+    "message": "Night, more alive than ever. Choose dark or light mode for every website and give your eyes only the best."
+  },
+  "cmdToggleSite": {
+    "message": "Toggle dark and normal mode on this site"
+  },
+  "cmdCycleMode": {
+    "message": "Cycle mode: Dark, Filtered, Normal"
+  },
+  "cmdToggleContrast": {
+    "message": "Toggle high contrast on this site"
+  },
+  "cmdTogglePower": {
+    "message": "Pause or resume Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Dark"
+  },
+  "modeFiltered": {
+    "message": "Filtered"
+  },
+  "modeNormal": {
+    "message": "Normal"
+  },
+  "modeContrast": {
+    "message": "High contrast"
+  },
+  "hintFiltered": {
+    "message": "Keeps the original colors and softens brightness and blue light"
+  },
+  "hintContrast": {
+    "message": "Adds a high-contrast style on top of the mode"
+  },
+  "statusSaved": {
+    "message": "Saved for this site"
+  },
+  "statusDefault": {
+    "message": "Default settings"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo is paused"
+  },
+  "statusScheduled": {
+    "message": "Outside the scheduled hours"
+  },
+  "unsupported": {
+    "message": "Sonámbulo can't change this page."
+  },
+  "hcBoost": {
+    "message": "Increased"
+  },
+  "hcGray": {
+    "message": "Grayscale"
+  },
+  "hcYellow": {
+    "message": "Yellow on black"
+  },
+  "hcCyan": {
+    "message": "Cyan on black"
+  },
+  "hcGreen": {
+    "message": "Green on black"
+  },
+  "hcIntensity": {
+    "message": "Intensity"
+  },
+  "tuneTitle": {
+    "message": "Adjustments"
+  },
+  "tuneBrightness": {
+    "message": "Brightness"
+  },
+  "tuneContrast": {
+    "message": "Contrast"
+  },
+  "tuneSaturation": {
+    "message": "Saturation"
+  },
+  "tuneWarmth": {
+    "message": "Blue light filter"
+  },
+  "reset": {
+    "message": "Reset"
+  },
+  "powerPause": {
+    "message": "Pause"
+  },
+  "powerResume": {
+    "message": "Resume"
+  },
+  "navSettings": {
+    "message": "Settings"
+  },
+  "tabGeneral": {
+    "message": "General"
+  },
+  "tabSites": {
+    "message": "Websites"
+  },
+  "tabBackup": {
+    "message": "Backup"
+  },
+  "defaultMode": {
+    "message": "Default mode"
+  },
+  "followOS": {
+    "message": "Follow the system theme"
+  },
+  "followOSHint": {
+    "message": "Websites without saved settings turn dark when your system is dark."
+  },
+  "darkScrollbars": {
+    "message": "Dark scrollbars"
+  },
+  "detectDark": {
+    "message": "Detect dark websites"
+  },
+  "detectDarkHint": {
+    "message": "Leaves websites that are already dark untouched."
+  },
+  "schedule": {
+    "message": "Schedule"
+  },
+  "scheduleFrom": {
+    "message": "From"
+  },
+  "scheduleTo": {
+    "message": "To"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "languageAuto": {
+    "message": "Automatic"
+  },
+  "shortcuts": {
+    "message": "Keyboard shortcuts"
+  },
+  "shortcutsChange": {
+    "message": "Change shortcuts"
+  },
+  "shortcutNone": {
+    "message": "Not set"
+  },
+  "sitesSearch": {
+    "message": "Search websites"
+  },
+  "add": {
+    "message": "Add"
+  },
+  "filterAll": {
+    "message": "All"
+  },
+  "sitesEmpty": {
+    "message": "No websites to show."
+  },
+  "sitesRemove": {
+    "message": "Remove"
+  },
+  "sitesRemoveAll": {
+    "message": "Remove all"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Remove all saved websites?"
+  },
+  "sitesSubdomains": {
+    "message": "Settings saved for a domain also apply to its subdomains."
+  },
+  "sitesInvalid": {
+    "message": "Enter a valid domain, like example.com."
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "backupExport": {
+    "message": "Export"
+  },
+  "backupImport": {
+    "message": "Import"
+  },
+  "backupHint": {
+    "message": "Save your settings and websites to a file, or restore them from one."
+  },
+  "backupImported": {
+    "message": "Websites imported: {count}"
+  },
+  "backupInvalid": {
+    "message": "That file is not a valid backup."
+  },
+  "aboutLine": {
+    "message": "Version {version} · Created by radiowasnton · Apache License 2.0"
+  },
+  "engine": {
+    "message": "Engine"
+  },
+  "engineStyles": {
+    "message": "Styles"
+  },
+  "engineRender": {
+    "message": "Render"
+  },
+  "hintEngineStyles": {
+    "message": "Recolors the page's CSS and leaves images and content untouched. The most faithful."
+  },
+  "hintEngineRender": {
+    "message": "Inverts the rendered page with a GPU filter. Works on almost anything, but can alter images."
+  },
+  "hcInvert": {
+    "message": "Inverted color"
+  },
+  "hcInvertGray": {
+    "message": "Inverted grayscale"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Dark with soft gray backgrounds."
+  },
+  "hintOled": {
+    "message": "Dark with pure black backgrounds. Saves power on OLED screens."
+  },
+  "hcStack": {
+    "message": "On top of the mode"
+  },
+  "hintHcStack": {
+    "message": "On: applies the scheme on top of the mode's changes. Off: shows the scheme alone, as the original extension did."
+  },
+  "solidBg": {
+    "message": "Solid background"
+  },
+  "hintSolidBg": {
+    "message": "Replaces the page's background images and gradients with a solid color. Use it when a page only gets slightly darker."
+  }
+}

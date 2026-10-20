@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - இருண்ட பயன்முறை"
+  },
+  "extDescription": {
+    "message": "இரவு, முன்னெப்போதையும் விட உயிர்ப்புடன். தளம்தோறும் இருண்ட அல்லது ஒளிர் பயன்முறையைத் தேர்ந்து, கண்களுக்குச் சிறந்ததை அளியுங்கள்."
+  },
+  "cmdToggleSite": {
+    "message": "இந்தத் தளத்தில் இருண்ட மற்றும் இயல்பு பயன்முறைக்கு இடையே மாற்று"
+  },
+  "cmdCycleMode": {
+    "message": "பயன்முறையை மாற்று: இருண்ட, வடிகட்டிய, இயல்பு"
+  },
+  "cmdToggleContrast": {
+    "message": "இந்தத் தளத்தில் உயர் மாறுபாட்டை இயக்கு அல்லது நிறுத்து"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo-வை இடைநிறுத்து அல்லது தொடர்"
+  },
+  "modeDark": {
+    "message": "இருண்ட"
+  },
+  "modeFiltered": {
+    "message": "வடிகட்டிய"
+  },
+  "modeNormal": {
+    "message": "இயல்பு"
+  },
+  "modeContrast": {
+    "message": "உயர் மாறுபாடு"
+  },
+  "hintFiltered": {
+    "message": "அசல் நிறங்களைப் பாதுகாத்து, பிரகாசத்தையும் நீல ஒளியையும் மென்மையாக்கும்"
+  },
+  "hintContrast": {
+    "message": "தேர்ந்தெடுத்த பயன்முறையின் மேல் உயர் மாறுபாட்டு பாணியைச் சேர்க்கும்"
+  },
+  "statusSaved": {
+    "message": "இந்தத் தளத்துக்காகச் சேமிக்கப்பட்டது"
+  },
+  "statusDefault": {
+    "message": "இயல்புநிலை அமைப்புகள்"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo இடைநிறுத்தப்பட்டுள்ளது"
+  },
+  "statusScheduled": {
+    "message": "திட்டமிட்ட நேரத்துக்கு வெளியே"
+  },
+  "unsupported": {
+    "message": "Sonámbulo இந்தப் பக்கத்தை மாற்ற முடியாது."
+  },
+  "hcBoost": {
+    "message": "மேம்படுத்தப்பட்டது"
+  },
+  "hcGray": {
+    "message": "சாம்பல் நிறத் தரம்"
+  },
+  "hcYellow": {
+    "message": "கருப்பில் மஞ்சள்"
+  },
+  "hcCyan": {
+    "message": "கருப்பில் சியான்"
+  },
+  "hcGreen": {
+    "message": "கருப்பில் பச்சை"
+  },
+  "hcIntensity": {
+    "message": "தீவிரம்"
+  },
+  "tuneTitle": {
+    "message": "சரிசெய்தல்கள்"
+  },
+  "tuneBrightness": {
+    "message": "பிரகாசம்"
+  },
+  "tuneContrast": {
+    "message": "மாறுபாடு"
+  },
+  "tuneSaturation": {
+    "message": "செறிவு"
+  },
+  "tuneWarmth": {
+    "message": "நீல ஒளி வடிகட்டி"
+  },
+  "reset": {
+    "message": "மீட்டமை"
+  },
+  "powerPause": {
+    "message": "இடைநிறுத்து"
+  },
+  "powerResume": {
+    "message": "தொடர்"
+  },
+  "navSettings": {
+    "message": "அமைப்புகள்"
+  },
+  "tabGeneral": {
+    "message": "பொது"
+  },
+  "tabSites": {
+    "message": "இணையதளங்கள்"
+  },
+  "tabBackup": {
+    "message": "காப்புப்பிரதி"
+  },
+  "defaultMode": {
+    "message": "இயல்புநிலை பயன்முறை"
+  },
+  "followOS": {
+    "message": "கணினி தீமைப் பின்பற்று"
+  },
+  "followOSHint": {
+    "message": "சேமித்த அமைப்புகள் இல்லாத தளங்கள், உங்கள் கணினி இருண்ட பயன்முறையில் இருக்கும்போது இருண்டதாக மாறும்."
+  },
+  "darkScrollbars": {
+    "message": "இருண்ட உருள் பட்டைகள்"
+  },
+  "detectDark": {
+    "message": "இருண்ட தளங்களைக் கண்டறி"
+  },
+  "detectDarkHint": {
+    "message": "ஏற்கனவே இருண்டிருக்கும் தளங்களை மாற்றாமல் விட்டுவிடும்."
+  },
+  "schedule": {
+    "message": "அட்டவணை"
+  },
+  "scheduleFrom": {
+    "message": "தொடக்கம்"
+  },
+  "scheduleTo": {
+    "message": "முடிவு"
+  },
+  "language": {
+    "message": "மொழி"
+  },
+  "languageAuto": {
+    "message": "தானியங்கி"
+  },
+  "shortcuts": {
+    "message": "விசைப்பலகை குறுக்குவழிகள்"
+  },
+  "shortcutsChange": {
+    "message": "குறுக்குவழிகளை மாற்று"
+  },
+  "shortcutNone": {
+    "message": "அமைக்கப்படவில்லை"
+  },
+  "sitesSearch": {
+    "message": "இணையதளங்களைத் தேடு"
+  },
+  "add": {
+    "message": "சேர்"
+  },
+  "filterAll": {
+    "message": "அனைத்தும்"
+  },
+  "sitesEmpty": {
+    "message": "காட்டுவதற்குத் தளங்கள் இல்லை."
+  },
+  "sitesRemove": {
+    "message": "அகற்று"
+  },
+  "sitesRemoveAll": {
+    "message": "அனைத்தையும் அகற்று"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "சேமித்த அனைத்து தளங்களையும் அகற்றவா?"
+  },
+  "sitesSubdomains": {
+    "message": "ஒரு டொமைனுக்குச் சேமித்த அமைப்புகள் அதன் துணை டொமைன்களுக்கும் பொருந்தும்."
+  },
+  "sitesInvalid": {
+    "message": "சரியான டொமைனை உள்ளிடவும், எ.கா. example.com."
+  },
+  "cancel": {
+    "message": "ரத்துசெய்"
+  },
+  "backupExport": {
+    "message": "ஏற்றுமதி"
+  },
+  "backupImport": {
+    "message": "இறக்குமதி"
+  },
+  "backupHint": {
+    "message": "உங்கள் அமைப்புகளையும் தளங்களையும் ஒரு கோப்பில் சேமிக்கவும், அல்லது ஒரு கோப்பிலிருந்து மீட்டெடுக்கவும்."
+  },
+  "backupImported": {
+    "message": "இறக்குமதி செய்த தளங்கள்: {count}"
+  },
+  "backupInvalid": {
+    "message": "அந்தக் கோப்பு செல்லுபடியாகும் காப்புப்பிரதி அல்ல."
+  },
+  "aboutLine": {
+    "message": "பதிப்பு {version} · உருவாக்கியவர்: radiowasnton · Apache உரிமம் 2.0"
+  },
+  "engine": {
+    "message": "இயந்திரம்"
+  },
+  "engineStyles": {
+    "message": "பாணிகள்"
+  },
+  "engineRender": {
+    "message": "ரெண்டர்"
+  },
+  "hintEngineStyles": {
+    "message": "பக்கத்தின் CSS நிறங்களை மாற்றி, படங்களையும் உள்ளடக்கத்தையும் தொடாமல் விடும். மிகவும் நம்பகமானது."
+  },
+  "hintEngineRender": {
+    "message": "ஏற்கனவே வரையப்பட்ட பக்கத்தை GPU வடிகட்டியால் தலைகீழாக்கும். கிட்டத்தட்ட எங்கும் வேலை செய்யும், ஆனால் படங்களை மாற்றக்கூடும்."
+  },
+  "hcInvert": {
+    "message": "தலைகீழ் நிறங்கள்"
+  },
+  "hcInvertGray": {
+    "message": "தலைகீழ் சாம்பல் நிறத் தரம்"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "மென்மையான சாம்பல் பின்னணியுடன் இருண்டது."
+  },
+  "hintOled": {
+    "message": "தூய கருப்பு பின்னணியுடன் இருண்டது. OLED திரைகளில் மின்சாரத்தைச் சேமிக்கும்."
+  },
+  "hcStack": {
+    "message": "பயன்முறையின் மேல்"
+  },
+  "hintHcStack": {
+    "message": "இயக்கம்: பயன்முறையின் மாற்றங்களின் மேல் திட்டத்தைப் பயன்படுத்தும். நிறுத்தம்: அசல் நீட்டிப்பைப் போல திட்டத்தை மட்டும் காட்டும்."
+  },
+  "solidBg": {
+    "message": "திட பின்னணி"
+  },
+  "hintSolidBg": {
+    "message": "பக்கத்தின் பின்னணி படங்களையும் வண்ணச் சாய்வுகளையும் ஒரே திட நிறத்தால் மாற்றும். ஒரு பக்கம் சிறிது மட்டுமே இருண்டால் இதைப் பயன்படுத்தவும்."
+  }
+}

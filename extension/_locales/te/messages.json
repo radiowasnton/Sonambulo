@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - డార్క్ మోడ్"
+  },
+  "extDescription": {
+    "message": "రాత్రి, ఎప్పటికంటే మరింత ఉత్సాహంగా. ప్రతి వెబ్‌సైట్‌కు డార్క్ లేదా లైట్ మోడ్‌ను ఎంచుకుని, మీ కళ్లకు అత్యుత్తమమైనదే అందించండి."
+  },
+  "cmdToggleSite": {
+    "message": "ఈ సైట్‌లో డార్క్ మరియు సాధారణ మోడ్ మధ్య మారండి"
+  },
+  "cmdCycleMode": {
+    "message": "మోడ్ మార్చండి: డార్క్, ఫిల్టర్డ్, సాధారణ"
+  },
+  "cmdToggleContrast": {
+    "message": "ఈ సైట్‌లో హై కాంట్రాస్ట్‌ను ఆన్ లేదా ఆఫ్ చేయండి"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo‌ను పాజ్ చేయండి లేదా కొనసాగించండి"
+  },
+  "modeDark": {
+    "message": "డార్క్"
+  },
+  "modeFiltered": {
+    "message": "ఫిల్టర్డ్"
+  },
+  "modeNormal": {
+    "message": "సాధారణ"
+  },
+  "modeContrast": {
+    "message": "హై కాంట్రాస్ట్"
+  },
+  "hintFiltered": {
+    "message": "అసలు రంగులను కాపాడుతూ, ప్రకాశాన్ని మరియు నీలి కాంతిని తగ్గిస్తుంది"
+  },
+  "hintContrast": {
+    "message": "ఎంచుకున్న మోడ్ పైన హై కాంట్రాస్ట్ శైలిని జోడిస్తుంది"
+  },
+  "statusSaved": {
+    "message": "ఈ సైట్ కోసం సేవ్ చేయబడింది"
+  },
+  "statusDefault": {
+    "message": "డిఫాల్ట్ సెట్టింగ్‌లు"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo పాజ్ చేయబడింది"
+  },
+  "statusScheduled": {
+    "message": "షెడ్యూల్ చేసిన సమయాల వెలుపల"
+  },
+  "unsupported": {
+    "message": "Sonámbulo ఈ పేజీని మార్చలేదు."
+  },
+  "hcBoost": {
+    "message": "పెంచిన"
+  },
+  "hcGray": {
+    "message": "గ్రేస్కేల్"
+  },
+  "hcYellow": {
+    "message": "నలుపుపై పసుపు"
+  },
+  "hcCyan": {
+    "message": "నలుపుపై సియాన్"
+  },
+  "hcGreen": {
+    "message": "నలుపుపై ఆకుపచ్చ"
+  },
+  "hcIntensity": {
+    "message": "తీవ్రత"
+  },
+  "tuneTitle": {
+    "message": "సర్దుబాట్లు"
+  },
+  "tuneBrightness": {
+    "message": "ప్రకాశం"
+  },
+  "tuneContrast": {
+    "message": "కాంట్రాస్ట్"
+  },
+  "tuneSaturation": {
+    "message": "సంతృప్తత"
+  },
+  "tuneWarmth": {
+    "message": "నీలి కాంతి ఫిల్టర్"
+  },
+  "reset": {
+    "message": "రీసెట్ చేయండి"
+  },
+  "powerPause": {
+    "message": "పాజ్ చేయండి"
+  },
+  "powerResume": {
+    "message": "కొనసాగించండి"
+  },
+  "navSettings": {
+    "message": "సెట్టింగ్‌లు"
+  },
+  "tabGeneral": {
+    "message": "సాధారణం"
+  },
+  "tabSites": {
+    "message": "వెబ్‌సైట్‌లు"
+  },
+  "tabBackup": {
+    "message": "బ్యాకప్"
+  },
+  "defaultMode": {
+    "message": "డిఫాల్ట్ మోడ్"
+  },
+  "followOS": {
+    "message": "సిస్టమ్ థీమ్‌ను అనుసరించండి"
+  },
+  "followOSHint": {
+    "message": "సేవ్ చేసిన సెట్టింగ్‌లు లేని సైట్‌లు, మీ సిస్టమ్ డార్క్ మోడ్‌లో ఉన్నప్పుడు డార్క్‌గా మారతాయి."
+  },
+  "darkScrollbars": {
+    "message": "డార్క్ స్క్రోల్‌బార్‌లు"
+  },
+  "detectDark": {
+    "message": "డార్క్ సైట్‌లను గుర్తించండి"
+  },
+  "detectDarkHint": {
+    "message": "ఇప్పటికే డార్క్‌గా ఉన్న సైట్‌లను మార్చకుండా వదిలేస్తుంది."
+  },
+  "schedule": {
+    "message": "షెడ్యూల్"
+  },
+  "scheduleFrom": {
+    "message": "నుండి"
+  },
+  "scheduleTo": {
+    "message": "వరకు"
+  },
+  "language": {
+    "message": "భాష"
+  },
+  "languageAuto": {
+    "message": "స్వయంచాలకం"
+  },
+  "shortcuts": {
+    "message": "కీబోర్డ్ షార్ట్‌కట్‌లు"
+  },
+  "shortcutsChange": {
+    "message": "షార్ట్‌కట్‌లను మార్చండి"
+  },
+  "shortcutNone": {
+    "message": "సెట్ చేయలేదు"
+  },
+  "sitesSearch": {
+    "message": "వెబ్‌సైట్‌లను వెతకండి"
+  },
+  "add": {
+    "message": "జోడించండి"
+  },
+  "filterAll": {
+    "message": "అన్నీ"
+  },
+  "sitesEmpty": {
+    "message": "చూపించడానికి సైట్‌లు లేవు."
+  },
+  "sitesRemove": {
+    "message": "తీసివేయండి"
+  },
+  "sitesRemoveAll": {
+    "message": "అన్నీ తీసివేయండి"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "సేవ్ చేసిన అన్ని సైట్‌లను తీసివేయాలా?"
+  },
+  "sitesSubdomains": {
+    "message": "ఒక డొమైన్ కోసం సేవ్ చేసిన సెట్టింగ్‌లు దాని సబ్‌డొమైన్‌లకు కూడా వర్తిస్తాయి."
+  },
+  "sitesInvalid": {
+    "message": "చెల్లుబాటు అయ్యే డొమైన్‌ను నమోదు చేయండి, ఉదా. example.com."
+  },
+  "cancel": {
+    "message": "రద్దు చేయండి"
+  },
+  "backupExport": {
+    "message": "ఎగుమతి"
+  },
+  "backupImport": {
+    "message": "దిగుమతి"
+  },
+  "backupHint": {
+    "message": "మీ సెట్టింగ్‌లను మరియు సైట్‌లను ఫైల్‌లో సేవ్ చేయండి, లేదా ఫైల్ నుండి పునరుద్ధరించండి."
+  },
+  "backupImported": {
+    "message": "దిగుమతి చేసిన సైట్‌లు: {count}"
+  },
+  "backupInvalid": {
+    "message": "ఆ ఫైల్ చెల్లుబాటు అయ్యే బ్యాకప్ కాదు."
+  },
+  "aboutLine": {
+    "message": "వెర్షన్ {version} · రూపకర్త: radiowasnton · Apache లైసెన్స్ 2.0"
+  },
+  "engine": {
+    "message": "ఇంజిన్"
+  },
+  "engineStyles": {
+    "message": "శైలులు"
+  },
+  "engineRender": {
+    "message": "రెండర్"
+  },
+  "hintEngineStyles": {
+    "message": "పేజీ CSS రంగులను మార్చి, చిత్రాలను మరియు కంటెంట్‌ను తాకకుండా వదులుతుంది. అత్యంత నమ్మదగినది."
+  },
+  "hintEngineRender": {
+    "message": "ఇప్పటికే రెండర్ అయిన పేజీని GPU ఫిల్టర్‌తో తలకిందులు చేస్తుంది. దాదాపు ప్రతిచోటా పనిచేస్తుంది, కానీ చిత్రాలను మార్చవచ్చు."
+  },
+  "hcInvert": {
+    "message": "తలకిందులైన రంగులు"
+  },
+  "hcInvertGray": {
+    "message": "తలకిందులైన గ్రేస్కేల్"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "మృదువైన బూడిద నేపథ్యంతో డార్క్."
+  },
+  "hintOled": {
+    "message": "స్వచ్ఛమైన నలుపు నేపథ్యంతో డార్క్. OLED స్క్రీన్‌లపై విద్యుత్తును ఆదా చేస్తుంది."
+  },
+  "hcStack": {
+    "message": "మోడ్ పైన"
+  },
+  "hintHcStack": {
+    "message": "ఆన్: మోడ్ మార్పుల పైన స్కీమ్‌ను వర్తింపజేస్తుంది. ఆఫ్: అసలు ఎక్స్‌టెన్షన్ లాగా స్కీమ్‌ను మాత్రమే చూపుతుంది."
+  },
+  "solidBg": {
+    "message": "ఘన నేపథ్యం"
+  },
+  "hintSolidBg": {
+    "message": "పేజీ నేపథ్య చిత్రాలను మరియు గ్రేడియంట్‌లను ఒకే ఘన రంగుతో భర్తీ చేస్తుంది. పేజీ కొద్దిగా మాత్రమే చీకటి అయితే దీన్ని ఉపయోగించండి."
+  }
+}

@@ -1,0 +1,9 @@
+*[style*="background: url"],
+*[style*="background-image:"],
+#fieldgrass_mobile {
+    background-image: none !important;
+}
+
+table[background] {
+    background-image: none !important;
+}

@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Sötét mód"
+  },
+  "extDescription": {
+    "message": "Az éjszaka, élőbben, mint valaha. Válassz sötét vagy világos módot minden webhelyhez, és add szemednek a legjobbat."
+  },
+  "cmdToggleSite": {
+    "message": "Váltás a sötét és a normál mód között ezen a webhelyen"
+  },
+  "cmdCycleMode": {
+    "message": "Módváltás: Sötét, Szűrt, Normál"
+  },
+  "cmdToggleContrast": {
+    "message": "Magas kontraszt be- vagy kikapcsolása ezen a webhelyen"
+  },
+  "cmdTogglePower": {
+    "message": "A Sonámbulo szüneteltetése vagy folytatása"
+  },
+  "modeDark": {
+    "message": "Sötét"
+  },
+  "modeFiltered": {
+    "message": "Szűrt"
+  },
+  "modeNormal": {
+    "message": "Normál"
+  },
+  "modeContrast": {
+    "message": "Magas kontraszt"
+  },
+  "hintFiltered": {
+    "message": "Megőrzi az eredeti színeket, és csökkenti a fényerőt és a kék fényt"
+  },
+  "hintContrast": {
+    "message": "Magas kontrasztú stílust ad a kiválasztott módhoz"
+  },
+  "statusSaved": {
+    "message": "Mentve ehhez a webhelyhez"
+  },
+  "statusDefault": {
+    "message": "Alapértelmezett beállítások"
+  },
+  "statusPaused": {
+    "message": "A Sonámbulo szünetel"
+  },
+  "statusScheduled": {
+    "message": "Az ütemezett időszakon kívül"
+  },
+  "unsupported": {
+    "message": "A Sonámbulo nem tudja módosítani ezt az oldalt."
+  },
+  "hcBoost": {
+    "message": "Fokozott"
+  },
+  "hcGray": {
+    "message": "Szürkeárnyalat"
+  },
+  "hcYellow": {
+    "message": "Sárga feketén"
+  },
+  "hcCyan": {
+    "message": "Ciánkék feketén"
+  },
+  "hcGreen": {
+    "message": "Zöld feketén"
+  },
+  "hcIntensity": {
+    "message": "Intenzitás"
+  },
+  "tuneTitle": {
+    "message": "Beállítások"
+  },
+  "tuneBrightness": {
+    "message": "Fényerő"
+  },
+  "tuneContrast": {
+    "message": "Kontraszt"
+  },
+  "tuneSaturation": {
+    "message": "Telítettség"
+  },
+  "tuneWarmth": {
+    "message": "Kékfény-szűrő"
+  },
+  "reset": {
+    "message": "Visszaállítás"
+  },
+  "powerPause": {
+    "message": "Szüneteltetés"
+  },
+  "powerResume": {
+    "message": "Folytatás"
+  },
+  "navSettings": {
+    "message": "Beállítások"
+  },
+  "tabGeneral": {
+    "message": "Általános"
+  },
+  "tabSites": {
+    "message": "Webhelyek"
+  },
+  "tabBackup": {
+    "message": "Biztonsági mentés"
+  },
+  "defaultMode": {
+    "message": "Alapértelmezett mód"
+  },
+  "followOS": {
+    "message": "A rendszertéma követése"
+  },
+  "followOSHint": {
+    "message": "A mentett beállítások nélküli webhelyek sötétre váltanak, ha a rendszered sötét módban van."
+  },
+  "darkScrollbars": {
+    "message": "Sötét görgetősávok"
+  },
+  "detectDark": {
+    "message": "Sötét webhelyek felismerése"
+  },
+  "detectDarkHint": {
+    "message": "Érintetlenül hagyja a már eleve sötét webhelyeket."
+  },
+  "schedule": {
+    "message": "Ütemezés"
+  },
+  "scheduleFrom": {
+    "message": "Ettől"
+  },
+  "scheduleTo": {
+    "message": "Eddig"
+  },
+  "language": {
+    "message": "Nyelv"
+  },
+  "languageAuto": {
+    "message": "Automatikus"
+  },
+  "shortcuts": {
+    "message": "Billentyűparancsok"
+  },
+  "shortcutsChange": {
+    "message": "Billentyűparancsok módosítása"
+  },
+  "shortcutNone": {
+    "message": "Nincs beállítva"
+  },
+  "sitesSearch": {
+    "message": "Webhelyek keresése"
+  },
+  "add": {
+    "message": "Hozzáadás"
+  },
+  "filterAll": {
+    "message": "Mind"
+  },
+  "sitesEmpty": {
+    "message": "Nincs megjeleníthető webhely."
+  },
+  "sitesRemove": {
+    "message": "Eltávolítás"
+  },
+  "sitesRemoveAll": {
+    "message": "Összes eltávolítása"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Eltávolítod az összes mentett webhelyet?"
+  },
+  "sitesSubdomains": {
+    "message": "Egy tartományhoz mentett beállítások az altartományaira is érvényesek."
+  },
+  "sitesInvalid": {
+    "message": "Adj meg érvényes tartományt, például example.com."
+  },
+  "cancel": {
+    "message": "Mégse"
+  },
+  "backupExport": {
+    "message": "Exportálás"
+  },
+  "backupImport": {
+    "message": "Importálás"
+  },
+  "backupHint": {
+    "message": "Mentsd a beállításaidat és a webhelyeket fájlba, vagy állítsd vissza őket fájlból."
+  },
+  "backupImported": {
+    "message": "Importált webhelyek: {count}"
+  },
+  "backupInvalid": {
+    "message": "Ez a fájl nem érvényes biztonsági mentés."
+  },
+  "aboutLine": {
+    "message": "Verzió: {version} · Készítette: radiowasnton · Apache-licenc 2.0"
+  },
+  "engine": {
+    "message": "Motor"
+  },
+  "engineStyles": {
+    "message": "Stílusok"
+  },
+  "engineRender": {
+    "message": "Renderelés"
+  },
+  "hintEngineStyles": {
+    "message": "Átszínezi az oldal CSS-ét, a képeket és a tartalmat érintetlenül hagyja. A leghűbb."
+  },
+  "hintEngineRender": {
+    "message": "Egy GPU-szűrővel megfordítja a már megjelenített oldalt. Szinte mindenhol működik, de módosíthatja a képeket."
+  },
+  "hcInvert": {
+    "message": "Invertált színek"
+  },
+  "hcInvertGray": {
+    "message": "Invertált szürkeárnyalat"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Sötét, lágy szürke háttérrel."
+  },
+  "hintOled": {
+    "message": "Sötét, tiszta fekete háttérrel. Energiát takarít meg OLED kijelzőkön."
+  },
+  "hcStack": {
+    "message": "A mód tetejére"
+  },
+  "hintHcStack": {
+    "message": "Be: a sémát a mód módosításaira alkalmazza. Ki: csak a sémát mutatja, mint az eredeti bővítmény."
+  },
+  "solidBg": {
+    "message": "Egyszínű háttér"
+  },
+  "hintSolidBg": {
+    "message": "Az oldal háttérképeit és színátmeneteit egyetlen színre cseréli. Akkor használd, ha az oldal csak kissé sötétedik."
+  }
+}

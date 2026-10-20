@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Hali ya Giza"
+  },
+  "extDescription": {
+    "message": "Usiku, hai zaidi kuliko wakati wowote. Chagua hali ya giza au ya mwanga kwa kila tovuti na ipe macho yako yaliyo bora pekee."
+  },
+  "cmdToggleSite": {
+    "message": "Badilisha kati ya hali ya giza na ya kawaida kwenye tovuti hii"
+  },
+  "cmdCycleMode": {
+    "message": "Badilisha hali: Giza, Iliyochujwa, ya Kawaida"
+  },
+  "cmdToggleContrast": {
+    "message": "Washa au zima utofautishaji wa juu kwenye tovuti hii"
+  },
+  "cmdTogglePower": {
+    "message": "Sitisha au endeleza Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Giza"
+  },
+  "modeFiltered": {
+    "message": "Iliyochujwa"
+  },
+  "modeNormal": {
+    "message": "ya Kawaida"
+  },
+  "modeContrast": {
+    "message": "Utofautishaji wa juu"
+  },
+  "hintFiltered": {
+    "message": "Huhifadhi rangi asili na hupunguza mwangaza na mwanga wa samawati"
+  },
+  "hintContrast": {
+    "message": "Huongeza mtindo wa utofautishaji wa juu juu ya hali iliyochaguliwa"
+  },
+  "statusSaved": {
+    "message": "Imehifadhiwa kwa tovuti hii"
+  },
+  "statusDefault": {
+    "message": "Mipangilio chaguomsingi"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo imesitishwa"
+  },
+  "statusScheduled": {
+    "message": "Nje ya saa zilizopangwa"
+  },
+  "unsupported": {
+    "message": "Sonámbulo haiwezi kubadilisha ukurasa huu."
+  },
+  "hcBoost": {
+    "message": "Iliyoongezwa"
+  },
+  "hcGray": {
+    "message": "Rangi za kijivu"
+  },
+  "hcYellow": {
+    "message": "Manjano kwenye nyeusi"
+  },
+  "hcCyan": {
+    "message": "Samawati-kijani kwenye nyeusi"
+  },
+  "hcGreen": {
+    "message": "Kijani kwenye nyeusi"
+  },
+  "hcIntensity": {
+    "message": "Ukali"
+  },
+  "tuneTitle": {
+    "message": "Marekebisho"
+  },
+  "tuneBrightness": {
+    "message": "Mwangaza"
+  },
+  "tuneContrast": {
+    "message": "Utofautishaji"
+  },
+  "tuneSaturation": {
+    "message": "Msisimko wa rangi"
+  },
+  "tuneWarmth": {
+    "message": "Kichujio cha mwanga wa samawati"
+  },
+  "reset": {
+    "message": "Weka upya"
+  },
+  "powerPause": {
+    "message": "Sitisha"
+  },
+  "powerResume": {
+    "message": "Endelea"
+  },
+  "navSettings": {
+    "message": "Mipangilio"
+  },
+  "tabGeneral": {
+    "message": "Jumla"
+  },
+  "tabSites": {
+    "message": "Tovuti"
+  },
+  "tabBackup": {
+    "message": "Hifadhi nakala"
+  },
+  "defaultMode": {
+    "message": "Hali chaguomsingi"
+  },
+  "followOS": {
+    "message": "Fuata mandhari ya mfumo"
+  },
+  "followOSHint": {
+    "message": "Tovuti zisizo na mipangilio iliyohifadhiwa huwa na giza mfumo wako unapokuwa katika hali ya giza."
+  },
+  "darkScrollbars": {
+    "message": "Pau za kusogeza za giza"
+  },
+  "detectDark": {
+    "message": "Gundua tovuti za giza"
+  },
+  "detectDarkHint": {
+    "message": "Huacha tovuti ambazo tayari ni za giza bila kuzibadilisha."
+  },
+  "schedule": {
+    "message": "Ratiba"
+  },
+  "scheduleFrom": {
+    "message": "Kuanzia"
+  },
+  "scheduleTo": {
+    "message": "Hadi"
+  },
+  "language": {
+    "message": "Lugha"
+  },
+  "languageAuto": {
+    "message": "Kiotomatiki"
+  },
+  "shortcuts": {
+    "message": "Njia za mkato za kibodi"
+  },
+  "shortcutsChange": {
+    "message": "Badilisha njia za mkato"
+  },
+  "shortcutNone": {
+    "message": "Haijawekwa"
+  },
+  "sitesSearch": {
+    "message": "Tafuta tovuti"
+  },
+  "add": {
+    "message": "Ongeza"
+  },
+  "filterAll": {
+    "message": "Zote"
+  },
+  "sitesEmpty": {
+    "message": "Hakuna tovuti za kuonyesha."
+  },
+  "sitesRemove": {
+    "message": "Ondoa"
+  },
+  "sitesRemoveAll": {
+    "message": "Ondoa zote"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Ondoa tovuti zote zilizohifadhiwa?"
+  },
+  "sitesSubdomains": {
+    "message": "Mipangilio iliyohifadhiwa kwa kikoa pia hutumika kwa vikoa vyake vidogo."
+  },
+  "sitesInvalid": {
+    "message": "Weka kikoa halali, kama vile example.com."
+  },
+  "cancel": {
+    "message": "Ghairi"
+  },
+  "backupExport": {
+    "message": "Hamisha nje"
+  },
+  "backupImport": {
+    "message": "Leta"
+  },
+  "backupHint": {
+    "message": "Hifadhi mipangilio na tovuti zako kwenye faili, au zirejeshe kutoka kwenye faili."
+  },
+  "backupImported": {
+    "message": "Tovuti zilizoletwa: {count}"
+  },
+  "backupInvalid": {
+    "message": "Faili hiyo si nakala rudufu halali."
+  },
+  "aboutLine": {
+    "message": "Toleo {version} · Imeundwa na radiowasnton · Leseni ya Apache 2.0"
+  },
+  "engine": {
+    "message": "Injini"
+  },
+  "engineStyles": {
+    "message": "Mitindo"
+  },
+  "engineRender": {
+    "message": "Uonyeshaji"
+  },
+  "hintEngineStyles": {
+    "message": "Hupaka upya rangi za CSS ya ukurasa na huacha picha na maudhui bila kuguswa. Ya kuaminika zaidi."
+  },
+  "hintEngineRender": {
+    "message": "Hugeuza ukurasa uliokwisha onyeshwa kwa kichujio cha GPU. Hufanya kazi karibu kila mahali, lakini inaweza kubadilisha picha."
+  },
+  "hcInvert": {
+    "message": "Rangi zilizogeuzwa"
+  },
+  "hcInvertGray": {
+    "message": "Rangi za kijivu zilizogeuzwa"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Giza chenye mandharinyuma ya kijivu laini."
+  },
+  "hintOled": {
+    "message": "Giza chenye mandharinyuma nyeusi kabisa. Huokoa nishati kwenye skrini za OLED."
+  },
+  "hcStack": {
+    "message": "Juu ya hali"
+  },
+  "hintHcStack": {
+    "message": "Imewashwa: hutumia mpangilio juu ya mabadiliko ya hali. Imezimwa: huonyesha mpangilio pekee, kama kiendelezi asili."
+  },
+  "solidBg": {
+    "message": "Mandharinyuma thabiti"
+  },
+  "hintSolidBg": {
+    "message": "Hubadilisha picha na mchanganyiko wa rangi wa mandharinyuma wa ukurasa kwa rangi moja thabiti. Itumie ukurasa ukiwa unatiwa giza kidogo tu."
+  }
+}

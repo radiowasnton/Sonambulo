@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - ডার্ক মোড"
+  },
+  "extDescription": {
+    "message": "রাত, আগের চেয়ে আরও প্রাণবন্ত। প্রতিটি ওয়েবসাইটের জন্য ডার্ক বা লাইট মোড বেছে নিন এবং আপনার চোখকে শুধু সেরাটাই দিন।"
+  },
+  "cmdToggleSite": {
+    "message": "এই সাইটে ডার্ক ও স্বাভাবিক মোডের মধ্যে পরিবর্তন করুন"
+  },
+  "cmdCycleMode": {
+    "message": "মোড পরিবর্তন করুন: ডার্ক, ফিল্টারড, স্বাভাবিক"
+  },
+  "cmdToggleContrast": {
+    "message": "এই সাইটে হাই কনট্রাস্ট চালু বা বন্ধ করুন"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo বিরতি দিন বা আবার চালু করুন"
+  },
+  "modeDark": {
+    "message": "ডার্ক"
+  },
+  "modeFiltered": {
+    "message": "ফিল্টারড"
+  },
+  "modeNormal": {
+    "message": "স্বাভাবিক"
+  },
+  "modeContrast": {
+    "message": "হাই কনট্রাস্ট"
+  },
+  "hintFiltered": {
+    "message": "আসল রং বজায় রাখে এবং উজ্জ্বলতা ও নীল আলো কমায়"
+  },
+  "hintContrast": {
+    "message": "বেছে নেওয়া মোডের ওপর একটি হাই কনট্রাস্ট স্টাইল যোগ করে"
+  },
+  "statusSaved": {
+    "message": "এই সাইটের জন্য সংরক্ষিত"
+  },
+  "statusDefault": {
+    "message": "ডিফল্ট সেটিংস"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo বিরতিতে আছে"
+  },
+  "statusScheduled": {
+    "message": "নির্ধারিত সময়ের বাইরে"
+  },
+  "unsupported": {
+    "message": "Sonámbulo এই পৃষ্ঠাটি পরিবর্তন করতে পারে না।"
+  },
+  "hcBoost": {
+    "message": "বর্ধিত"
+  },
+  "hcGray": {
+    "message": "গ্রেস্কেল"
+  },
+  "hcYellow": {
+    "message": "কালোর ওপর হলুদ"
+  },
+  "hcCyan": {
+    "message": "কালোর ওপর সায়ান"
+  },
+  "hcGreen": {
+    "message": "কালোর ওপর সবুজ"
+  },
+  "hcIntensity": {
+    "message": "তীব্রতা"
+  },
+  "tuneTitle": {
+    "message": "সমন্বয়"
+  },
+  "tuneBrightness": {
+    "message": "উজ্জ্বলতা"
+  },
+  "tuneContrast": {
+    "message": "কনট্রাস্ট"
+  },
+  "tuneSaturation": {
+    "message": "স্যাচুরেশন"
+  },
+  "tuneWarmth": {
+    "message": "নীল আলোর ফিল্টার"
+  },
+  "reset": {
+    "message": "রিসেট করুন"
+  },
+  "powerPause": {
+    "message": "বিরতি"
+  },
+  "powerResume": {
+    "message": "আবার চালু করুন"
+  },
+  "navSettings": {
+    "message": "সেটিংস"
+  },
+  "tabGeneral": {
+    "message": "সাধারণ"
+  },
+  "tabSites": {
+    "message": "ওয়েবসাইট"
+  },
+  "tabBackup": {
+    "message": "ব্যাকআপ"
+  },
+  "defaultMode": {
+    "message": "ডিফল্ট মোড"
+  },
+  "followOS": {
+    "message": "সিস্টেমের থিম অনুসরণ করুন"
+  },
+  "followOSHint": {
+    "message": "সংরক্ষিত সেটিংস না থাকা সাইটগুলো আপনার সিস্টেম ডার্ক মোডে থাকলে ডার্ক হয়ে যায়।"
+  },
+  "darkScrollbars": {
+    "message": "ডার্ক স্ক্রলবার"
+  },
+  "detectDark": {
+    "message": "ডার্ক সাইট শনাক্ত করুন"
+  },
+  "detectDarkHint": {
+    "message": "যে সাইটগুলো আগে থেকেই ডার্ক সেগুলোতে হাত দেয় না।"
+  },
+  "schedule": {
+    "message": "সময়সূচি"
+  },
+  "scheduleFrom": {
+    "message": "থেকে"
+  },
+  "scheduleTo": {
+    "message": "পর্যন্ত"
+  },
+  "language": {
+    "message": "ভাষা"
+  },
+  "languageAuto": {
+    "message": "স্বয়ংক্রিয়"
+  },
+  "shortcuts": {
+    "message": "কীবোর্ড শর্টকাট"
+  },
+  "shortcutsChange": {
+    "message": "শর্টকাট পরিবর্তন করুন"
+  },
+  "shortcutNone": {
+    "message": "সেট করা নেই"
+  },
+  "sitesSearch": {
+    "message": "ওয়েবসাইট খুঁজুন"
+  },
+  "add": {
+    "message": "যোগ করুন"
+  },
+  "filterAll": {
+    "message": "সব"
+  },
+  "sitesEmpty": {
+    "message": "দেখানোর মতো কোনো ওয়েবসাইট নেই।"
+  },
+  "sitesRemove": {
+    "message": "সরান"
+  },
+  "sitesRemoveAll": {
+    "message": "সব সরান"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "সংরক্ষিত সব ওয়েবসাইট সরাবেন?"
+  },
+  "sitesSubdomains": {
+    "message": "কোনো ডোমেনের জন্য সংরক্ষিত সেটিংস তার সাবডোমেনেও প্রযোজ্য হয়।"
+  },
+  "sitesInvalid": {
+    "message": "একটি বৈধ ডোমেন লিখুন, যেমন example.com।"
+  },
+  "cancel": {
+    "message": "বাতিল"
+  },
+  "backupExport": {
+    "message": "এক্সপোর্ট"
+  },
+  "backupImport": {
+    "message": "ইমপোর্ট"
+  },
+  "backupHint": {
+    "message": "আপনার সেটিংস ও ওয়েবসাইট একটি ফাইলে সংরক্ষণ করুন, অথবা কোনো ফাইল থেকে পুনরুদ্ধার করুন।"
+  },
+  "backupImported": {
+    "message": "ইমপোর্ট করা ওয়েবসাইট: {count}"
+  },
+  "backupInvalid": {
+    "message": "এই ফাইলটি একটি বৈধ ব্যাকআপ নয়।"
+  },
+  "aboutLine": {
+    "message": "সংস্করণ {version} · নির্মাতা: radiowasnton · Apache লাইসেন্স 2.0"
+  },
+  "engine": {
+    "message": "ইঞ্জিন"
+  },
+  "engineStyles": {
+    "message": "স্টাইল"
+  },
+  "engineRender": {
+    "message": "রেন্ডার"
+  },
+  "hintEngineStyles": {
+    "message": "পৃষ্ঠার CSS-এর রং বদলায় এবং ছবি ও বিষয়বস্তুতে হাত দেয় না। সবচেয়ে নিখুঁত।"
+  },
+  "hintEngineRender": {
+    "message": "ইতিমধ্যে রেন্ডার হওয়া পৃষ্ঠাকে GPU ফিল্টার দিয়ে উল্টে দেয়। প্রায় সবখানে কাজ করে, তবে ছবি বদলে যেতে পারে।"
+  },
+  "hcInvert": {
+    "message": "উল্টানো রং"
+  },
+  "hcInvertGray": {
+    "message": "উল্টানো গ্রেস্কেল"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "নরম ধূসর ব্যাকগ্রাউন্ডসহ ডার্ক।"
+  },
+  "hintOled": {
+    "message": "খাঁটি কালো ব্যাকগ্রাউন্ডসহ ডার্ক। OLED স্ক্রিনে বিদ্যুৎ সাশ্রয় করে।"
+  },
+  "hcStack": {
+    "message": "মোডের ওপর"
+  },
+  "hintHcStack": {
+    "message": "চালু: মোডের পরিবর্তনের ওপর স্কিম প্রয়োগ করে। বন্ধ: শুধু স্কিম দেখায়, মূল এক্সটেনশনের মতো।"
+  },
+  "solidBg": {
+    "message": "সলিড ব্যাকগ্রাউন্ড"
+  },
+  "hintSolidBg": {
+    "message": "পৃষ্ঠার ব্যাকগ্রাউন্ড ছবি ও গ্রেডিয়েন্টকে একটি নিরেট রঙ দিয়ে বদলে দেয়। কোনো পৃষ্ঠা সামান্য গাঢ় হলে এটি ব্যবহার করুন।"
+  }
+}

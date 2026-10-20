@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - ડાર્ક મોડ"
+  },
+  "extDescription": {
+    "message": "રાત, પહેલાં કરતાં વધુ જીવંત. દરેક વેબસાઇટ માટે ડાર્ક અથવા લાઇટ મોડ પસંદ કરો અને તમારી આંખોને ફક્ત શ્રેષ્ઠ આપો."
+  },
+  "cmdToggleSite": {
+    "message": "આ સાઇટ પર ડાર્ક અને સામાન્ય મોડ વચ્ચે બદલો"
+  },
+  "cmdCycleMode": {
+    "message": "મોડ બદલો: ડાર્ક, ફિલ્ટર્ડ, સામાન્ય"
+  },
+  "cmdToggleContrast": {
+    "message": "આ સાઇટ પર હાઇ કોન્ટ્રાસ્ટ ચાલુ અથવા બંધ કરો"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo થોભાવો અથવા ફરી શરૂ કરો"
+  },
+  "modeDark": {
+    "message": "ડાર્ક"
+  },
+  "modeFiltered": {
+    "message": "ફિલ્ટર્ડ"
+  },
+  "modeNormal": {
+    "message": "સામાન્ય"
+  },
+  "modeContrast": {
+    "message": "હાઇ કોન્ટ્રાસ્ટ"
+  },
+  "hintFiltered": {
+    "message": "મૂળ રંગો જાળવી રાખે છે અને તેજ તથા વાદળી પ્રકાશને હળવો કરે છે"
+  },
+  "hintContrast": {
+    "message": "પસંદ કરેલા મોડ પર હાઇ કોન્ટ્રાસ્ટ શૈલી ઉમેરે છે"
+  },
+  "statusSaved": {
+    "message": "આ સાઇટ માટે સાચવ્યું"
+  },
+  "statusDefault": {
+    "message": "ડિફોલ્ટ સેટિંગ્સ"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo થોભાવેલ છે"
+  },
+  "statusScheduled": {
+    "message": "નિર્ધારિત સમયની બહાર"
+  },
+  "unsupported": {
+    "message": "Sonámbulo આ પૃષ્ઠ બદલી શકતું નથી."
+  },
+  "hcBoost": {
+    "message": "વધારેલ"
+  },
+  "hcGray": {
+    "message": "ગ્રેસ્કેલ"
+  },
+  "hcYellow": {
+    "message": "કાળા પર પીળો"
+  },
+  "hcCyan": {
+    "message": "કાળા પર સાયાન"
+  },
+  "hcGreen": {
+    "message": "કાળા પર લીલો"
+  },
+  "hcIntensity": {
+    "message": "તીવ્રતા"
+  },
+  "tuneTitle": {
+    "message": "ગોઠવણો"
+  },
+  "tuneBrightness": {
+    "message": "તેજ"
+  },
+  "tuneContrast": {
+    "message": "કોન્ટ્રાસ્ટ"
+  },
+  "tuneSaturation": {
+    "message": "સંતૃપ્તતા"
+  },
+  "tuneWarmth": {
+    "message": "વાદળી પ્રકાશ ફિલ્ટર"
+  },
+  "reset": {
+    "message": "રીસેટ કરો"
+  },
+  "powerPause": {
+    "message": "થોભાવો"
+  },
+  "powerResume": {
+    "message": "ફરી શરૂ કરો"
+  },
+  "navSettings": {
+    "message": "સેટિંગ્સ"
+  },
+  "tabGeneral": {
+    "message": "સામાન્ય"
+  },
+  "tabSites": {
+    "message": "વેબસાઇટ્સ"
+  },
+  "tabBackup": {
+    "message": "બેકઅપ"
+  },
+  "defaultMode": {
+    "message": "ડિફોલ્ટ મોડ"
+  },
+  "followOS": {
+    "message": "સિસ્ટમ થીમને અનુસરો"
+  },
+  "followOSHint": {
+    "message": "સાચવેલી સેટિંગ્સ વગરની સાઇટ્સ, તમારી સિસ્ટમ ડાર્ક મોડમાં હોય ત્યારે ડાર્ક બને છે."
+  },
+  "darkScrollbars": {
+    "message": "ડાર્ક સ્ક્રોલબાર"
+  },
+  "detectDark": {
+    "message": "ડાર્ક સાઇટ્સ શોધો"
+  },
+  "detectDarkHint": {
+    "message": "પહેલેથી ડાર્ક હોય તેવી સાઇટ્સને યથાવત્ રાખે છે."
+  },
+  "schedule": {
+    "message": "સમયપત્રક"
+  },
+  "scheduleFrom": {
+    "message": "થી"
+  },
+  "scheduleTo": {
+    "message": "સુધી"
+  },
+  "language": {
+    "message": "ભાષા"
+  },
+  "languageAuto": {
+    "message": "સ્વચાલિત"
+  },
+  "shortcuts": {
+    "message": "કીબોર્ડ શૉર્ટકટ્સ"
+  },
+  "shortcutsChange": {
+    "message": "શૉર્ટકટ્સ બદલો"
+  },
+  "shortcutNone": {
+    "message": "સેટ કરેલ નથી"
+  },
+  "sitesSearch": {
+    "message": "વેબસાઇટ્સ શોધો"
+  },
+  "add": {
+    "message": "ઉમેરો"
+  },
+  "filterAll": {
+    "message": "બધી"
+  },
+  "sitesEmpty": {
+    "message": "બતાવવા માટે કોઈ સાઇટ્સ નથી."
+  },
+  "sitesRemove": {
+    "message": "દૂર કરો"
+  },
+  "sitesRemoveAll": {
+    "message": "બધી દૂર કરો"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "સાચવેલી બધી સાઇટ્સ દૂર કરવી છે?"
+  },
+  "sitesSubdomains": {
+    "message": "ડોમેન માટે સાચવેલી સેટિંગ્સ તેના સબડોમેન્સને પણ લાગુ પડે છે."
+  },
+  "sitesInvalid": {
+    "message": "માન્ય ડોમેન દાખલ કરો, જેમ કે example.com."
+  },
+  "cancel": {
+    "message": "રદ કરો"
+  },
+  "backupExport": {
+    "message": "નિકાસ કરો"
+  },
+  "backupImport": {
+    "message": "આયાત કરો"
+  },
+  "backupHint": {
+    "message": "તમારી સેટિંગ્સ અને સાઇટ્સ ફાઇલમાં સાચવો, અથવા ફાઇલમાંથી પુનઃસ્થાપિત કરો."
+  },
+  "backupImported": {
+    "message": "આયાત કરેલી સાઇટ્સ: {count}"
+  },
+  "backupInvalid": {
+    "message": "તે ફાઇલ માન્ય બેકઅપ નથી."
+  },
+  "aboutLine": {
+    "message": "સંસ્કરણ {version} · નિર્માતા: radiowasnton · Apache લાઇસન્સ 2.0"
+  },
+  "engine": {
+    "message": "એન્જિન"
+  },
+  "engineStyles": {
+    "message": "શૈલીઓ"
+  },
+  "engineRender": {
+    "message": "રેન્ડર"
+  },
+  "hintEngineStyles": {
+    "message": "પૃષ્ઠના CSS રંગો બદલે છે અને છબીઓ તથા સામગ્રીને અડતું નથી. સૌથી ચોક્કસ."
+  },
+  "hintEngineRender": {
+    "message": "પહેલેથી રેન્ડર થયેલા પૃષ્ઠને GPU ફિલ્ટરથી ઉલટાવે છે. લગભગ બધે ચાલે છે, પણ છબીઓ બદલાઈ શકે છે."
+  },
+  "hcInvert": {
+    "message": "ઉલટાવેલા રંગો"
+  },
+  "hcInvertGray": {
+    "message": "ઉલટાવેલ ગ્રેસ્કેલ"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "નરમ રાખોડી પૃષ્ઠભૂમિ સાથે ડાર્ક."
+  },
+  "hintOled": {
+    "message": "શુદ્ધ કાળી પૃષ્ઠભૂમિ સાથે ડાર્ક. OLED સ્ક્રીન પર વીજળી બચાવે છે."
+  },
+  "hcStack": {
+    "message": "મોડની ઉપર"
+  },
+  "hintHcStack": {
+    "message": "ચાલુ: મોડના ફેરફારો પર યોજના લાગુ કરે છે. બંધ: મૂળ એક્સટેન્શનની જેમ ફક્ત યોજના બતાવે છે."
+  },
+  "solidBg": {
+    "message": "ઘન પૃષ્ઠભૂમિ"
+  },
+  "hintSolidBg": {
+    "message": "પૃષ્ઠની પૃષ્ઠભૂમિની છબીઓ અને ગ્રેડિયન્ટને એક ઘન રંગથી બદલે છે. કોઈ પૃષ્ઠ માત્ર થોડું જ ઘેરું થાય ત્યારે વાપરો."
+  }
+}

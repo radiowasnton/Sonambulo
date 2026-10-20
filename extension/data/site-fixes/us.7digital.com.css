@@ -1,0 +1,10 @@
+.page-container {
+    background-image: none !important;
+    background-color: #1a1a1a !important;
+}
+
+.feature-packshot,
+.packshot {
+    background-color: #202020 !important;
+    background-image: none !important;
+}

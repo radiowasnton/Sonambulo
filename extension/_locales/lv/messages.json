@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Tumšais režīms"
+  },
+  "extDescription": {
+    "message": "Nakts, dzīvāka nekā jebkad. Izvēlieties tumšo vai gaišo režīmu katrai vietnei un dāviniet savām acīm tikai labāko."
+  },
+  "cmdToggleSite": {
+    "message": "Pārslēgt tumšo un parasto režīmu šajā vietnē"
+  },
+  "cmdCycleMode": {
+    "message": "Mainīt režīmu: tumšais, filtrētais, parastais"
+  },
+  "cmdToggleContrast": {
+    "message": "Ieslēgt vai izslēgt augstu kontrastu šajā vietnē"
+  },
+  "cmdTogglePower": {
+    "message": "Apturēt vai atsākt Sonámbulo darbību"
+  },
+  "modeDark": {
+    "message": "Tumšais"
+  },
+  "modeFiltered": {
+    "message": "Filtrētais"
+  },
+  "modeNormal": {
+    "message": "Parastais"
+  },
+  "modeContrast": {
+    "message": "Augsts kontrasts"
+  },
+  "hintFiltered": {
+    "message": "Saglabā oriģinālās krāsas un mīkstina spilgtumu un zilo gaismu"
+  },
+  "hintContrast": {
+    "message": "Pievieno augsta kontrasta stilu izvēlētajam režīmam"
+  },
+  "statusSaved": {
+    "message": "Saglabāts šai vietnei"
+  },
+  "statusDefault": {
+    "message": "Noklusējuma iestatījumi"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo darbība ir apturēta"
+  },
+  "statusScheduled": {
+    "message": "Ārpus plānotā laika"
+  },
+  "unsupported": {
+    "message": "Sonámbulo nevar mainīt šo lapu."
+  },
+  "hcBoost": {
+    "message": "Pastiprināts"
+  },
+  "hcGray": {
+    "message": "Pelēktoņi"
+  },
+  "hcYellow": {
+    "message": "Dzeltens uz melna"
+  },
+  "hcCyan": {
+    "message": "Ciāns uz melna"
+  },
+  "hcGreen": {
+    "message": "Zaļš uz melna"
+  },
+  "hcIntensity": {
+    "message": "Intensitāte"
+  },
+  "tuneTitle": {
+    "message": "Pielāgojumi"
+  },
+  "tuneBrightness": {
+    "message": "Spilgtums"
+  },
+  "tuneContrast": {
+    "message": "Kontrasts"
+  },
+  "tuneSaturation": {
+    "message": "Piesātinājums"
+  },
+  "tuneWarmth": {
+    "message": "Zilās gaismas filtrs"
+  },
+  "reset": {
+    "message": "Atiestatīt"
+  },
+  "powerPause": {
+    "message": "Apturēt"
+  },
+  "powerResume": {
+    "message": "Atsākt"
+  },
+  "navSettings": {
+    "message": "Iestatījumi"
+  },
+  "tabGeneral": {
+    "message": "Vispārīgi"
+  },
+  "tabSites": {
+    "message": "Vietnes"
+  },
+  "tabBackup": {
+    "message": "Rezerves kopija"
+  },
+  "defaultMode": {
+    "message": "Noklusējuma režīms"
+  },
+  "followOS": {
+    "message": "Sekot sistēmas motīvam"
+  },
+  "followOSHint": {
+    "message": "Vietnes bez saglabātiem iestatījumiem kļūst tumšas, kad jūsu sistēma izmanto tumšo režīmu."
+  },
+  "darkScrollbars": {
+    "message": "Tumšās ritjoslas"
+  },
+  "detectDark": {
+    "message": "Noteikt tumšās vietnes"
+  },
+  "detectDarkHint": {
+    "message": "Neskar vietnes, kas jau ir tumšas."
+  },
+  "schedule": {
+    "message": "Grafiks"
+  },
+  "scheduleFrom": {
+    "message": "No"
+  },
+  "scheduleTo": {
+    "message": "Līdz"
+  },
+  "language": {
+    "message": "Valoda"
+  },
+  "languageAuto": {
+    "message": "Automātiski"
+  },
+  "shortcuts": {
+    "message": "Īsinājumtaustiņi"
+  },
+  "shortcutsChange": {
+    "message": "Mainīt īsinājumtaustiņus"
+  },
+  "shortcutNone": {
+    "message": "Nav iestatīts"
+  },
+  "sitesSearch": {
+    "message": "Meklēt vietnes"
+  },
+  "add": {
+    "message": "Pievienot"
+  },
+  "filterAll": {
+    "message": "Visas"
+  },
+  "sitesEmpty": {
+    "message": "Nav rādāmu vietņu."
+  },
+  "sitesRemove": {
+    "message": "Noņemt"
+  },
+  "sitesRemoveAll": {
+    "message": "Noņemt visas"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Vai noņemt visas saglabātās vietnes?"
+  },
+  "sitesSubdomains": {
+    "message": "Domēnam saglabātie iestatījumi attiecas arī uz tā apakšdomēniem."
+  },
+  "sitesInvalid": {
+    "message": "Ievadiet derīgu domēnu, piemēram, example.com."
+  },
+  "cancel": {
+    "message": "Atcelt"
+  },
+  "backupExport": {
+    "message": "Eksportēt"
+  },
+  "backupImport": {
+    "message": "Importēt"
+  },
+  "backupHint": {
+    "message": "Saglabājiet iestatījumus un vietnes failā vai atjaunojiet tos no faila."
+  },
+  "backupImported": {
+    "message": "Importētās vietnes: {count}"
+  },
+  "backupInvalid": {
+    "message": "Šis fails nav derīga rezerves kopija."
+  },
+  "aboutLine": {
+    "message": "Versija {version} · Autors: radiowasnton · Apache licence 2.0"
+  },
+  "engine": {
+    "message": "Dzinējs"
+  },
+  "engineStyles": {
+    "message": "Stili"
+  },
+  "engineRender": {
+    "message": "Renderēšana"
+  },
+  "hintEngineStyles": {
+    "message": "Pārkrāso lapas CSS un neskar attēlus un saturu. Visprecīzākais."
+  },
+  "hintEngineRender": {
+    "message": "Apvērš jau renderēto lapu ar GPU filtru. Darbojas gandrīz visur, taču var izmainīt attēlus."
+  },
+  "hcInvert": {
+    "message": "Invertētas krāsas"
+  },
+  "hcInvertGray": {
+    "message": "Invertēti pelēktoņi"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Tumšs ar maigu pelēku fonu."
+  },
+  "hintOled": {
+    "message": "Tumšs ar tīri melnu fonu. Taupa enerģiju OLED ekrānos."
+  },
+  "hcStack": {
+    "message": "Papildus režīmam"
+  },
+  "hintHcStack": {
+    "message": "Ieslēgts: lieto shēmu papildus režīma izmaiņām. Izslēgts: rāda tikai shēmu, kā oriģinālais paplašinājums."
+  },
+  "solidBg": {
+    "message": "Vienkrāsains fons"
+  },
+  "hintSolidBg": {
+    "message": "Aizstāj lapas fona attēlus un pārejas ar vienu krāsu. Izmantojiet, ja lapa satumst tikai nedaudz."
+  }
+}

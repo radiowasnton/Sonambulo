@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - ጨለማ ሁነታ"
+  },
+  "extDescription": {
+    "message": "ሌሊቱ፣ ከመቼውም ጊዜ በላይ ሕያው። ለእያንዳንዱ ድር ጣቢያ ጨለማ ወይም ብሩህ ሁነታ ይምረጡ፣ ለዓይኖችዎም ምርጡን ብቻ ይስጡ።"
+  },
+  "cmdToggleSite": {
+    "message": "በዚህ ጣቢያ ላይ በጨለማ እና በመደበኛ ሁነታ መካከል ቀይር"
+  },
+  "cmdCycleMode": {
+    "message": "ሁነታ ቀይር፦ ጨለማ፣ የተጣራ፣ መደበኛ"
+  },
+  "cmdToggleContrast": {
+    "message": "በዚህ ጣቢያ ላይ ከፍተኛ ንጽጽርን አብራ ወይም አጥፋ"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo አቁም ወይም ቀጥል"
+  },
+  "modeDark": {
+    "message": "ጨለማ"
+  },
+  "modeFiltered": {
+    "message": "የተጣራ"
+  },
+  "modeNormal": {
+    "message": "መደበኛ"
+  },
+  "modeContrast": {
+    "message": "ከፍተኛ ንጽጽር"
+  },
+  "hintFiltered": {
+    "message": "ዋናዎቹን ቀለሞች ይጠብቃል፣ ብሩህነትንና ሰማያዊ ብርሃንን ያለዝባል"
+  },
+  "hintContrast": {
+    "message": "በተመረጠው ሁነታ ላይ የከፍተኛ ንጽጽር ዘይቤ ይጨምራል"
+  },
+  "statusSaved": {
+    "message": "ለዚህ ጣቢያ ተቀምጧል"
+  },
+  "statusDefault": {
+    "message": "ነባሪ ቅንብሮች"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo ቆሟል"
+  },
+  "statusScheduled": {
+    "message": "ከተያዘለት ሰዓት ውጭ"
+  },
+  "unsupported": {
+    "message": "Sonámbulo ይህን ገጽ መቀየር አይችልም።"
+  },
+  "hcBoost": {
+    "message": "የተጠናከረ"
+  },
+  "hcGray": {
+    "message": "ግራጫ ቀለም"
+  },
+  "hcYellow": {
+    "message": "በጥቁር ላይ ቢጫ"
+  },
+  "hcCyan": {
+    "message": "በጥቁር ላይ ሲያን"
+  },
+  "hcGreen": {
+    "message": "በጥቁር ላይ አረንጓዴ"
+  },
+  "hcIntensity": {
+    "message": "ጥንካሬ"
+  },
+  "tuneTitle": {
+    "message": "ማስተካከያዎች"
+  },
+  "tuneBrightness": {
+    "message": "ብሩህነት"
+  },
+  "tuneContrast": {
+    "message": "ንጽጽር"
+  },
+  "tuneSaturation": {
+    "message": "ሙሌት"
+  },
+  "tuneWarmth": {
+    "message": "የሰማያዊ ብርሃን ማጣሪያ"
+  },
+  "reset": {
+    "message": "ዳግም አስጀምር"
+  },
+  "powerPause": {
+    "message": "አቁም"
+  },
+  "powerResume": {
+    "message": "ቀጥል"
+  },
+  "navSettings": {
+    "message": "ቅንብሮች"
+  },
+  "tabGeneral": {
+    "message": "አጠቃላይ"
+  },
+  "tabSites": {
+    "message": "ድር ጣቢያዎች"
+  },
+  "tabBackup": {
+    "message": "ምትኬ"
+  },
+  "defaultMode": {
+    "message": "ነባሪ ሁነታ"
+  },
+  "followOS": {
+    "message": "የሥርዓቱን ገጽታ ተከተል"
+  },
+  "followOSHint": {
+    "message": "የተቀመጡ ቅንብሮች የሌሏቸው ጣቢያዎች ሥርዓትዎ በጨለማ ሁነታ ላይ ሲሆን ይጨልማሉ።"
+  },
+  "darkScrollbars": {
+    "message": "ጨለማ የማሸብለያ አሞሌዎች"
+  },
+  "detectDark": {
+    "message": "ጨለማ ጣቢያዎችን ለይ"
+  },
+  "detectDarkHint": {
+    "message": "አስቀድመው ጨለማ የሆኑ ጣቢያዎችን ሳይነካ ይተዋቸዋል።"
+  },
+  "schedule": {
+    "message": "መርሐግብር"
+  },
+  "scheduleFrom": {
+    "message": "ከ"
+  },
+  "scheduleTo": {
+    "message": "እስከ"
+  },
+  "language": {
+    "message": "ቋንቋ"
+  },
+  "languageAuto": {
+    "message": "ራስ-ሰር"
+  },
+  "shortcuts": {
+    "message": "የቁልፍ ሰሌዳ አቋራጮች"
+  },
+  "shortcutsChange": {
+    "message": "አቋራጮችን ቀይር"
+  },
+  "shortcutNone": {
+    "message": "አልተዘጋጀም"
+  },
+  "sitesSearch": {
+    "message": "ድር ጣቢያዎችን ፈልግ"
+  },
+  "add": {
+    "message": "ጨምር"
+  },
+  "filterAll": {
+    "message": "ሁሉም"
+  },
+  "sitesEmpty": {
+    "message": "የሚታዩ ጣቢያዎች የሉም።"
+  },
+  "sitesRemove": {
+    "message": "አስወግድ"
+  },
+  "sitesRemoveAll": {
+    "message": "ሁሉንም አስወግድ"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "ሁሉንም የተቀመጡ ጣቢያዎች ይወገዱ?"
+  },
+  "sitesSubdomains": {
+    "message": "ለአንድ ጎራ የተቀመጡ ቅንብሮች ለንዑስ ጎራዎቹም ይሠራሉ።"
+  },
+  "sitesInvalid": {
+    "message": "ትክክለኛ ጎራ ያስገቡ፣ ለምሳሌ example.com።"
+  },
+  "cancel": {
+    "message": "ተው"
+  },
+  "backupExport": {
+    "message": "ላክ"
+  },
+  "backupImport": {
+    "message": "አስገባ"
+  },
+  "backupHint": {
+    "message": "ቅንብሮችዎን እና ጣቢያዎችዎን በፋይል ያስቀምጡ፣ ወይም ከፋይል ይመልሱ።"
+  },
+  "backupImported": {
+    "message": "የገቡ ጣቢያዎች፦ {count}"
+  },
+  "backupInvalid": {
+    "message": "ያ ፋይል ትክክለኛ ምትኬ አይደለም።"
+  },
+  "aboutLine": {
+    "message": "ስሪት {version} · ፈጣሪ፦ radiowasnton · የApache ፈቃድ 2.0"
+  },
+  "engine": {
+    "message": "ሞተር"
+  },
+  "engineStyles": {
+    "message": "ቅጦች"
+  },
+  "engineRender": {
+    "message": "ማሳያ"
+  },
+  "hintEngineStyles": {
+    "message": "የገጹን CSS ቀለሞች ይቀይራል፣ ምስሎችንና ይዘትን ግን አይነካም። በጣም ታማኝ።"
+  },
+  "hintEngineRender": {
+    "message": "ቀድሞ የተሰራውን ገጽ በGPU ማጣሪያ ይገለብጣል። ከሞላ ጎደል በሁሉም ቦታ ይሠራል፣ ግን ምስሎችን ሊለውጥ ይችላል።"
+  },
+  "hcInvert": {
+    "message": "የተገለበጡ ቀለሞች"
+  },
+  "hcInvertGray": {
+    "message": "የተገለበጠ ግራጫ ቀለም"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "ለስላሳ ግራጫ ዳራ ያለው ጨለማ።"
+  },
+  "hintOled": {
+    "message": "ንጹሕ ጥቁር ዳራ ያለው ጨለማ። በOLED ማያ ገጾች ላይ ኃይል ይቆጥባል።"
+  },
+  "hcStack": {
+    "message": "በሁነታው ላይ"
+  },
+  "hintHcStack": {
+    "message": "በርቷል፦ ዕቅዱን በሁነታው ለውጦች ላይ ይተገብራል። ጠፍቷል፦ እንደ ዋናው ቅጥያ ዕቅዱን ብቻ ያሳያል።"
+  },
+  "solidBg": {
+    "message": "ጠንካራ ዳራ"
+  },
+  "hintSolidBg": {
+    "message": "የገጹን የዳራ ምስሎችና የቀለም ቅልመቶች በአንድ ጠንካራ ቀለም ይተካል። አንድ ገጽ በጥቂቱ ብቻ ሲጨልም ይጠቀሙት።"
+  }
+}

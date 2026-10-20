@@ -1,0 +1,7 @@
+.gt-ex-quote svg {
+    filter: invert(1);
+}
+
+div[role="listbox"] {
+    background-color: rgb(26, 26, 26);
+}

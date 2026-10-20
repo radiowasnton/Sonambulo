@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sonámbulo</title>
+  <link rel="stylesheet" href="../ui.css">
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <img src="../../assets/brand/sonambulo-48.png" alt="" width="32" height="32">
+      <h1>Sonámbulo</h1>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button type="button" role="tab" data-tab="general" data-i18n="tabGeneral"></button>
+      <button type="button" role="tab" data-tab="sites" data-i18n="tabSites"></button>
+      <button type="button" role="tab" data-tab="backup" data-i18n="tabBackup"></button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="view" data-view="general" role="tabpanel">
+      <div class="card">
+        <div class="item">
+          <div class="item-text"><h2 data-i18n="defaultMode"></h2></div>
+          <div class="seg seg-inline" role="radiogroup" id="default-mode">
+            <button class="seg-item" type="button" role="radio" data-mode="dark" data-i18n="modeDark" data-i18n-title="hintDark"></button>
+            <button class="seg-item" type="button" role="radio" data-mode="oled" data-i18n="modeOled" data-i18n-title="hintOled"></button>
+            <button class="seg-item" type="button" role="radio" data-mode="filtered" data-i18n="modeFiltered"></button>
+            <button class="seg-item" type="button" role="radio" data-mode="normal" data-i18n="modeNormal"></button>
+          </div>
+        </div>
+        <div class="item">
+          <div class="item-text"><h2 data-i18n="engine"></h2></div>
+          <div class="seg seg-inline" role="radiogroup" id="default-engine">
+            <button class="seg-item" type="button" role="radio" data-engine="styles" data-i18n="engineStyles" data-i18n-title="hintEngineStyles"></button>
+            <button class="seg-item" type="button" role="radio" data-engine="render" data-i18n="engineRender" data-i18n-title="hintEngineRender"></button>
+          </div>
+        </div>
+        <label class="item">
+          <div class="item-text"><h2 data-i18n="followOS"></h2><p data-i18n="followOSHint"></p></div>
+          <span class="switch"><input type="checkbox" data-setting="followOS"><span></span></span>
+        </label>
+        <label class="item">
+          <div class="item-text"><h2 data-i18n="darkScrollbars"></h2></div>
+          <span class="switch"><input type="checkbox" data-setting="scrollbars"><span></span></span>
+        </label>
+        <label class="item">
+          <div class="item-text"><h2 data-i18n="detectDark"></h2><p data-i18n="detectDarkHint"></p></div>
+          <span class="switch"><input type="checkbox" data-setting="detectDark"><span></span></span>
+        </label>
+      </div>
+
+      <div class="card">
+        <label class="item">
+          <div class="item-text"><h2 data-i18n="schedule"></h2></div>
+          <span class="switch"><input type="checkbox" id="schedule-on"><span></span></span>
+        </label>
+        <div class="item schedule" id="schedule-times">
+          <label><span data-i18n="scheduleFrom"></span><input class="field" type="time" id="schedule-from"></label>
+          <label><span data-i18n="scheduleTo"></span><input class="field" type="time" id="schedule-to"></label>
+        </div>
+        <label class="item">
+          <div class="item-text"><h2 data-i18n="language"></h2></div>
+          <select class="field select" id="language"></select>
+        </label>
+      </div>
+
+      <div class="card">
+        <div class="item">
+          <div class="item-text"><h2 data-i18n="shortcuts"></h2></div>
+          <button class="btn" type="button" id="shortcuts-change" data-i18n="shortcutsChange"></button>
+        </div>
+        <ul class="shortcuts" id="shortcuts"></ul>
+      </div>
+    </section>
+
+    <section class="view" data-view="sites" role="tabpanel" hidden>
+      <div class="toolbar">
+        <div class="search">
+          <i class="glyph" data-g="search"></i>
+          <input class="field" type="search" id="search" data-i18n-placeholder="sitesSearch" data-i18n-aria="sitesSearch">
+        </div>
+        <form class="add" id="add-form">
+          <input class="field" type="text" id="add-host" placeholder="example.com" autocomplete="off" spellcheck="false">
+          <button class="btn" type="submit"><i class="glyph" data-g="plus"></i><span data-i18n="add"></span></button>
+        </form>
+      </div>
+      <p class="error" id="add-error" role="alert" hidden></p>
+
+      <div class="chips" role="radiogroup" id="filters">
+        <button class="chip" type="button" role="radio" data-filter="all" data-i18n="filterAll"></button>
+        <button class="chip" type="button" role="radio" data-filter="dark" data-i18n="modeDark"></button>
+        <button class="chip" type="button" role="radio" data-filter="oled" data-i18n="modeOled"></button>
+        <button class="chip" type="button" role="radio" data-filter="filtered" data-i18n="modeFiltered"></button>
+        <button class="chip" type="button" role="radio" data-filter="normal" data-i18n="modeNormal"></button>
+        <button class="chip" type="button" role="radio" data-filter="contrast" data-i18n="modeContrast"></button>
+      </div>
+
+      <ul class="sites" id="sites"></ul>
+      <p class="empty" id="empty" hidden></p>
+      <p class="note" data-i18n="sitesSubdomains"></p>
+      <button class="btn danger" type="button" id="remove-all"><i class="glyph" data-g="trash"></i><span data-i18n="sitesRemoveAll"></span></button>
+    </section>
+
+    <section class="view" data-view="backup" role="tabpanel" hidden>
+      <div class="card">
+        <p class="note" data-i18n="backupHint"></p>
+        <div class="actions">
+          <button class="btn" type="button" id="export"><i class="glyph" data-g="upload"></i><span data-i18n="backupExport"></span></button>
+          <button class="btn" type="button" id="import"><i class="glyph" data-g="download"></i><span data-i18n="backupImport"></span></button>
+          <input type="file" id="import-file" accept=".json,.txt,application/json,text/plain" hidden>
+        </div>
+        <p class="result" id="backup-result" role="status" hidden></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="about" id="about"></footer>
+
+  <dialog id="confirm">
+    <form method="dialog">
+      <p data-i18n="sitesRemoveAllConfirm"></p>
+      <div class="actions">
+        <button class="btn" value="cancel" data-i18n="cancel"></button>
+        <button class="btn danger" value="ok" data-i18n="sitesRemoveAll"></button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="../core.js"></script>
+  <script src="../i18n.js"></script>
+  <script src="options.js"></script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+#bodyWrapper,
+.homeContent,
+#logoBox,
+#footer {
+    background-image: none !important;
+    background-color: #1a1a1a !important;
+}
+
+#navBox {
+    background-color: #444444 !important;
+    background-image: none !important;
+}
+
+ul#nav li a,
+ul#nav li span#navEnd,
+.bcLinkWrap,
+.pageHelpWrap,
+#pageHelpWrap,
+.subNavDropMenu .subNavContent,
+.hintContent {
+    background-color: #444444 !important;
+    background-image: none !important;
+}
+
+.activeBtn,
+input[type="submit"] {
+    color: #000 !important;
+}
+
+.bcArrow {
+    display: none !important;
+}

@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Тъмен режим"
+  },
+  "extDescription": {
+    "message": "Нощта, по-жива от всякога. Избирайте тъмен или светъл режим за всеки сайт и дарете на очите си само най-доброто."
+  },
+  "cmdToggleSite": {
+    "message": "Превключване между тъмен и нормален режим на този сайт"
+  },
+  "cmdCycleMode": {
+    "message": "Смяна на режима: Тъмен, Филтриран, Нормален"
+  },
+  "cmdToggleContrast": {
+    "message": "Включване или изключване на високия контраст на този сайт"
+  },
+  "cmdTogglePower": {
+    "message": "Пауза или възобновяване на Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Тъмен"
+  },
+  "modeFiltered": {
+    "message": "Филтриран"
+  },
+  "modeNormal": {
+    "message": "Нормален"
+  },
+  "modeContrast": {
+    "message": "Висок контраст"
+  },
+  "hintFiltered": {
+    "message": "Запазва оригиналните цветове и смекчава яркостта и синята светлина"
+  },
+  "hintContrast": {
+    "message": "Добавя стил с висок контраст върху избрания режим"
+  },
+  "statusSaved": {
+    "message": "Запазено за този сайт"
+  },
+  "statusDefault": {
+    "message": "Настройки по подразбиране"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo е на пауза"
+  },
+  "statusScheduled": {
+    "message": "Извън планираните часове"
+  },
+  "unsupported": {
+    "message": "Sonámbulo не може да промени тази страница."
+  },
+  "hcBoost": {
+    "message": "Усилен"
+  },
+  "hcGray": {
+    "message": "Нива на сивото"
+  },
+  "hcYellow": {
+    "message": "Жълто на черно"
+  },
+  "hcCyan": {
+    "message": "Циан на черно"
+  },
+  "hcGreen": {
+    "message": "Зелено на черно"
+  },
+  "hcIntensity": {
+    "message": "Интензитет"
+  },
+  "tuneTitle": {
+    "message": "Настройки на изгледа"
+  },
+  "tuneBrightness": {
+    "message": "Яркост"
+  },
+  "tuneContrast": {
+    "message": "Контраст"
+  },
+  "tuneSaturation": {
+    "message": "Наситеност"
+  },
+  "tuneWarmth": {
+    "message": "Филтър за синя светлина"
+  },
+  "reset": {
+    "message": "Нулиране"
+  },
+  "powerPause": {
+    "message": "Пауза"
+  },
+  "powerResume": {
+    "message": "Възобновяване"
+  },
+  "navSettings": {
+    "message": "Настройки"
+  },
+  "tabGeneral": {
+    "message": "Общи"
+  },
+  "tabSites": {
+    "message": "Сайтове"
+  },
+  "tabBackup": {
+    "message": "Резервно копие"
+  },
+  "defaultMode": {
+    "message": "Режим по подразбиране"
+  },
+  "followOS": {
+    "message": "Следване на темата на системата"
+  },
+  "followOSHint": {
+    "message": "Сайтовете без запазени настройки стават тъмни, когато системата ви е в тъмен режим."
+  },
+  "darkScrollbars": {
+    "message": "Тъмни ленти за превъртане"
+  },
+  "detectDark": {
+    "message": "Разпознаване на тъмни сайтове"
+  },
+  "detectDarkHint": {
+    "message": "Оставя непроменени сайтовете, които вече са тъмни."
+  },
+  "schedule": {
+    "message": "График"
+  },
+  "scheduleFrom": {
+    "message": "От"
+  },
+  "scheduleTo": {
+    "message": "До"
+  },
+  "language": {
+    "message": "Език"
+  },
+  "languageAuto": {
+    "message": "Автоматично"
+  },
+  "shortcuts": {
+    "message": "Клавишни комбинации"
+  },
+  "shortcutsChange": {
+    "message": "Промяна на комбинациите"
+  },
+  "shortcutNone": {
+    "message": "Не е зададена"
+  },
+  "sitesSearch": {
+    "message": "Търсене на сайтове"
+  },
+  "add": {
+    "message": "Добавяне"
+  },
+  "filterAll": {
+    "message": "Всички"
+  },
+  "sitesEmpty": {
+    "message": "Няма сайтове за показване."
+  },
+  "sitesRemove": {
+    "message": "Премахване"
+  },
+  "sitesRemoveAll": {
+    "message": "Премахване на всички"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Да се премахнат ли всички запазени сайтове?"
+  },
+  "sitesSubdomains": {
+    "message": "Настройките, запазени за домейн, важат и за неговите поддомейни."
+  },
+  "sitesInvalid": {
+    "message": "Въведете валиден домейн, например example.com."
+  },
+  "cancel": {
+    "message": "Отказ"
+  },
+  "backupExport": {
+    "message": "Експорт"
+  },
+  "backupImport": {
+    "message": "Импорт"
+  },
+  "backupHint": {
+    "message": "Запазете настройките и сайтовете във файл или ги възстановете от файл."
+  },
+  "backupImported": {
+    "message": "Импортирани сайтове: {count}"
+  },
+  "backupInvalid": {
+    "message": "Този файл не е валидно резервно копие."
+  },
+  "aboutLine": {
+    "message": "Версия {version} · Автор: radiowasnton · Лиценз Apache 2.0"
+  },
+  "engine": {
+    "message": "Механизъм"
+  },
+  "engineStyles": {
+    "message": "Стилове"
+  },
+  "engineRender": {
+    "message": "Рендиране"
+  },
+  "hintEngineStyles": {
+    "message": "Прекроява CSS на страницата и не пипа изображенията и съдържанието. Най-вярният."
+  },
+  "hintEngineRender": {
+    "message": "Инвертира вече изобразената страница с GPU филтър. Работи почти навсякъде, но може да променя изображенията."
+  },
+  "hcInvert": {
+    "message": "Обърнати цветове"
+  },
+  "hcInvertGray": {
+    "message": "Обърнати нива на сивото"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Тъмен с мек сив фон."
+  },
+  "hintOled": {
+    "message": "Тъмен с чисто черен фон. Спестява енергия на OLED екрани."
+  },
+  "hcStack": {
+    "message": "Върху режима"
+  },
+  "hintHcStack": {
+    "message": "Включено: прилага схемата върху промените на режима. Изключено: показва само схемата, както оригиналното разширение."
+  },
+  "solidBg": {
+    "message": "Плътен фон"
+  },
+  "hintSolidBg": {
+    "message": "Заменя фоновите изображения и градиенти на страницата с плътен цвят. Използвайте, ако страницата потъмнява само леко."
+  }
+}

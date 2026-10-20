@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Mörkt läge"
+  },
+  "extDescription": {
+    "message": "Natten, mer levande än någonsin. Välj mörkt eller ljust läge för varje webbplats och ge dina ögon bara det bästa."
+  },
+  "cmdToggleSite": {
+    "message": "Växla mellan mörkt och normalt läge på den här webbplatsen"
+  },
+  "cmdCycleMode": {
+    "message": "Byt läge: Mörkt, Filtrerat, Normalt"
+  },
+  "cmdToggleContrast": {
+    "message": "Slå på eller av hög kontrast på den här webbplatsen"
+  },
+  "cmdTogglePower": {
+    "message": "Pausa eller återuppta Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Mörkt"
+  },
+  "modeFiltered": {
+    "message": "Filtrerat"
+  },
+  "modeNormal": {
+    "message": "Normalt"
+  },
+  "modeContrast": {
+    "message": "Hög kontrast"
+  },
+  "hintFiltered": {
+    "message": "Behåller originalfärgerna och mjukar upp ljusstyrka och blått ljus"
+  },
+  "hintContrast": {
+    "message": "Lägger till en högkontrastvariant ovanpå valt läge"
+  },
+  "statusSaved": {
+    "message": "Sparat för den här webbplatsen"
+  },
+  "statusDefault": {
+    "message": "Standardinställningar"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo är pausat"
+  },
+  "statusScheduled": {
+    "message": "Utanför schemalagda tider"
+  },
+  "unsupported": {
+    "message": "Sonámbulo kan inte ändra den här sidan."
+  },
+  "hcBoost": {
+    "message": "Förstärkt"
+  },
+  "hcGray": {
+    "message": "Gråskala"
+  },
+  "hcYellow": {
+    "message": "Gult på svart"
+  },
+  "hcCyan": {
+    "message": "Cyan på svart"
+  },
+  "hcGreen": {
+    "message": "Grönt på svart"
+  },
+  "hcIntensity": {
+    "message": "Intensitet"
+  },
+  "tuneTitle": {
+    "message": "Justeringar"
+  },
+  "tuneBrightness": {
+    "message": "Ljusstyrka"
+  },
+  "tuneContrast": {
+    "message": "Kontrast"
+  },
+  "tuneSaturation": {
+    "message": "Mättnad"
+  },
+  "tuneWarmth": {
+    "message": "Filter för blått ljus"
+  },
+  "reset": {
+    "message": "Återställ"
+  },
+  "powerPause": {
+    "message": "Pausa"
+  },
+  "powerResume": {
+    "message": "Återuppta"
+  },
+  "navSettings": {
+    "message": "Inställningar"
+  },
+  "tabGeneral": {
+    "message": "Allmänt"
+  },
+  "tabSites": {
+    "message": "Webbplatser"
+  },
+  "tabBackup": {
+    "message": "Säkerhetskopia"
+  },
+  "defaultMode": {
+    "message": "Standardläge"
+  },
+  "followOS": {
+    "message": "Följ systemets tema"
+  },
+  "followOSHint": {
+    "message": "Webbplatser utan sparade inställningar blir mörka när systemet är i mörkt läge."
+  },
+  "darkScrollbars": {
+    "message": "Mörka rullningslister"
+  },
+  "detectDark": {
+    "message": "Upptäck mörka webbplatser"
+  },
+  "detectDarkHint": {
+    "message": "Lämnar webbplatser som redan är mörka orörda."
+  },
+  "schedule": {
+    "message": "Schema"
+  },
+  "scheduleFrom": {
+    "message": "Från"
+  },
+  "scheduleTo": {
+    "message": "Till"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "languageAuto": {
+    "message": "Automatiskt"
+  },
+  "shortcuts": {
+    "message": "Kortkommandon"
+  },
+  "shortcutsChange": {
+    "message": "Ändra kortkommandon"
+  },
+  "shortcutNone": {
+    "message": "Inte angivet"
+  },
+  "sitesSearch": {
+    "message": "Sök webbplatser"
+  },
+  "add": {
+    "message": "Lägg till"
+  },
+  "filterAll": {
+    "message": "Alla"
+  },
+  "sitesEmpty": {
+    "message": "Inga webbplatser att visa."
+  },
+  "sitesRemove": {
+    "message": "Ta bort"
+  },
+  "sitesRemoveAll": {
+    "message": "Ta bort alla"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Ta bort alla sparade webbplatser?"
+  },
+  "sitesSubdomains": {
+    "message": "Inställningar som sparats för en domän gäller även dess underdomäner."
+  },
+  "sitesInvalid": {
+    "message": "Ange en giltig domän, till exempel example.com."
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "backupExport": {
+    "message": "Exportera"
+  },
+  "backupImport": {
+    "message": "Importera"
+  },
+  "backupHint": {
+    "message": "Spara dina inställningar och webbplatser i en fil, eller återställ dem från en fil."
+  },
+  "backupImported": {
+    "message": "Importerade webbplatser: {count}"
+  },
+  "backupInvalid": {
+    "message": "Den filen är inte en giltig säkerhetskopia."
+  },
+  "aboutLine": {
+    "message": "Version {version} · Skapad av radiowasnton · Apache-licens 2.0"
+  },
+  "engine": {
+    "message": "Motor"
+  },
+  "engineStyles": {
+    "message": "Stilar"
+  },
+  "engineRender": {
+    "message": "Rendering"
+  },
+  "hintEngineStyles": {
+    "message": "Färgsätter om sidans CSS och lämnar bilder och innehåll orörda. Mest trogen."
+  },
+  "hintEngineRender": {
+    "message": "Inverterar den renderade sidan med ett GPU-filter. Fungerar nästan överallt men kan ändra bilder."
+  },
+  "hcInvert": {
+    "message": "Inverterade färger"
+  },
+  "hcInvertGray": {
+    "message": "Inverterad gråskala"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Mörkt med mjuk grå bakgrund."
+  },
+  "hintOled": {
+    "message": "Mörkt med helsvart bakgrund. Sparar energi på OLED-skärmar."
+  },
+  "hcStack": {
+    "message": "Ovanpå läget"
+  },
+  "hintHcStack": {
+    "message": "På: tillämpar schemat ovanpå lägets ändringar. Av: visar bara schemat, som det ursprungliga tillägget."
+  },
+  "solidBg": {
+    "message": "Enfärgad bakgrund"
+  },
+  "hintSolidBg": {
+    "message": "Ersätter sidans bakgrundsbilder och toningar med en enfärgad yta. Använd när en sida bara blir lite mörkare."
+  }
+}

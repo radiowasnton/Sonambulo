@@ -1,0 +1,83 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extName__",
+  "short_name": "Sonámbulo",
+  "version": "2.0.0",
+  "description": "__MSG_extDescription__",
+  "author": "radiowasnton",
+  "default_locale": "en",
+  "minimum_chrome_version": "114",
+  "icons": {
+    "16": "assets/brand/sonambulo-16.png",
+    "32": "assets/brand/sonambulo-32.png",
+    "48": "assets/brand/sonambulo-48.png",
+    "128": "assets/brand/sonambulo-128.png"
+  },
+  "action": {
+    "default_title": "Sonámbulo",
+    "default_popup": "src/popup/popup.html",
+    "default_icon": {
+      "16": "assets/brand/sonambulo-16.png",
+      "32": "assets/brand/sonambulo-32.png",
+      "48": "assets/brand/sonambulo-48.png",
+      "128": "assets/brand/sonambulo-128.png"
+    }
+  },
+  "options_ui": {
+    "page": "src/options/options.html",
+    "open_in_tab": true
+  },
+  "background": {
+    "service_worker": "src/background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "src/core.js",
+        "src/engine/color.js",
+        "src/engine/styles.js",
+        "src/content.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true,
+      "match_about_blank": true
+    }
+  ],
+  "permissions": [
+    "storage",
+    "scripting",
+    "alarms"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "commands": {
+    "toggle-site": {
+      "suggested_key": {
+        "default": "Alt+Shift+D"
+      },
+      "description": "__MSG_cmdToggleSite__"
+    },
+    "cycle-mode": {
+      "suggested_key": {
+        "default": "Alt+Shift+M"
+      },
+      "description": "__MSG_cmdCycleMode__"
+    },
+    "toggle-contrast": {
+      "suggested_key": {
+        "default": "Alt+Shift+H"
+      },
+      "description": "__MSG_cmdToggleContrast__"
+    },
+    "toggle-power": {
+      "suggested_key": {
+        "default": "Alt+Shift+O"
+      },
+      "description": "__MSG_cmdTogglePower__"
+    }
+  }
+}

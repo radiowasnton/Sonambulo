@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - 深色模式"
+  },
+  "extDescription": {
+    "message": "夜晚，比以往更生動。為每個網站選擇深色或淺色模式，只給雙眼最好的呵護。"
+  },
+  "cmdToggleSite": {
+    "message": "在此網站上切換深色與一般模式"
+  },
+  "cmdCycleMode": {
+    "message": "循環切換模式：深色、濾鏡、一般"
+  },
+  "cmdToggleContrast": {
+    "message": "在此網站上開啟或關閉高對比"
+  },
+  "cmdTogglePower": {
+    "message": "暫停或繼續 Sonámbulo"
+  },
+  "modeDark": {
+    "message": "深色"
+  },
+  "modeFiltered": {
+    "message": "濾鏡"
+  },
+  "modeNormal": {
+    "message": "一般"
+  },
+  "modeContrast": {
+    "message": "高對比"
+  },
+  "hintFiltered": {
+    "message": "保留原有色彩，並柔化亮度與藍光"
+  },
+  "hintContrast": {
+    "message": "在所選模式之上疊加高對比樣式"
+  },
+  "statusSaved": {
+    "message": "已為此網站儲存"
+  },
+  "statusDefault": {
+    "message": "預設設定"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo 已暫停"
+  },
+  "statusScheduled": {
+    "message": "不在排程時段內"
+  },
+  "unsupported": {
+    "message": "Sonámbulo 無法修改此頁面。"
+  },
+  "hcBoost": {
+    "message": "增強"
+  },
+  "hcGray": {
+    "message": "灰階"
+  },
+  "hcYellow": {
+    "message": "黑底黃字"
+  },
+  "hcCyan": {
+    "message": "黑底青字"
+  },
+  "hcGreen": {
+    "message": "黑底綠字"
+  },
+  "hcIntensity": {
+    "message": "強度"
+  },
+  "tuneTitle": {
+    "message": "調整"
+  },
+  "tuneBrightness": {
+    "message": "亮度"
+  },
+  "tuneContrast": {
+    "message": "對比度"
+  },
+  "tuneSaturation": {
+    "message": "飽和度"
+  },
+  "tuneWarmth": {
+    "message": "藍光過濾"
+  },
+  "reset": {
+    "message": "重設"
+  },
+  "powerPause": {
+    "message": "暫停"
+  },
+  "powerResume": {
+    "message": "繼續"
+  },
+  "navSettings": {
+    "message": "設定"
+  },
+  "tabGeneral": {
+    "message": "一般"
+  },
+  "tabSites": {
+    "message": "網站"
+  },
+  "tabBackup": {
+    "message": "備份"
+  },
+  "defaultMode": {
+    "message": "預設模式"
+  },
+  "followOS": {
+    "message": "跟隨系統主題"
+  },
+  "followOSHint": {
+    "message": "未儲存設定的網站會在系統處於深色模式時變為深色。"
+  },
+  "darkScrollbars": {
+    "message": "深色捲軸"
+  },
+  "detectDark": {
+    "message": "偵測深色網站"
+  },
+  "detectDarkHint": {
+    "message": "不處理本身已是深色的網站。"
+  },
+  "schedule": {
+    "message": "排程"
+  },
+  "scheduleFrom": {
+    "message": "開始"
+  },
+  "scheduleTo": {
+    "message": "結束"
+  },
+  "language": {
+    "message": "語言"
+  },
+  "languageAuto": {
+    "message": "自動"
+  },
+  "shortcuts": {
+    "message": "鍵盤快速鍵"
+  },
+  "shortcutsChange": {
+    "message": "變更快速鍵"
+  },
+  "shortcutNone": {
+    "message": "未設定"
+  },
+  "sitesSearch": {
+    "message": "搜尋網站"
+  },
+  "add": {
+    "message": "新增"
+  },
+  "filterAll": {
+    "message": "全部"
+  },
+  "sitesEmpty": {
+    "message": "沒有可顯示的網站。"
+  },
+  "sitesRemove": {
+    "message": "移除"
+  },
+  "sitesRemoveAll": {
+    "message": "全部移除"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "要移除所有已儲存的網站嗎？"
+  },
+  "sitesSubdomains": {
+    "message": "為某個網域儲存的設定同樣適用於它的子網域。"
+  },
+  "sitesInvalid": {
+    "message": "請輸入有效的網域，例如 example.com。"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "backupExport": {
+    "message": "匯出"
+  },
+  "backupImport": {
+    "message": "匯入"
+  },
+  "backupHint": {
+    "message": "將設定與網站儲存到檔案，或從檔案還原。"
+  },
+  "backupImported": {
+    "message": "已匯入的網站：{count}"
+  },
+  "backupInvalid": {
+    "message": "此檔案不是有效的備份。"
+  },
+  "aboutLine": {
+    "message": "版本 {version} · 作者：radiowasnton · Apache 授權條款 2.0"
+  },
+  "engine": {
+    "message": "引擎"
+  },
+  "engineStyles": {
+    "message": "樣式"
+  },
+  "engineRender": {
+    "message": "渲染"
+  },
+  "hintEngineStyles": {
+    "message": "重新著色頁面的 CSS，不更動圖片與內容。最忠實。"
+  },
+  "hintEngineRender": {
+    "message": "以 GPU 濾鏡反轉已渲染的頁面。幾乎適用於所有網站，但可能改變圖片。"
+  },
+  "hcInvert": {
+    "message": "反色"
+  },
+  "hcInvertGray": {
+    "message": "反色灰階"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "柔和灰色背景的深色。"
+  },
+  "hintOled": {
+    "message": "純黑背景的深色。可在 OLED 螢幕上省電。"
+  },
+  "hcStack": {
+    "message": "疊加在模式之上"
+  },
+  "hintHcStack": {
+    "message": "開啟：在模式所做的變更之上套用配色方案。關閉：僅顯示配色方案，與原版擴充功能相同。"
+  },
+  "solidBg": {
+    "message": "純色背景"
+  },
+  "hintSolidBg": {
+    "message": "以純色取代頁面的背景圖片與漸層。當頁面只是略微變暗時使用。"
+  }
+}

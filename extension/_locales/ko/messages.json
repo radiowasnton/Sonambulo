@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - 다크 모드"
+  },
+  "extDescription": {
+    "message": "더욱 생생해진 밤. 웹사이트마다 다크 모드 또는 라이트 모드를 선택하고, 눈에 가장 좋은 화면을 선물하세요."
+  },
+  "cmdToggleSite": {
+    "message": "이 사이트에서 다크 모드와 일반 모드 전환"
+  },
+  "cmdCycleMode": {
+    "message": "모드 순환: 다크, 필터, 일반"
+  },
+  "cmdToggleContrast": {
+    "message": "이 사이트에서 고대비 켜기/끄기"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo 일시중지 또는 다시 시작"
+  },
+  "modeDark": {
+    "message": "다크"
+  },
+  "modeFiltered": {
+    "message": "필터"
+  },
+  "modeNormal": {
+    "message": "일반"
+  },
+  "modeContrast": {
+    "message": "고대비"
+  },
+  "hintFiltered": {
+    "message": "원래 색상을 유지하면서 밝기와 블루라이트를 줄입니다"
+  },
+  "hintContrast": {
+    "message": "선택한 모드 위에 고대비 스타일을 추가합니다"
+  },
+  "statusSaved": {
+    "message": "이 사이트에 저장됨"
+  },
+  "statusDefault": {
+    "message": "기본 설정"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo가 일시중지되었습니다"
+  },
+  "statusScheduled": {
+    "message": "예약된 시간 외"
+  },
+  "unsupported": {
+    "message": "Sonámbulo가 이 페이지를 변경할 수 없습니다."
+  },
+  "hcBoost": {
+    "message": "강화"
+  },
+  "hcGray": {
+    "message": "회색조"
+  },
+  "hcYellow": {
+    "message": "검정 바탕에 노랑"
+  },
+  "hcCyan": {
+    "message": "검정 바탕에 청록"
+  },
+  "hcGreen": {
+    "message": "검정 바탕에 초록"
+  },
+  "hcIntensity": {
+    "message": "강도"
+  },
+  "tuneTitle": {
+    "message": "조정"
+  },
+  "tuneBrightness": {
+    "message": "밝기"
+  },
+  "tuneContrast": {
+    "message": "대비"
+  },
+  "tuneSaturation": {
+    "message": "채도"
+  },
+  "tuneWarmth": {
+    "message": "블루라이트 필터"
+  },
+  "reset": {
+    "message": "초기화"
+  },
+  "powerPause": {
+    "message": "일시중지"
+  },
+  "powerResume": {
+    "message": "다시 시작"
+  },
+  "navSettings": {
+    "message": "설정"
+  },
+  "tabGeneral": {
+    "message": "일반"
+  },
+  "tabSites": {
+    "message": "웹사이트"
+  },
+  "tabBackup": {
+    "message": "백업"
+  },
+  "defaultMode": {
+    "message": "기본 모드"
+  },
+  "followOS": {
+    "message": "시스템 테마 따르기"
+  },
+  "followOSHint": {
+    "message": "저장된 설정이 없는 사이트는 시스템이 다크 모드일 때 어둡게 표시됩니다."
+  },
+  "darkScrollbars": {
+    "message": "다크 스크롤바"
+  },
+  "detectDark": {
+    "message": "다크 사이트 감지"
+  },
+  "detectDarkHint": {
+    "message": "이미 어두운 사이트는 그대로 둡니다."
+  },
+  "schedule": {
+    "message": "일정"
+  },
+  "scheduleFrom": {
+    "message": "시작"
+  },
+  "scheduleTo": {
+    "message": "종료"
+  },
+  "language": {
+    "message": "언어"
+  },
+  "languageAuto": {
+    "message": "자동"
+  },
+  "shortcuts": {
+    "message": "키보드 단축키"
+  },
+  "shortcutsChange": {
+    "message": "단축키 변경"
+  },
+  "shortcutNone": {
+    "message": "설정 안 됨"
+  },
+  "sitesSearch": {
+    "message": "웹사이트 검색"
+  },
+  "add": {
+    "message": "추가"
+  },
+  "filterAll": {
+    "message": "전체"
+  },
+  "sitesEmpty": {
+    "message": "표시할 사이트가 없습니다."
+  },
+  "sitesRemove": {
+    "message": "삭제"
+  },
+  "sitesRemoveAll": {
+    "message": "모두 삭제"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "저장된 사이트를 모두 삭제할까요?"
+  },
+  "sitesSubdomains": {
+    "message": "도메인에 저장된 설정은 하위 도메인에도 적용됩니다."
+  },
+  "sitesInvalid": {
+    "message": "example.com과 같은 올바른 도메인을 입력하세요."
+  },
+  "cancel": {
+    "message": "취소"
+  },
+  "backupExport": {
+    "message": "내보내기"
+  },
+  "backupImport": {
+    "message": "가져오기"
+  },
+  "backupHint": {
+    "message": "설정과 웹사이트를 파일로 저장하거나 파일에서 복원하세요."
+  },
+  "backupImported": {
+    "message": "가져온 사이트: {count}"
+  },
+  "backupInvalid": {
+    "message": "이 파일은 올바른 백업이 아닙니다."
+  },
+  "aboutLine": {
+    "message": "버전 {version} · 제작: radiowasnton · Apache 라이선스 2.0"
+  },
+  "engine": {
+    "message": "엔진"
+  },
+  "engineStyles": {
+    "message": "스타일"
+  },
+  "engineRender": {
+    "message": "렌더"
+  },
+  "hintEngineStyles": {
+    "message": "페이지의 CSS 색상을 바꾸고 이미지와 콘텐츠는 건드리지 않습니다. 가장 정확합니다."
+  },
+  "hintEngineRender": {
+    "message": "이미 렌더링된 페이지를 GPU 필터로 반전합니다. 거의 모든 곳에서 작동하지만 이미지가 바뀔 수 있습니다."
+  },
+  "hcInvert": {
+    "message": "색상 반전"
+  },
+  "hcInvertGray": {
+    "message": "회색조 반전"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "부드러운 회색 배경의 다크."
+  },
+  "hintOled": {
+    "message": "순수한 검정 배경의 다크. OLED 화면에서 전력을 절약합니다."
+  },
+  "hcStack": {
+    "message": "모드 위에 적용"
+  },
+  "hintHcStack": {
+    "message": "켜짐: 모드가 적용한 변경 위에 구성표를 적용합니다. 꺼짐: 원래 확장 프로그램처럼 구성표만 표시합니다."
+  },
+  "solidBg": {
+    "message": "단색 배경"
+  },
+  "hintSolidBg": {
+    "message": "페이지의 배경 이미지와 그라데이션을 단색으로 바꿉니다. 페이지가 조금만 어두워질 때 사용하세요."
+  }
+}

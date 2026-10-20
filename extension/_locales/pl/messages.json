@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Tryb ciemny"
+  },
+  "extDescription": {
+    "message": "Noc, bardziej żywa niż kiedykolwiek. Wybierz tryb ciemny lub jasny dla każdej witryny i daj oczom tylko to, co najlepsze."
+  },
+  "cmdToggleSite": {
+    "message": "Przełącz tryb ciemny i normalny w tej witrynie"
+  },
+  "cmdCycleMode": {
+    "message": "Zmień tryb: Ciemny, Filtrowany, Normalny"
+  },
+  "cmdToggleContrast": {
+    "message": "Włącz lub wyłącz wysoki kontrast w tej witrynie"
+  },
+  "cmdTogglePower": {
+    "message": "Wstrzymaj lub wznów Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Ciemny"
+  },
+  "modeFiltered": {
+    "message": "Filtrowany"
+  },
+  "modeNormal": {
+    "message": "Normalny"
+  },
+  "modeContrast": {
+    "message": "Wysoki kontrast"
+  },
+  "hintFiltered": {
+    "message": "Zachowuje oryginalne kolory i łagodzi jasność oraz niebieskie światło"
+  },
+  "hintContrast": {
+    "message": "Dodaje styl wysokiego kontrastu na wybranym trybie"
+  },
+  "statusSaved": {
+    "message": "Zapisano dla tej witryny"
+  },
+  "statusDefault": {
+    "message": "Ustawienia domyślne"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo jest wstrzymany"
+  },
+  "statusScheduled": {
+    "message": "Poza zaplanowanymi godzinami"
+  },
+  "unsupported": {
+    "message": "Sonámbulo nie może zmienić tej strony."
+  },
+  "hcBoost": {
+    "message": "Zwiększony"
+  },
+  "hcGray": {
+    "message": "Skala szarości"
+  },
+  "hcYellow": {
+    "message": "Żółty na czarnym"
+  },
+  "hcCyan": {
+    "message": "Cyjan na czarnym"
+  },
+  "hcGreen": {
+    "message": "Zielony na czarnym"
+  },
+  "hcIntensity": {
+    "message": "Intensywność"
+  },
+  "tuneTitle": {
+    "message": "Regulacja"
+  },
+  "tuneBrightness": {
+    "message": "Jasność"
+  },
+  "tuneContrast": {
+    "message": "Kontrast"
+  },
+  "tuneSaturation": {
+    "message": "Nasycenie"
+  },
+  "tuneWarmth": {
+    "message": "Filtr światła niebieskiego"
+  },
+  "reset": {
+    "message": "Resetuj"
+  },
+  "powerPause": {
+    "message": "Wstrzymaj"
+  },
+  "powerResume": {
+    "message": "Wznów"
+  },
+  "navSettings": {
+    "message": "Ustawienia"
+  },
+  "tabGeneral": {
+    "message": "Ogólne"
+  },
+  "tabSites": {
+    "message": "Witryny"
+  },
+  "tabBackup": {
+    "message": "Kopia zapasowa"
+  },
+  "defaultMode": {
+    "message": "Tryb domyślny"
+  },
+  "followOS": {
+    "message": "Podążaj za motywem systemu"
+  },
+  "followOSHint": {
+    "message": "Witryny bez zapisanych ustawień ciemnieją, gdy system używa trybu ciemnego."
+  },
+  "darkScrollbars": {
+    "message": "Ciemne paski przewijania"
+  },
+  "detectDark": {
+    "message": "Wykrywaj ciemne witryny"
+  },
+  "detectDarkHint": {
+    "message": "Pozostawia bez zmian witryny, które są już ciemne."
+  },
+  "schedule": {
+    "message": "Harmonogram"
+  },
+  "scheduleFrom": {
+    "message": "Od"
+  },
+  "scheduleTo": {
+    "message": "Do"
+  },
+  "language": {
+    "message": "Język"
+  },
+  "languageAuto": {
+    "message": "Automatycznie"
+  },
+  "shortcuts": {
+    "message": "Skróty klawiszowe"
+  },
+  "shortcutsChange": {
+    "message": "Zmień skróty"
+  },
+  "shortcutNone": {
+    "message": "Nie ustawiono"
+  },
+  "sitesSearch": {
+    "message": "Szukaj witryn"
+  },
+  "add": {
+    "message": "Dodaj"
+  },
+  "filterAll": {
+    "message": "Wszystkie"
+  },
+  "sitesEmpty": {
+    "message": "Brak witryn do wyświetlenia."
+  },
+  "sitesRemove": {
+    "message": "Usuń"
+  },
+  "sitesRemoveAll": {
+    "message": "Usuń wszystkie"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Usunąć wszystkie zapisane witryny?"
+  },
+  "sitesSubdomains": {
+    "message": "Ustawienia zapisane dla domeny obowiązują także w jej subdomenach."
+  },
+  "sitesInvalid": {
+    "message": "Wpisz prawidłową domenę, na przykład example.com."
+  },
+  "cancel": {
+    "message": "Anuluj"
+  },
+  "backupExport": {
+    "message": "Eksportuj"
+  },
+  "backupImport": {
+    "message": "Importuj"
+  },
+  "backupHint": {
+    "message": "Zapisz ustawienia i witryny w pliku lub przywróć je z pliku."
+  },
+  "backupImported": {
+    "message": "Zaimportowane witryny: {count}"
+  },
+  "backupInvalid": {
+    "message": "Ten plik nie jest prawidłową kopią zapasową."
+  },
+  "aboutLine": {
+    "message": "Wersja {version} · Autor: radiowasnton · Licencja Apache 2.0"
+  },
+  "engine": {
+    "message": "Silnik"
+  },
+  "engineStyles": {
+    "message": "Style"
+  },
+  "engineRender": {
+    "message": "Renderowanie"
+  },
+  "hintEngineStyles": {
+    "message": "Przekolorowuje CSS strony i nie dotyka obrazów ani treści. Najwierniejszy."
+  },
+  "hintEngineRender": {
+    "message": "Odwraca już wyrenderowaną stronę filtrem GPU. Działa niemal wszędzie, ale może zmieniać obrazy."
+  },
+  "hcInvert": {
+    "message": "Odwrócone kolory"
+  },
+  "hcInvertGray": {
+    "message": "Odwrócona skala szarości"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Ciemny z miękkim szarym tłem."
+  },
+  "hintOled": {
+    "message": "Ciemny z czystą czernią w tle. Oszczędza energię na ekranach OLED."
+  },
+  "hcStack": {
+    "message": "Na wierzchu trybu"
+  },
+  "hintHcStack": {
+    "message": "Wł.: stosuje schemat na zmianach trybu. Wył.: pokazuje sam schemat, jak oryginalne rozszerzenie."
+  },
+  "solidBg": {
+    "message": "Jednolite tło"
+  },
+  "hintSolidBg": {
+    "message": "Zastępuje obrazy i gradienty tła strony jednolitym kolorem. Użyj, gdy strona tylko nieznacznie ciemnieje."
+  }
+}

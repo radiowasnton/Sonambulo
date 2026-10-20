@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Mode fosc"
+  },
+  "extDescription": {
+    "message": "La nit, més viva que mai. Tria el mode fosc o clar per a cada lloc web i dona als teus ulls només el millor."
+  },
+  "cmdToggleSite": {
+    "message": "Alterna entre mode fosc i normal en aquest lloc"
+  },
+  "cmdCycleMode": {
+    "message": "Canvia de mode: Fosc, Filtrat, Normal"
+  },
+  "cmdToggleContrast": {
+    "message": "Activa o desactiva l'alt contrast en aquest lloc"
+  },
+  "cmdTogglePower": {
+    "message": "Posa en pausa o reprèn Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Fosc"
+  },
+  "modeFiltered": {
+    "message": "Filtrat"
+  },
+  "modeNormal": {
+    "message": "Normal"
+  },
+  "modeContrast": {
+    "message": "Alt contrast"
+  },
+  "hintFiltered": {
+    "message": "Manté els colors originals i suavitza la lluminositat i la llum blava"
+  },
+  "hintContrast": {
+    "message": "Afegeix un estil d'alt contrast sobre el mode triat"
+  },
+  "statusSaved": {
+    "message": "Desat per a aquest lloc"
+  },
+  "statusDefault": {
+    "message": "Configuració predeterminada"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo està en pausa"
+  },
+  "statusScheduled": {
+    "message": "Fora de l'horari programat"
+  },
+  "unsupported": {
+    "message": "Sonámbulo no pot modificar aquesta pàgina."
+  },
+  "hcBoost": {
+    "message": "Augmentat"
+  },
+  "hcGray": {
+    "message": "Escala de grisos"
+  },
+  "hcYellow": {
+    "message": "Groc sobre negre"
+  },
+  "hcCyan": {
+    "message": "Cian sobre negre"
+  },
+  "hcGreen": {
+    "message": "Verd sobre negre"
+  },
+  "hcIntensity": {
+    "message": "Intensitat"
+  },
+  "tuneTitle": {
+    "message": "Ajustos"
+  },
+  "tuneBrightness": {
+    "message": "Lluminositat"
+  },
+  "tuneContrast": {
+    "message": "Contrast"
+  },
+  "tuneSaturation": {
+    "message": "Saturació"
+  },
+  "tuneWarmth": {
+    "message": "Filtre de llum blava"
+  },
+  "reset": {
+    "message": "Restableix"
+  },
+  "powerPause": {
+    "message": "Pausa"
+  },
+  "powerResume": {
+    "message": "Reprèn"
+  },
+  "navSettings": {
+    "message": "Configuració"
+  },
+  "tabGeneral": {
+    "message": "General"
+  },
+  "tabSites": {
+    "message": "Llocs web"
+  },
+  "tabBackup": {
+    "message": "Còpia de seguretat"
+  },
+  "defaultMode": {
+    "message": "Mode predeterminat"
+  },
+  "followOS": {
+    "message": "Segueix el tema del sistema"
+  },
+  "followOSHint": {
+    "message": "Els llocs sense configuració desada es fan foscos quan el sistema està en mode fosc."
+  },
+  "darkScrollbars": {
+    "message": "Barres de desplaçament fosques"
+  },
+  "detectDark": {
+    "message": "Detecta llocs foscos"
+  },
+  "detectDarkHint": {
+    "message": "Deixa intactes els llocs que ja són foscos."
+  },
+  "schedule": {
+    "message": "Horari"
+  },
+  "scheduleFrom": {
+    "message": "Des de"
+  },
+  "scheduleTo": {
+    "message": "Fins a"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "languageAuto": {
+    "message": "Automàtic"
+  },
+  "shortcuts": {
+    "message": "Dreceres de teclat"
+  },
+  "shortcutsChange": {
+    "message": "Canvia les dreceres"
+  },
+  "shortcutNone": {
+    "message": "Sense assignar"
+  },
+  "sitesSearch": {
+    "message": "Cerca llocs web"
+  },
+  "add": {
+    "message": "Afegeix"
+  },
+  "filterAll": {
+    "message": "Tots"
+  },
+  "sitesEmpty": {
+    "message": "No hi ha cap lloc per mostrar."
+  },
+  "sitesRemove": {
+    "message": "Elimina"
+  },
+  "sitesRemoveAll": {
+    "message": "Elimina'ls tots"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Vols eliminar tots els llocs desats?"
+  },
+  "sitesSubdomains": {
+    "message": "La configuració desada per a un domini també s'aplica als seus subdominis."
+  },
+  "sitesInvalid": {
+    "message": "Introdueix un domini vàlid, com example.com."
+  },
+  "cancel": {
+    "message": "Cancel·la"
+  },
+  "backupExport": {
+    "message": "Exporta"
+  },
+  "backupImport": {
+    "message": "Importa"
+  },
+  "backupHint": {
+    "message": "Desa la configuració i els llocs en un fitxer, o restaura'ls des d'un fitxer."
+  },
+  "backupImported": {
+    "message": "Llocs importats: {count}"
+  },
+  "backupInvalid": {
+    "message": "Aquest fitxer no és una còpia de seguretat vàlida."
+  },
+  "aboutLine": {
+    "message": "Versió {version} · Creat per radiowasnton · Llicència Apache 2.0"
+  },
+  "engine": {
+    "message": "Motor"
+  },
+  "engineStyles": {
+    "message": "Estils"
+  },
+  "engineRender": {
+    "message": "Renderització"
+  },
+  "hintEngineStyles": {
+    "message": "Recolora el CSS de la pàgina i deixa intactes les imatges i el contingut. El més fidel."
+  },
+  "hintEngineRender": {
+    "message": "Inverteix la pàgina ja renderitzada amb un filtre de GPU. Funciona gairebé a tot arreu, però pot alterar les imatges."
+  },
+  "hcInvert": {
+    "message": "Colors invertits"
+  },
+  "hcInvertGray": {
+    "message": "Escala de grisos invertida"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Fosc amb fons en gris suau."
+  },
+  "hintOled": {
+    "message": "Fosc amb fons en negre pur. Estalvia energia en pantalles OLED."
+  },
+  "hcStack": {
+    "message": "Sobre el mode actual"
+  },
+  "hintHcStack": {
+    "message": "Activat: aplica l'esquema sobre els canvis del mode. Desactivat: mostra només l'esquema, com feia l'extensió original."
+  },
+  "solidBg": {
+    "message": "Fons sòlid"
+  },
+  "hintSolidBg": {
+    "message": "Substitueix les imatges i els degradats de fons de la pàgina per un color sòlid. Fes-lo servir si una pàgina només s'enfosqueix una mica."
+  }
+}

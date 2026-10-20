@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Tamni način rada"
+  },
+  "extDescription": {
+    "message": "Noć, življa nego ikad. Odaberite tamni ili svijetli način za svaku web-stranicu i priuštite svojim očima samo najbolje."
+  },
+  "cmdToggleSite": {
+    "message": "Prebaci između tamnog i uobičajenog načina na ovoj stranici"
+  },
+  "cmdCycleMode": {
+    "message": "Promijeni način: Tamni, Filtrirani, Uobičajeni"
+  },
+  "cmdToggleContrast": {
+    "message": "Uključi ili isključi visoki kontrast na ovoj stranici"
+  },
+  "cmdTogglePower": {
+    "message": "Pauziraj ili nastavi Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Tamni"
+  },
+  "modeFiltered": {
+    "message": "Filtrirani"
+  },
+  "modeNormal": {
+    "message": "Uobičajeni"
+  },
+  "modeContrast": {
+    "message": "Visoki kontrast"
+  },
+  "hintFiltered": {
+    "message": "Zadržava izvorne boje i ublažava svjetlinu i plavo svjetlo"
+  },
+  "hintContrast": {
+    "message": "Dodaje stil visokog kontrasta povrh odabranog načina"
+  },
+  "statusSaved": {
+    "message": "Spremljeno za ovu stranicu"
+  },
+  "statusDefault": {
+    "message": "Zadane postavke"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo je pauziran"
+  },
+  "statusScheduled": {
+    "message": "Izvan zakazanog vremena"
+  },
+  "unsupported": {
+    "message": "Sonámbulo ne može promijeniti ovu stranicu."
+  },
+  "hcBoost": {
+    "message": "Pojačan"
+  },
+  "hcGray": {
+    "message": "Sivi tonovi"
+  },
+  "hcYellow": {
+    "message": "Žuta na crnom"
+  },
+  "hcCyan": {
+    "message": "Cijan na crnom"
+  },
+  "hcGreen": {
+    "message": "Zelena na crnom"
+  },
+  "hcIntensity": {
+    "message": "Intenzitet"
+  },
+  "tuneTitle": {
+    "message": "Prilagodbe"
+  },
+  "tuneBrightness": {
+    "message": "Svjetlina"
+  },
+  "tuneContrast": {
+    "message": "Kontrast"
+  },
+  "tuneSaturation": {
+    "message": "Zasićenost"
+  },
+  "tuneWarmth": {
+    "message": "Filtar plavog svjetla"
+  },
+  "reset": {
+    "message": "Poništi"
+  },
+  "powerPause": {
+    "message": "Pauziraj"
+  },
+  "powerResume": {
+    "message": "Nastavi"
+  },
+  "navSettings": {
+    "message": "Postavke"
+  },
+  "tabGeneral": {
+    "message": "Općenito"
+  },
+  "tabSites": {
+    "message": "Web-stranice"
+  },
+  "tabBackup": {
+    "message": "Sigurnosna kopija"
+  },
+  "defaultMode": {
+    "message": "Zadani način"
+  },
+  "followOS": {
+    "message": "Prati temu sustava"
+  },
+  "followOSHint": {
+    "message": "Stranice bez spremljenih postavki postaju tamne kad je vaš sustav tamni."
+  },
+  "darkScrollbars": {
+    "message": "Tamne trake za pomicanje"
+  },
+  "detectDark": {
+    "message": "Prepoznaj tamne stranice"
+  },
+  "detectDarkHint": {
+    "message": "Ostavlja nepromijenjenima stranice koje su već tamne."
+  },
+  "schedule": {
+    "message": "Raspored"
+  },
+  "scheduleFrom": {
+    "message": "Od"
+  },
+  "scheduleTo": {
+    "message": "Do"
+  },
+  "language": {
+    "message": "Jezik"
+  },
+  "languageAuto": {
+    "message": "Automatski"
+  },
+  "shortcuts": {
+    "message": "Tipkovnički prečaci"
+  },
+  "shortcutsChange": {
+    "message": "Promijeni prečace"
+  },
+  "shortcutNone": {
+    "message": "Nije postavljeno"
+  },
+  "sitesSearch": {
+    "message": "Traži web-stranice"
+  },
+  "add": {
+    "message": "Dodaj"
+  },
+  "filterAll": {
+    "message": "Sve"
+  },
+  "sitesEmpty": {
+    "message": "Nema stranica za prikaz."
+  },
+  "sitesRemove": {
+    "message": "Ukloni"
+  },
+  "sitesRemoveAll": {
+    "message": "Ukloni sve"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Ukloniti sve spremljene stranice?"
+  },
+  "sitesSubdomains": {
+    "message": "Postavke spremljene za domenu vrijede i za njezine poddomene."
+  },
+  "sitesInvalid": {
+    "message": "Unesite valjanu domenu, na primjer example.com."
+  },
+  "cancel": {
+    "message": "Odustani"
+  },
+  "backupExport": {
+    "message": "Izvezi"
+  },
+  "backupImport": {
+    "message": "Uvezi"
+  },
+  "backupHint": {
+    "message": "Spremite postavke i stranice u datoteku ili ih vratite iz datoteke."
+  },
+  "backupImported": {
+    "message": "Uvezene stranice: {count}"
+  },
+  "backupInvalid": {
+    "message": "Ova datoteka nije valjana sigurnosna kopija."
+  },
+  "aboutLine": {
+    "message": "Verzija {version} · Autor: radiowasnton · Licenca Apache 2.0"
+  },
+  "engine": {
+    "message": "Mehanizam"
+  },
+  "engineStyles": {
+    "message": "Stilovi"
+  },
+  "engineRender": {
+    "message": "Renderiranje"
+  },
+  "hintEngineStyles": {
+    "message": "Prebojava CSS stranice i ne dira slike ni sadržaj. Najvjerniji."
+  },
+  "hintEngineRender": {
+    "message": "Invertira već renderiranu stranicu GPU filtrom. Radi gotovo posvuda, ali može izmijeniti slike."
+  },
+  "hcInvert": {
+    "message": "Invertirane boje"
+  },
+  "hcInvertGray": {
+    "message": "Invertirani sivi tonovi"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Tamno s mekom sivom pozadinom."
+  },
+  "hintOled": {
+    "message": "Tamno s čisto crnom pozadinom. Štedi energiju na OLED zaslonima."
+  },
+  "hcStack": {
+    "message": "Povrh načina"
+  },
+  "hintHcStack": {
+    "message": "Uključeno: primjenjuje shemu povrh promjena načina. Isključeno: prikazuje samo shemu, kao izvorno proširenje."
+  },
+  "solidBg": {
+    "message": "Puna pozadina"
+  },
+  "hintSolidBg": {
+    "message": "Zamjenjuje slike i prijelaze u pozadini stranice jednobojnom bojom. Upotrijebite ako se stranica tek malo zatamni."
+  }
+}

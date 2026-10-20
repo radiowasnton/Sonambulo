@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Mørk tilstand"
+  },
+  "extDescription": {
+    "message": "Natten, mere levende end nogensinde. Vælg mørk eller lys tilstand for hvert websted, og giv dine øjne kun det bedste."
+  },
+  "cmdToggleSite": {
+    "message": "Skift mellem mørk og normal tilstand på dette websted"
+  },
+  "cmdCycleMode": {
+    "message": "Skift tilstand: Mørk, Filtreret, Normal"
+  },
+  "cmdToggleContrast": {
+    "message": "Slå høj kontrast til eller fra på dette websted"
+  },
+  "cmdTogglePower": {
+    "message": "Sæt Sonámbulo på pause, eller genoptag det"
+  },
+  "modeDark": {
+    "message": "Mørk"
+  },
+  "modeFiltered": {
+    "message": "Filtreret"
+  },
+  "modeNormal": {
+    "message": "Normal"
+  },
+  "modeContrast": {
+    "message": "Høj kontrast"
+  },
+  "hintFiltered": {
+    "message": "Bevarer de originale farver og dæmper lysstyrke og blåt lys"
+  },
+  "hintContrast": {
+    "message": "Tilføjer en højkontrastvariant oven på den valgte tilstand"
+  },
+  "statusSaved": {
+    "message": "Gemt for dette websted"
+  },
+  "statusDefault": {
+    "message": "Standardindstillinger"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo er sat på pause"
+  },
+  "statusScheduled": {
+    "message": "Uden for de planlagte tidspunkter"
+  },
+  "unsupported": {
+    "message": "Sonámbulo kan ikke ændre denne side."
+  },
+  "hcBoost": {
+    "message": "Forstærket"
+  },
+  "hcGray": {
+    "message": "Gråtoner"
+  },
+  "hcYellow": {
+    "message": "Gul på sort"
+  },
+  "hcCyan": {
+    "message": "Cyan på sort"
+  },
+  "hcGreen": {
+    "message": "Grøn på sort"
+  },
+  "hcIntensity": {
+    "message": "Intensitet"
+  },
+  "tuneTitle": {
+    "message": "Justeringer"
+  },
+  "tuneBrightness": {
+    "message": "Lysstyrke"
+  },
+  "tuneContrast": {
+    "message": "Kontrast"
+  },
+  "tuneSaturation": {
+    "message": "Farvemætning"
+  },
+  "tuneWarmth": {
+    "message": "Filter til blåt lys"
+  },
+  "reset": {
+    "message": "Nulstil"
+  },
+  "powerPause": {
+    "message": "Pause"
+  },
+  "powerResume": {
+    "message": "Genoptag"
+  },
+  "navSettings": {
+    "message": "Indstillinger"
+  },
+  "tabGeneral": {
+    "message": "Generelt"
+  },
+  "tabSites": {
+    "message": "Websteder"
+  },
+  "tabBackup": {
+    "message": "Sikkerhedskopi"
+  },
+  "defaultMode": {
+    "message": "Standardtilstand"
+  },
+  "followOS": {
+    "message": "Følg systemets tema"
+  },
+  "followOSHint": {
+    "message": "Websteder uden gemte indstillinger bliver mørke, når dit system er i mørk tilstand."
+  },
+  "darkScrollbars": {
+    "message": "Mørke rullepaneler"
+  },
+  "detectDark": {
+    "message": "Registrer mørke websteder"
+  },
+  "detectDarkHint": {
+    "message": "Lader websteder, der allerede er mørke, være upåvirkede."
+  },
+  "schedule": {
+    "message": "Tidsplan"
+  },
+  "scheduleFrom": {
+    "message": "Fra"
+  },
+  "scheduleTo": {
+    "message": "Til"
+  },
+  "language": {
+    "message": "Sprog"
+  },
+  "languageAuto": {
+    "message": "Automatisk"
+  },
+  "shortcuts": {
+    "message": "Tastaturgenveje"
+  },
+  "shortcutsChange": {
+    "message": "Skift genveje"
+  },
+  "shortcutNone": {
+    "message": "Ikke angivet"
+  },
+  "sitesSearch": {
+    "message": "Søg efter websteder"
+  },
+  "add": {
+    "message": "Tilføj"
+  },
+  "filterAll": {
+    "message": "Alle"
+  },
+  "sitesEmpty": {
+    "message": "Ingen websteder at vise."
+  },
+  "sitesRemove": {
+    "message": "Fjern"
+  },
+  "sitesRemoveAll": {
+    "message": "Fjern alle"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Vil du fjerne alle gemte websteder?"
+  },
+  "sitesSubdomains": {
+    "message": "Indstillinger, der er gemt for et domæne, gælder også for dets underdomæner."
+  },
+  "sitesInvalid": {
+    "message": "Angiv et gyldigt domæne, f.eks. example.com."
+  },
+  "cancel": {
+    "message": "Annuller"
+  },
+  "backupExport": {
+    "message": "Eksportér"
+  },
+  "backupImport": {
+    "message": "Importér"
+  },
+  "backupHint": {
+    "message": "Gem dine indstillinger og websteder i en fil, eller gendan dem fra en fil."
+  },
+  "backupImported": {
+    "message": "Importerede websteder: {count}"
+  },
+  "backupInvalid": {
+    "message": "Den fil er ikke en gyldig sikkerhedskopi."
+  },
+  "aboutLine": {
+    "message": "Version {version} · Lavet af radiowasnton · Apache-licens 2.0"
+  },
+  "engine": {
+    "message": "Motor"
+  },
+  "engineStyles": {
+    "message": "Stilarter"
+  },
+  "engineRender": {
+    "message": "Rendering"
+  },
+  "hintEngineStyles": {
+    "message": "Omfarver sidens CSS og lader billeder og indhold være uberørt. Mest tro mod originalen."
+  },
+  "hintEngineRender": {
+    "message": "Inverterer den renderede side med et GPU-filter. Virker næsten overalt, men kan ændre billeder."
+  },
+  "hcInvert": {
+    "message": "Inverterede farver"
+  },
+  "hcInvertGray": {
+    "message": "Inverterede gråtoner"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Mørk med blød grå baggrund."
+  },
+  "hintOled": {
+    "message": "Mørk med helt sort baggrund. Sparer strøm på OLED-skærme."
+  },
+  "hcStack": {
+    "message": "Oven på tilstanden"
+  },
+  "hintHcStack": {
+    "message": "Til: anvender skemaet oven på tilstandens ændringer. Fra: viser kun skemaet, som den oprindelige udvidelse."
+  },
+  "solidBg": {
+    "message": "Ensfarvet baggrund"
+  },
+  "hintSolidBg": {
+    "message": "Erstatter sidens baggrundsbilleder og farveovergange med en ensfarvet flade. Brug den, hvis en side kun bliver lidt mørkere."
+  }
+}

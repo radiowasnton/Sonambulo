@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sonámbulo</title>
+  <link rel="stylesheet" href="../ui.css">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header class="bar">
+    <img class="logo" src="../../assets/brand/sonambulo-48.png" alt="" width="28" height="28">
+    <h1>Sonámbulo</h1>
+    <nav class="bar-actions">
+      <button class="icon-btn" id="open-sites" type="button" data-i18n-title="tabSites" data-i18n-aria="tabSites"><i class="glyph" data-g="globe"></i></button>
+      <button class="icon-btn" id="open-settings" type="button" data-i18n-title="navSettings" data-i18n-aria="navSettings"><i class="glyph" data-g="gear"></i></button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="site">
+      <p class="site-host" id="host"></p>
+      <p class="site-status" id="status"></p>
+    </section>
+
+    <p class="unsupported" id="unsupported" hidden>
+      <i class="glyph" data-g="ban"></i>
+      <span data-i18n="unsupported"></span>
+    </p>
+
+    <div id="controls">
+      <div class="modes">
+        <div class="seg" role="radiogroup" id="modes">
+          <button class="seg-item" type="button" role="radio" data-mode="dark" data-i18n-title="hintDark"><i class="glyph" data-g="moon"></i><span data-i18n="modeDark"></span></button>
+          <button class="seg-item" type="button" role="radio" data-mode="oled" data-i18n-title="hintOled"><i class="glyph" data-g="moon-solid"></i><span data-i18n="modeOled"></span></button>
+          <button class="seg-item" type="button" role="radio" data-mode="filtered" data-i18n-title="hintFiltered"><i class="glyph" data-g="dimmed-sun"></i><span data-i18n="modeFiltered"></span></button>
+          <button class="seg-item" type="button" role="radio" data-mode="normal"><i class="glyph" data-g="sun"></i><span data-i18n="modeNormal"></span></button>
+        </div>
+        <div class="seg">
+          <button class="seg-item" type="button" id="contrast-toggle" aria-pressed="false" data-i18n-title="hintContrast"><i class="glyph" data-g="contrast"></i><span data-i18n="modeContrast"></span></button>
+        </div>
+      </div>
+
+      <div class="engine" id="engine-row" hidden>
+        <span data-i18n="engine"></span>
+        <div class="chips" role="radiogroup" id="engines">
+          <button class="chip" type="button" role="radio" data-engine="styles" data-i18n="engineStyles" data-i18n-title="hintEngineStyles"></button>
+          <button class="chip" type="button" role="radio" data-engine="render" data-i18n="engineRender" data-i18n-title="hintEngineRender"></button>
+        </div>
+      </div>
+
+      <label class="row solid" id="solid-row" data-i18n-title="hintSolidBg" hidden>
+        <span data-i18n="solidBg"></span>
+        <span class="switch"><input type="checkbox" id="solid"><span></span></span>
+      </label>
+
+      <section class="panel" id="contrast-panel" hidden>
+        <div class="chips" role="radiogroup" id="presets" data-i18n-aria="modeContrast">
+          <button class="chip" type="button" role="radio" data-preset="boost" data-i18n="hcBoost"></button>
+          <button class="chip" type="button" role="radio" data-preset="gray" data-i18n="hcGray"></button>
+          <button class="chip" type="button" role="radio" data-preset="invert" data-i18n="hcInvert"></button>
+          <button class="chip" type="button" role="radio" data-preset="invertGray" data-i18n="hcInvertGray"></button>
+          <button class="chip" type="button" role="radio" data-preset="yellow" data-i18n="hcYellow"></button>
+          <button class="chip" type="button" role="radio" data-preset="cyan" data-i18n="hcCyan"></button>
+          <button class="chip" type="button" role="radio" data-preset="green" data-i18n="hcGreen"></button>
+        </div>
+        <label class="row" data-i18n-title="hintHcStack">
+          <span data-i18n="hcStack"></span>
+          <span class="switch"><input type="checkbox" id="hc-stack"><span></span></span>
+        </label>
+        <label class="slider">
+          <span data-i18n="hcIntensity"></span><output id="level-out"></output>
+          <input type="range" id="level" min="0" max="100" step="5">
+        </label>
+      </section>
+
+      <details class="panel" id="tune">
+        <summary>
+          <i class="glyph" data-g="sliders"></i>
+          <span data-i18n="tuneTitle"></span>
+          <i class="glyph chevron" data-g="chevron-down"></i>
+        </summary>
+        <div class="tune-body">
+          <label class="slider"><span data-i18n="tuneBrightness"></span><output></output><input type="range" data-tune="brightness" min="50" max="150" step="1"></label>
+          <label class="slider"><span data-i18n="tuneContrast"></span><output></output><input type="range" data-tune="contrast" min="50" max="150" step="1"></label>
+          <label class="slider"><span data-i18n="tuneSaturation"></span><output></output><input type="range" data-tune="saturation" min="0" max="200" step="1"></label>
+          <label class="slider"><span data-i18n="tuneWarmth"></span><output></output><input type="range" data-tune="warmth" min="0" max="100" step="1"></label>
+          <button class="btn" type="button" id="reset"><i class="glyph" data-g="reset"></i><span data-i18n="reset"></span></button>
+        </div>
+      </details>
+    </div>
+  </main>
+
+  <footer>
+    <button class="power" type="button" id="power" aria-pressed="true"><i class="glyph" data-g="power"></i><span id="power-label"></span></button>
+    <span class="version" id="version"></span>
+  </footer>
+
+  <script src="../core.js"></script>
+  <script src="../i18n.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

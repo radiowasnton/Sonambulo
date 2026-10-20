@@ -1,0 +1,3 @@
+img[src*="/insights/"] {
+    filter: invert(1);
+}

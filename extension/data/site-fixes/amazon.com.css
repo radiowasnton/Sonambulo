@@ -1,0 +1,12 @@
+.a-button-primary .a-button-text,
+.a-button-oneclick .a-button-inner .a-button-text,
+.discountPillWrapper .pill.discountPillLeft.pillLightUp,
+.newCouponBadge {
+    color: #fff !important
+}
+
+.a-button-primary,
+.a-button-oneclick,
+.newCouponBadge {
+    background-color: #a36e29 !important;
+}

@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - حالت تاریک"
+  },
+  "extDescription": {
+    "message": "شب، زنده‌تر از همیشه. برای هر وب‌سایت حالت تاریک یا روشن را انتخاب کنید و به چشمانتان فقط بهترین را هدیه دهید."
+  },
+  "cmdToggleSite": {
+    "message": "جابه‌جایی بین حالت تاریک و عادی در این سایت"
+  },
+  "cmdCycleMode": {
+    "message": "تغییر حالت: تاریک، فیلترشده، عادی"
+  },
+  "cmdToggleContrast": {
+    "message": "روشن یا خاموش کردن کنتراست بالا در این سایت"
+  },
+  "cmdTogglePower": {
+    "message": "توقف موقت یا ادامهٔ Sonámbulo"
+  },
+  "modeDark": {
+    "message": "تاریک"
+  },
+  "modeFiltered": {
+    "message": "فیلترشده"
+  },
+  "modeNormal": {
+    "message": "عادی"
+  },
+  "modeContrast": {
+    "message": "کنتراست بالا"
+  },
+  "hintFiltered": {
+    "message": "رنگ‌های اصلی را حفظ می‌کند و روشنایی و نور آبی را ملایم می‌کند"
+  },
+  "hintContrast": {
+    "message": "یک سبک با کنتراست بالا روی حالت انتخاب‌شده اضافه می‌کند"
+  },
+  "statusSaved": {
+    "message": "برای این سایت ذخیره شد"
+  },
+  "statusDefault": {
+    "message": "تنظیمات پیش‌فرض"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo متوقف شده است"
+  },
+  "statusScheduled": {
+    "message": "خارج از ساعت‌های زمان‌بندی‌شده"
+  },
+  "unsupported": {
+    "message": "Sonámbulo نمی‌تواند این صفحه را تغییر دهد."
+  },
+  "hcBoost": {
+    "message": "تقویت‌شده"
+  },
+  "hcGray": {
+    "message": "مقیاس خاکستری"
+  },
+  "hcYellow": {
+    "message": "زرد روی مشکی"
+  },
+  "hcCyan": {
+    "message": "فیروزه‌ای روی مشکی"
+  },
+  "hcGreen": {
+    "message": "سبز روی مشکی"
+  },
+  "hcIntensity": {
+    "message": "شدت"
+  },
+  "tuneTitle": {
+    "message": "تنظیمات تصویر"
+  },
+  "tuneBrightness": {
+    "message": "روشنایی"
+  },
+  "tuneContrast": {
+    "message": "کنتراست"
+  },
+  "tuneSaturation": {
+    "message": "اشباع"
+  },
+  "tuneWarmth": {
+    "message": "فیلتر نور آبی"
+  },
+  "reset": {
+    "message": "بازنشانی"
+  },
+  "powerPause": {
+    "message": "توقف موقت"
+  },
+  "powerResume": {
+    "message": "ادامه"
+  },
+  "navSettings": {
+    "message": "تنظیمات"
+  },
+  "tabGeneral": {
+    "message": "عمومی"
+  },
+  "tabSites": {
+    "message": "وب‌سایت‌ها"
+  },
+  "tabBackup": {
+    "message": "پشتیبان"
+  },
+  "defaultMode": {
+    "message": "حالت پیش‌فرض"
+  },
+  "followOS": {
+    "message": "پیروی از پوستهٔ سیستم"
+  },
+  "followOSHint": {
+    "message": "وقتی سیستم شما در حالت تاریک است، سایت‌های بدون تنظیمات ذخیره‌شده تاریک می‌شوند."
+  },
+  "darkScrollbars": {
+    "message": "نوارهای پیمایش تاریک"
+  },
+  "detectDark": {
+    "message": "تشخیص سایت‌های تاریک"
+  },
+  "detectDarkHint": {
+    "message": "سایت‌هایی را که از قبل تاریک هستند دست‌نخورده می‌گذارد."
+  },
+  "schedule": {
+    "message": "زمان‌بندی"
+  },
+  "scheduleFrom": {
+    "message": "از"
+  },
+  "scheduleTo": {
+    "message": "تا"
+  },
+  "language": {
+    "message": "زبان"
+  },
+  "languageAuto": {
+    "message": "خودکار"
+  },
+  "shortcuts": {
+    "message": "میان‌برهای صفحه‌کلید"
+  },
+  "shortcutsChange": {
+    "message": "تغییر میان‌برها"
+  },
+  "shortcutNone": {
+    "message": "تنظیم نشده"
+  },
+  "sitesSearch": {
+    "message": "جست‌وجوی وب‌سایت‌ها"
+  },
+  "add": {
+    "message": "افزودن"
+  },
+  "filterAll": {
+    "message": "همه"
+  },
+  "sitesEmpty": {
+    "message": "وب‌سایتی برای نمایش وجود ندارد."
+  },
+  "sitesRemove": {
+    "message": "حذف"
+  },
+  "sitesRemoveAll": {
+    "message": "حذف همه"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "همهٔ وب‌سایت‌های ذخیره‌شده حذف شوند؟"
+  },
+  "sitesSubdomains": {
+    "message": "تنظیماتی که برای یک دامنه ذخیره می‌شود، برای زیردامنه‌های آن نیز اعمال می‌شود."
+  },
+  "sitesInvalid": {
+    "message": "یک دامنهٔ معتبر وارد کنید، مثلاً example.com."
+  },
+  "cancel": {
+    "message": "لغو"
+  },
+  "backupExport": {
+    "message": "برون‌بری"
+  },
+  "backupImport": {
+    "message": "درون‌ریزی"
+  },
+  "backupHint": {
+    "message": "تنظیمات و وب‌سایت‌هایتان را در یک فایل ذخیره کنید یا از یک فایل بازیابی کنید."
+  },
+  "backupImported": {
+    "message": "وب‌سایت‌های درون‌ریزی‌شده: {count}"
+  },
+  "backupInvalid": {
+    "message": "این فایل یک پشتیبان معتبر نیست."
+  },
+  "aboutLine": {
+    "message": "نسخهٔ {version} · ساختهٔ radiowasnton · مجوز Apache 2.0"
+  },
+  "engine": {
+    "message": "موتور"
+  },
+  "engineStyles": {
+    "message": "سبک‌ها"
+  },
+  "engineRender": {
+    "message": "رندر"
+  },
+  "hintEngineStyles": {
+    "message": "CSS صفحه را بازرنگ می‌کند و تصاویر و محتوا را دست‌نخورده می‌گذارد. وفادارترین."
+  },
+  "hintEngineRender": {
+    "message": "صفحهٔ رندرشده را با فیلتر GPU وارونه می‌کند. تقریباً همه‌جا کار می‌کند اما ممکن است تصاویر را تغییر دهد."
+  },
+  "hcInvert": {
+    "message": "رنگ‌های وارونه"
+  },
+  "hcInvertGray": {
+    "message": "مقیاس خاکستری وارونه"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "تاریک با پس‌زمینهٔ خاکستری ملایم."
+  },
+  "hintOled": {
+    "message": "تاریک با پس‌زمینهٔ مشکی خالص. در نمایشگرهای OLED مصرف انرژی را کم می‌کند."
+  },
+  "hcStack": {
+    "message": "روی حالت فعلی"
+  },
+  "hintHcStack": {
+    "message": "روشن: طرح را روی تغییرات حالت اعمال می‌کند. خاموش: فقط طرح را نشان می‌دهد، مانند افزونهٔ اصلی."
+  },
+  "solidBg": {
+    "message": "پس‌زمینهٔ یکدست"
+  },
+  "hintSolidBg": {
+    "message": "تصاویر و گرادیان‌های پس‌زمینهٔ صفحه را با یک رنگ ساده جایگزین می‌کند. اگر صفحه فقط کمی تیره می‌شود از آن استفاده کنید."
+  }
+}

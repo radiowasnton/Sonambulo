@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Mørk modus"
+  },
+  "extDescription": {
+    "message": "Natten, mer levende enn noen gang. Velg mørk eller lys modus for hvert nettsted, og gi øynene dine bare det beste."
+  },
+  "cmdToggleSite": {
+    "message": "Bytt mellom mørk og normal modus på dette nettstedet"
+  },
+  "cmdCycleMode": {
+    "message": "Bytt modus: Mørk, Filtrert, Normal"
+  },
+  "cmdToggleContrast": {
+    "message": "Slå høy kontrast på eller av for dette nettstedet"
+  },
+  "cmdTogglePower": {
+    "message": "Sett Sonámbulo på pause, eller gjenoppta det"
+  },
+  "modeDark": {
+    "message": "Mørk"
+  },
+  "modeFiltered": {
+    "message": "Filtrert"
+  },
+  "modeNormal": {
+    "message": "Normal"
+  },
+  "modeContrast": {
+    "message": "Høy kontrast"
+  },
+  "hintFiltered": {
+    "message": "Beholder de opprinnelige fargene og demper lysstyrke og blått lys"
+  },
+  "hintContrast": {
+    "message": "Legger til en høykontrastvariant oppå valgt modus"
+  },
+  "statusSaved": {
+    "message": "Lagret for dette nettstedet"
+  },
+  "statusDefault": {
+    "message": "Standardinnstillinger"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo er satt på pause"
+  },
+  "statusScheduled": {
+    "message": "Utenfor de planlagte tidene"
+  },
+  "unsupported": {
+    "message": "Sonámbulo kan ikke endre denne siden."
+  },
+  "hcBoost": {
+    "message": "Forsterket"
+  },
+  "hcGray": {
+    "message": "Gråtoner"
+  },
+  "hcYellow": {
+    "message": "Gult på svart"
+  },
+  "hcCyan": {
+    "message": "Cyan på svart"
+  },
+  "hcGreen": {
+    "message": "Grønt på svart"
+  },
+  "hcIntensity": {
+    "message": "Intensitet"
+  },
+  "tuneTitle": {
+    "message": "Justeringer"
+  },
+  "tuneBrightness": {
+    "message": "Lysstyrke"
+  },
+  "tuneContrast": {
+    "message": "Kontrast"
+  },
+  "tuneSaturation": {
+    "message": "Metning"
+  },
+  "tuneWarmth": {
+    "message": "Filter for blått lys"
+  },
+  "reset": {
+    "message": "Tilbakestill"
+  },
+  "powerPause": {
+    "message": "Pause"
+  },
+  "powerResume": {
+    "message": "Gjenoppta"
+  },
+  "navSettings": {
+    "message": "Innstillinger"
+  },
+  "tabGeneral": {
+    "message": "Generelt"
+  },
+  "tabSites": {
+    "message": "Nettsteder"
+  },
+  "tabBackup": {
+    "message": "Sikkerhetskopi"
+  },
+  "defaultMode": {
+    "message": "Standardmodus"
+  },
+  "followOS": {
+    "message": "Følg systemets tema"
+  },
+  "followOSHint": {
+    "message": "Nettsteder uten lagrede innstillinger blir mørke når systemet ditt er i mørk modus."
+  },
+  "darkScrollbars": {
+    "message": "Mørke rullefelt"
+  },
+  "detectDark": {
+    "message": "Gjenkjenn mørke nettsteder"
+  },
+  "detectDarkHint": {
+    "message": "Lar nettsteder som allerede er mørke, være i fred."
+  },
+  "schedule": {
+    "message": "Tidsplan"
+  },
+  "scheduleFrom": {
+    "message": "Fra"
+  },
+  "scheduleTo": {
+    "message": "Til"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "languageAuto": {
+    "message": "Automatisk"
+  },
+  "shortcuts": {
+    "message": "Hurtigtaster"
+  },
+  "shortcutsChange": {
+    "message": "Endre hurtigtaster"
+  },
+  "shortcutNone": {
+    "message": "Ikke angitt"
+  },
+  "sitesSearch": {
+    "message": "Søk etter nettsteder"
+  },
+  "add": {
+    "message": "Legg til"
+  },
+  "filterAll": {
+    "message": "Alle"
+  },
+  "sitesEmpty": {
+    "message": "Ingen nettsteder å vise."
+  },
+  "sitesRemove": {
+    "message": "Fjern"
+  },
+  "sitesRemoveAll": {
+    "message": "Fjern alle"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Vil du fjerne alle lagrede nettsteder?"
+  },
+  "sitesSubdomains": {
+    "message": "Innstillinger som er lagret for et domene, gjelder også for underdomenene."
+  },
+  "sitesInvalid": {
+    "message": "Skriv inn et gyldig domene, for eksempel example.com."
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "backupExport": {
+    "message": "Eksporter"
+  },
+  "backupImport": {
+    "message": "Importer"
+  },
+  "backupHint": {
+    "message": "Lagre innstillingene og nettstedene dine i en fil, eller gjenopprett dem fra en fil."
+  },
+  "backupImported": {
+    "message": "Importerte nettsteder: {count}"
+  },
+  "backupInvalid": {
+    "message": "Den filen er ikke en gyldig sikkerhetskopi."
+  },
+  "aboutLine": {
+    "message": "Versjon {version} · Laget av radiowasnton · Apache-lisens 2.0"
+  },
+  "engine": {
+    "message": "Motor"
+  },
+  "engineStyles": {
+    "message": "Stiler"
+  },
+  "engineRender": {
+    "message": "Gjengivelse"
+  },
+  "hintEngineStyles": {
+    "message": "Omfarger sidens CSS og lar bilder og innhold være urørt. Mest tro mot originalen."
+  },
+  "hintEngineRender": {
+    "message": "Inverterer den gjengitte siden med et GPU-filter. Fungerer nesten overalt, men kan endre bilder."
+  },
+  "hcInvert": {
+    "message": "Inverterte farger"
+  },
+  "hcInvertGray": {
+    "message": "Inverterte gråtoner"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Mørk med myk grå bakgrunn."
+  },
+  "hintOled": {
+    "message": "Mørk med helt svart bakgrunn. Sparer strøm på OLED-skjermer."
+  },
+  "hcStack": {
+    "message": "Oppå modusen"
+  },
+  "hintHcStack": {
+    "message": "På: bruker skjemaet oppå modusens endringer. Av: viser bare skjemaet, som den opprinnelige utvidelsen."
+  },
+  "solidBg": {
+    "message": "Ensfarget bakgrunn"
+  },
+  "hintSolidBg": {
+    "message": "Erstatter sidens bakgrunnsbilder og fargeoverganger med en ensfarget flate. Bruk den hvis en side bare blir litt mørkere."
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Temni način"
+  },
+  "extDescription": {
+    "message": "Noč, bolj živa kot kdaj prej. Izberite temni ali svetli način za vsako spletno mesto in svojim očem privoščite le najboljše."
+  },
+  "cmdToggleSite": {
+    "message": "Preklopi med temnim in običajnim načinom na tem mestu"
+  },
+  "cmdCycleMode": {
+    "message": "Zamenjaj način: Temni, Filtrirani, Običajni"
+  },
+  "cmdToggleContrast": {
+    "message": "Vklopi ali izklopi visok kontrast na tem mestu"
+  },
+  "cmdTogglePower": {
+    "message": "Začasno ustavi ali nadaljuj Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Temni"
+  },
+  "modeFiltered": {
+    "message": "Filtrirani"
+  },
+  "modeNormal": {
+    "message": "Običajni"
+  },
+  "modeContrast": {
+    "message": "Visok kontrast"
+  },
+  "hintFiltered": {
+    "message": "Ohrani izvirne barve ter omili svetlost in modro svetlobo"
+  },
+  "hintContrast": {
+    "message": "Doda slog z visokim kontrastom nad izbranim načinom"
+  },
+  "statusSaved": {
+    "message": "Shranjeno za to mesto"
+  },
+  "statusDefault": {
+    "message": "Privzete nastavitve"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo je začasno ustavljen"
+  },
+  "statusScheduled": {
+    "message": "Zunaj načrtovanih ur"
+  },
+  "unsupported": {
+    "message": "Sonámbulo ne more spremeniti te strani."
+  },
+  "hcBoost": {
+    "message": "Povečan"
+  },
+  "hcGray": {
+    "message": "Sivinska lestvica"
+  },
+  "hcYellow": {
+    "message": "Rumena na črnem"
+  },
+  "hcCyan": {
+    "message": "Cian na črnem"
+  },
+  "hcGreen": {
+    "message": "Zelena na črnem"
+  },
+  "hcIntensity": {
+    "message": "Jakost"
+  },
+  "tuneTitle": {
+    "message": "Prilagoditve"
+  },
+  "tuneBrightness": {
+    "message": "Svetlost"
+  },
+  "tuneContrast": {
+    "message": "Kontrast"
+  },
+  "tuneSaturation": {
+    "message": "Nasičenost"
+  },
+  "tuneWarmth": {
+    "message": "Filter modre svetlobe"
+  },
+  "reset": {
+    "message": "Ponastavi"
+  },
+  "powerPause": {
+    "message": "Ustavi"
+  },
+  "powerResume": {
+    "message": "Nadaljuj"
+  },
+  "navSettings": {
+    "message": "Nastavitve"
+  },
+  "tabGeneral": {
+    "message": "Splošno"
+  },
+  "tabSites": {
+    "message": "Spletna mesta"
+  },
+  "tabBackup": {
+    "message": "Varnostna kopija"
+  },
+  "defaultMode": {
+    "message": "Privzeti način"
+  },
+  "followOS": {
+    "message": "Sledi temi sistema"
+  },
+  "followOSHint": {
+    "message": "Spletna mesta brez shranjenih nastavitev postanejo temna, ko je vaš sistem temen."
+  },
+  "darkScrollbars": {
+    "message": "Temni drsniki"
+  },
+  "detectDark": {
+    "message": "Zaznaj temna spletna mesta"
+  },
+  "detectDarkHint": {
+    "message": "Mest, ki so že temna, ne spremeni."
+  },
+  "schedule": {
+    "message": "Urnik"
+  },
+  "scheduleFrom": {
+    "message": "Od"
+  },
+  "scheduleTo": {
+    "message": "Do"
+  },
+  "language": {
+    "message": "Jezik"
+  },
+  "languageAuto": {
+    "message": "Samodejno"
+  },
+  "shortcuts": {
+    "message": "Bližnjice na tipkovnici"
+  },
+  "shortcutsChange": {
+    "message": "Spremeni bližnjice"
+  },
+  "shortcutNone": {
+    "message": "Ni nastavljeno"
+  },
+  "sitesSearch": {
+    "message": "Iskanje spletnih mest"
+  },
+  "add": {
+    "message": "Dodaj"
+  },
+  "filterAll": {
+    "message": "Vsa"
+  },
+  "sitesEmpty": {
+    "message": "Ni spletnih mest za prikaz."
+  },
+  "sitesRemove": {
+    "message": "Odstrani"
+  },
+  "sitesRemoveAll": {
+    "message": "Odstrani vse"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Želite odstraniti vsa shranjena spletna mesta?"
+  },
+  "sitesSubdomains": {
+    "message": "Nastavitve, shranjene za domeno, veljajo tudi za njene poddomene."
+  },
+  "sitesInvalid": {
+    "message": "Vnesite veljavno domeno, na primer example.com."
+  },
+  "cancel": {
+    "message": "Prekliči"
+  },
+  "backupExport": {
+    "message": "Izvozi"
+  },
+  "backupImport": {
+    "message": "Uvozi"
+  },
+  "backupHint": {
+    "message": "Shranite nastavitve in spletna mesta v datoteko ali jih obnovite iz nje."
+  },
+  "backupImported": {
+    "message": "Uvožena spletna mesta: {count}"
+  },
+  "backupInvalid": {
+    "message": "Ta datoteka ni veljavna varnostna kopija."
+  },
+  "aboutLine": {
+    "message": "Različica {version} · Avtor: radiowasnton · Licenca Apache 2.0"
+  },
+  "engine": {
+    "message": "Pogon"
+  },
+  "engineStyles": {
+    "message": "Slogi"
+  },
+  "engineRender": {
+    "message": "Upodabljanje"
+  },
+  "hintEngineStyles": {
+    "message": "Prebarva CSS strani in pusti slike ter vsebino nedotaknjene. Najzvestejši."
+  },
+  "hintEngineRender": {
+    "message": "Obrne že upodobljeno stran s filtrom GPU. Deluje skoraj povsod, a lahko spremeni slike."
+  },
+  "hcInvert": {
+    "message": "Obrnjene barve"
+  },
+  "hcInvertGray": {
+    "message": "Obrnjena sivinska lestvica"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Temno z mehkim sivim ozadjem."
+  },
+  "hintOled": {
+    "message": "Temno s čisto črnim ozadjem. Varčuje z energijo na zaslonih OLED."
+  },
+  "hcStack": {
+    "message": "Povrh načina"
+  },
+  "hintHcStack": {
+    "message": "Vklopljeno: uporabi shemo povrh sprememb načina. Izklopljeno: prikaže samo shemo, kot izvirna razširitev."
+  },
+  "solidBg": {
+    "message": "Polno ozadje"
+  },
+  "hintSolidBg": {
+    "message": "Slike in prelive v ozadju strani nadomesti z enobarvno barvo. Uporabite, če stran potemni le malo."
+  }
+}

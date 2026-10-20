@@ -1,0 +1,4 @@
+.fa-icon-svg {
+    --_fa-icon-svg-w: var(--fa-icon-svg-w, var(--fa-icon-svg-w--variant, nhl-spacing(3))) !important;
+    --_fa-icon-svg-h: var(--fa-icon-svg-h, var(--_fa-icon-svg-w)) !important;
+}

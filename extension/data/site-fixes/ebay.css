@@ -1,0 +1,21 @@
+html body {
+    background: none !important;
+    background-image: none !important;
+}
+
+button i {
+    filter: invert(85%);
+}
+
+#gh-shipto-click button i {
+    filter: none;
+}
+
+li[aria-current="true"] {
+    background: none;
+    background-color: #323237;
+}
+
+#msgpanel table tr {
+    background: rgb(31, 31, 31) !important;
+}

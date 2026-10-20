@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - מצב כהה"
+  },
+  "extDescription": {
+    "message": "הלילה, חי מתמיד. בחרו מצב כהה או בהיר לכל אתר, ותנו לעיניים שלכם רק את הטוב ביותר."
+  },
+  "cmdToggleSite": {
+    "message": "החלפה בין מצב כהה לרגיל באתר זה"
+  },
+  "cmdCycleMode": {
+    "message": "החלפת מצב: כהה, מסונן, רגיל"
+  },
+  "cmdToggleContrast": {
+    "message": "הפעלה או כיבוי של ניגודיות גבוהה באתר זה"
+  },
+  "cmdTogglePower": {
+    "message": "השהיה או המשך של Sonámbulo"
+  },
+  "modeDark": {
+    "message": "כהה"
+  },
+  "modeFiltered": {
+    "message": "מסונן"
+  },
+  "modeNormal": {
+    "message": "רגיל"
+  },
+  "modeContrast": {
+    "message": "ניגודיות גבוהה"
+  },
+  "hintFiltered": {
+    "message": "שומר על הצבעים המקוריים ומעמעם בהירות ואור כחול"
+  },
+  "hintContrast": {
+    "message": "מוסיף סגנון בניגודיות גבוהה מעל המצב שנבחר"
+  },
+  "statusSaved": {
+    "message": "נשמר עבור אתר זה"
+  },
+  "statusDefault": {
+    "message": "הגדרות ברירת מחדל"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo מושהה"
+  },
+  "statusScheduled": {
+    "message": "מחוץ לשעות המתוזמנות"
+  },
+  "unsupported": {
+    "message": "Sonámbulo לא יכול לשנות את הדף הזה."
+  },
+  "hcBoost": {
+    "message": "מוגבר"
+  },
+  "hcGray": {
+    "message": "גווני אפור"
+  },
+  "hcYellow": {
+    "message": "צהוב על שחור"
+  },
+  "hcCyan": {
+    "message": "ציאן על שחור"
+  },
+  "hcGreen": {
+    "message": "ירוק על שחור"
+  },
+  "hcIntensity": {
+    "message": "עוצמה"
+  },
+  "tuneTitle": {
+    "message": "התאמות"
+  },
+  "tuneBrightness": {
+    "message": "בהירות"
+  },
+  "tuneContrast": {
+    "message": "ניגודיות"
+  },
+  "tuneSaturation": {
+    "message": "רוויה"
+  },
+  "tuneWarmth": {
+    "message": "מסנן אור כחול"
+  },
+  "reset": {
+    "message": "איפוס"
+  },
+  "powerPause": {
+    "message": "השהיה"
+  },
+  "powerResume": {
+    "message": "המשך"
+  },
+  "navSettings": {
+    "message": "הגדרות"
+  },
+  "tabGeneral": {
+    "message": "כללי"
+  },
+  "tabSites": {
+    "message": "אתרים"
+  },
+  "tabBackup": {
+    "message": "גיבוי"
+  },
+  "defaultMode": {
+    "message": "מצב ברירת מחדל"
+  },
+  "followOS": {
+    "message": "לפי ערכת הנושא של המערכת"
+  },
+  "followOSHint": {
+    "message": "אתרים ללא הגדרות שמורות הופכים לכהים כשהמערכת שלכם במצב כהה."
+  },
+  "darkScrollbars": {
+    "message": "פסי גלילה כהים"
+  },
+  "detectDark": {
+    "message": "זיהוי אתרים כהים"
+  },
+  "detectDarkHint": {
+    "message": "משאיר ללא שינוי אתרים שכבר כהים."
+  },
+  "schedule": {
+    "message": "תזמון"
+  },
+  "scheduleFrom": {
+    "message": "מ-"
+  },
+  "scheduleTo": {
+    "message": "עד"
+  },
+  "language": {
+    "message": "שפה"
+  },
+  "languageAuto": {
+    "message": "אוטומטי"
+  },
+  "shortcuts": {
+    "message": "קיצורי מקשים"
+  },
+  "shortcutsChange": {
+    "message": "שינוי קיצורים"
+  },
+  "shortcutNone": {
+    "message": "לא מוגדר"
+  },
+  "sitesSearch": {
+    "message": "חיפוש אתרים"
+  },
+  "add": {
+    "message": "הוספה"
+  },
+  "filterAll": {
+    "message": "הכול"
+  },
+  "sitesEmpty": {
+    "message": "אין אתרים להצגה."
+  },
+  "sitesRemove": {
+    "message": "הסרה"
+  },
+  "sitesRemoveAll": {
+    "message": "הסרת הכול"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "להסיר את כל האתרים השמורים?"
+  },
+  "sitesSubdomains": {
+    "message": "הגדרות שנשמרו עבור דומיין חלות גם על תת-הדומיינים שלו."
+  },
+  "sitesInvalid": {
+    "message": "הזינו דומיין תקין, למשל example.com."
+  },
+  "cancel": {
+    "message": "ביטול"
+  },
+  "backupExport": {
+    "message": "ייצוא"
+  },
+  "backupImport": {
+    "message": "ייבוא"
+  },
+  "backupHint": {
+    "message": "שמרו את ההגדרות והאתרים שלכם בקובץ, או שחזרו אותם מקובץ."
+  },
+  "backupImported": {
+    "message": "אתרים שיובאו: {count}"
+  },
+  "backupInvalid": {
+    "message": "הקובץ הזה אינו גיבוי תקין."
+  },
+  "aboutLine": {
+    "message": "גרסה {version} · נוצר על ידי radiowasnton · רישיון Apache 2.0"
+  },
+  "engine": {
+    "message": "מנוע"
+  },
+  "engineStyles": {
+    "message": "סגנונות"
+  },
+  "engineRender": {
+    "message": "עיבוד"
+  },
+  "hintEngineStyles": {
+    "message": "צובע מחדש את ה-CSS של הדף ומשאיר תמונות ותוכן ללא שינוי. הנאמן ביותר."
+  },
+  "hintEngineRender": {
+    "message": "הופך את הדף המעובד באמצעות מסנן GPU. עובד כמעט בכל מקום, אך עלול לשנות תמונות."
+  },
+  "hcInvert": {
+    "message": "צבעים הפוכים"
+  },
+  "hcInvertGray": {
+    "message": "גווני אפור הפוכים"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "כהה עם רקע אפור רך."
+  },
+  "hintOled": {
+    "message": "כהה עם רקע שחור טהור. חוסך אנרגיה במסכי OLED."
+  },
+  "hcStack": {
+    "message": "מעל המצב"
+  },
+  "hintHcStack": {
+    "message": "פעיל: מחיל את הסכמה מעל שינויי המצב. כבוי: מציג את הסכמה בלבד, כמו התוסף המקורי."
+  },
+  "solidBg": {
+    "message": "רקע אחיד"
+  },
+  "hintSolidBg": {
+    "message": "מחליף תמונות רקע ומעברי צבע בדף בצבע אחיד. מתאים כשדף מחשיך רק מעט."
+  }
+}

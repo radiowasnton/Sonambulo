@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Mod întunecat"
+  },
+  "extDescription": {
+    "message": "Noaptea, mai vie ca niciodată. Alege modul întunecat sau luminos pentru fiecare site și oferă ochilor tăi doar ce e mai bun."
+  },
+  "cmdToggleSite": {
+    "message": "Comută între modul întunecat și cel normal pe acest site"
+  },
+  "cmdCycleMode": {
+    "message": "Schimbă modul: Întunecat, Filtrat, Normal"
+  },
+  "cmdToggleContrast": {
+    "message": "Activează sau dezactivează contrastul ridicat pe acest site"
+  },
+  "cmdTogglePower": {
+    "message": "Pune Sonámbulo în pauză sau reia-l"
+  },
+  "modeDark": {
+    "message": "Întunecat"
+  },
+  "modeFiltered": {
+    "message": "Filtrat"
+  },
+  "modeNormal": {
+    "message": "Normal"
+  },
+  "modeContrast": {
+    "message": "Contrast ridicat"
+  },
+  "hintFiltered": {
+    "message": "Păstrează culorile originale și atenuează luminozitatea și lumina albastră"
+  },
+  "hintContrast": {
+    "message": "Adaugă un stil cu contrast ridicat peste modul ales"
+  },
+  "statusSaved": {
+    "message": "Salvat pentru acest site"
+  },
+  "statusDefault": {
+    "message": "Setări implicite"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo este în pauză"
+  },
+  "statusScheduled": {
+    "message": "În afara orelor programate"
+  },
+  "unsupported": {
+    "message": "Sonámbulo nu poate modifica această pagină."
+  },
+  "hcBoost": {
+    "message": "Mărit"
+  },
+  "hcGray": {
+    "message": "Tonuri de gri"
+  },
+  "hcYellow": {
+    "message": "Galben pe negru"
+  },
+  "hcCyan": {
+    "message": "Cian pe negru"
+  },
+  "hcGreen": {
+    "message": "Verde pe negru"
+  },
+  "hcIntensity": {
+    "message": "Intensitate"
+  },
+  "tuneTitle": {
+    "message": "Ajustări"
+  },
+  "tuneBrightness": {
+    "message": "Luminozitate"
+  },
+  "tuneContrast": {
+    "message": "Contrast"
+  },
+  "tuneSaturation": {
+    "message": "Saturație"
+  },
+  "tuneWarmth": {
+    "message": "Filtru de lumină albastră"
+  },
+  "reset": {
+    "message": "Resetează"
+  },
+  "powerPause": {
+    "message": "Pauză"
+  },
+  "powerResume": {
+    "message": "Reia"
+  },
+  "navSettings": {
+    "message": "Setări"
+  },
+  "tabGeneral": {
+    "message": "General"
+  },
+  "tabSites": {
+    "message": "Site-uri"
+  },
+  "tabBackup": {
+    "message": "Copie de rezervă"
+  },
+  "defaultMode": {
+    "message": "Mod implicit"
+  },
+  "followOS": {
+    "message": "Urmărește tema sistemului"
+  },
+  "followOSHint": {
+    "message": "Site-urile fără setări salvate devin întunecate când sistemul tău este în modul întunecat."
+  },
+  "darkScrollbars": {
+    "message": "Bare de derulare întunecate"
+  },
+  "detectDark": {
+    "message": "Detectează site-urile întunecate"
+  },
+  "detectDarkHint": {
+    "message": "Lasă neschimbate site-urile care sunt deja întunecate."
+  },
+  "schedule": {
+    "message": "Program"
+  },
+  "scheduleFrom": {
+    "message": "De la"
+  },
+  "scheduleTo": {
+    "message": "Până la"
+  },
+  "language": {
+    "message": "Limbă"
+  },
+  "languageAuto": {
+    "message": "Automată"
+  },
+  "shortcuts": {
+    "message": "Comenzi rapide de la tastatură"
+  },
+  "shortcutsChange": {
+    "message": "Schimbă comenzile rapide"
+  },
+  "shortcutNone": {
+    "message": "Nesetată"
+  },
+  "sitesSearch": {
+    "message": "Caută site-uri"
+  },
+  "add": {
+    "message": "Adaugă"
+  },
+  "filterAll": {
+    "message": "Toate"
+  },
+  "sitesEmpty": {
+    "message": "Niciun site de afișat."
+  },
+  "sitesRemove": {
+    "message": "Elimină"
+  },
+  "sitesRemoveAll": {
+    "message": "Elimină-le pe toate"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Elimini toate site-urile salvate?"
+  },
+  "sitesSubdomains": {
+    "message": "Setările salvate pentru un domeniu se aplică și subdomeniilor sale."
+  },
+  "sitesInvalid": {
+    "message": "Introdu un domeniu valid, de exemplu example.com."
+  },
+  "cancel": {
+    "message": "Anulează"
+  },
+  "backupExport": {
+    "message": "Exportă"
+  },
+  "backupImport": {
+    "message": "Importă"
+  },
+  "backupHint": {
+    "message": "Salvează setările și site-urile într-un fișier sau restaurează-le dintr-un fișier."
+  },
+  "backupImported": {
+    "message": "Site-uri importate: {count}"
+  },
+  "backupInvalid": {
+    "message": "Acest fișier nu este o copie de rezervă validă."
+  },
+  "aboutLine": {
+    "message": "Versiunea {version} · Creat de radiowasnton · Licența Apache 2.0"
+  },
+  "engine": {
+    "message": "Motor"
+  },
+  "engineStyles": {
+    "message": "Stiluri"
+  },
+  "engineRender": {
+    "message": "Randare"
+  },
+  "hintEngineStyles": {
+    "message": "Recolorează CSS-ul paginii și lasă neatinse imaginile și conținutul. Cel mai fidel."
+  },
+  "hintEngineRender": {
+    "message": "Inversează pagina deja randată cu un filtru GPU. Funcționează aproape peste tot, dar poate altera imaginile."
+  },
+  "hcInvert": {
+    "message": "Culori inversate"
+  },
+  "hcInvertGray": {
+    "message": "Tonuri de gri inversate"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Întunecat cu fundaluri gri moale."
+  },
+  "hintOled": {
+    "message": "Întunecat cu fundaluri negre pure. Economisește energie pe ecranele OLED."
+  },
+  "hcStack": {
+    "message": "Peste modul curent"
+  },
+  "hintHcStack": {
+    "message": "Activat: aplică schema peste modificările modului. Dezactivat: afișează doar schema, ca extensia originală."
+  },
+  "solidBg": {
+    "message": "Fundal uni"
+  },
+  "hintSolidBg": {
+    "message": "Înlocuiește imaginile și gradientele de fundal ale paginii cu o culoare uniformă. Folosește-l dacă o pagină se întunecă doar puțin."
+  }
+}

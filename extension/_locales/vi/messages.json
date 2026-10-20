@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Chế độ tối"
+  },
+  "extDescription": {
+    "message": "Màn đêm sống động hơn bao giờ hết. Chọn chế độ tối hoặc sáng cho từng trang web và dành cho đôi mắt của bạn điều tốt nhất."
+  },
+  "cmdToggleSite": {
+    "message": "Chuyển giữa chế độ tối và chế độ thường trên trang này"
+  },
+  "cmdCycleMode": {
+    "message": "Đổi chế độ: Tối, Lọc, Thường"
+  },
+  "cmdToggleContrast": {
+    "message": "Bật hoặc tắt độ tương phản cao trên trang này"
+  },
+  "cmdTogglePower": {
+    "message": "Tạm dừng hoặc tiếp tục Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Tối"
+  },
+  "modeFiltered": {
+    "message": "Lọc"
+  },
+  "modeNormal": {
+    "message": "Thường"
+  },
+  "modeContrast": {
+    "message": "Tương phản cao"
+  },
+  "hintFiltered": {
+    "message": "Giữ nguyên màu gốc và làm dịu độ sáng cùng ánh sáng xanh"
+  },
+  "hintContrast": {
+    "message": "Thêm kiểu tương phản cao lên trên chế độ đã chọn"
+  },
+  "statusSaved": {
+    "message": "Đã lưu cho trang này"
+  },
+  "statusDefault": {
+    "message": "Cài đặt mặc định"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo đang tạm dừng"
+  },
+  "statusScheduled": {
+    "message": "Ngoài giờ đã lên lịch"
+  },
+  "unsupported": {
+    "message": "Sonámbulo không thể thay đổi trang này."
+  },
+  "hcBoost": {
+    "message": "Tăng cường"
+  },
+  "hcGray": {
+    "message": "Thang độ xám"
+  },
+  "hcYellow": {
+    "message": "Vàng trên nền đen"
+  },
+  "hcCyan": {
+    "message": "Lục lam trên nền đen"
+  },
+  "hcGreen": {
+    "message": "Xanh lá trên nền đen"
+  },
+  "hcIntensity": {
+    "message": "Cường độ"
+  },
+  "tuneTitle": {
+    "message": "Điều chỉnh"
+  },
+  "tuneBrightness": {
+    "message": "Độ sáng"
+  },
+  "tuneContrast": {
+    "message": "Độ tương phản"
+  },
+  "tuneSaturation": {
+    "message": "Độ bão hòa"
+  },
+  "tuneWarmth": {
+    "message": "Bộ lọc ánh sáng xanh"
+  },
+  "reset": {
+    "message": "Đặt lại"
+  },
+  "powerPause": {
+    "message": "Tạm dừng"
+  },
+  "powerResume": {
+    "message": "Tiếp tục"
+  },
+  "navSettings": {
+    "message": "Cài đặt"
+  },
+  "tabGeneral": {
+    "message": "Chung"
+  },
+  "tabSites": {
+    "message": "Trang web"
+  },
+  "tabBackup": {
+    "message": "Sao lưu"
+  },
+  "defaultMode": {
+    "message": "Chế độ mặc định"
+  },
+  "followOS": {
+    "message": "Theo giao diện hệ thống"
+  },
+  "followOSHint": {
+    "message": "Các trang chưa lưu cài đặt sẽ chuyển sang tối khi hệ thống của bạn ở chế độ tối."
+  },
+  "darkScrollbars": {
+    "message": "Thanh cuộn tối"
+  },
+  "detectDark": {
+    "message": "Phát hiện trang web tối"
+  },
+  "detectDarkHint": {
+    "message": "Giữ nguyên các trang đã tối sẵn."
+  },
+  "schedule": {
+    "message": "Lịch trình"
+  },
+  "scheduleFrom": {
+    "message": "Từ"
+  },
+  "scheduleTo": {
+    "message": "Đến"
+  },
+  "language": {
+    "message": "Ngôn ngữ"
+  },
+  "languageAuto": {
+    "message": "Tự động"
+  },
+  "shortcuts": {
+    "message": "Phím tắt"
+  },
+  "shortcutsChange": {
+    "message": "Đổi phím tắt"
+  },
+  "shortcutNone": {
+    "message": "Chưa đặt"
+  },
+  "sitesSearch": {
+    "message": "Tìm trang web"
+  },
+  "add": {
+    "message": "Thêm"
+  },
+  "filterAll": {
+    "message": "Tất cả"
+  },
+  "sitesEmpty": {
+    "message": "Không có trang web nào để hiển thị."
+  },
+  "sitesRemove": {
+    "message": "Xóa"
+  },
+  "sitesRemoveAll": {
+    "message": "Xóa tất cả"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Xóa tất cả trang web đã lưu?"
+  },
+  "sitesSubdomains": {
+    "message": "Cài đặt đã lưu cho một tên miền cũng áp dụng cho các tên miền phụ của nó."
+  },
+  "sitesInvalid": {
+    "message": "Nhập tên miền hợp lệ, chẳng hạn example.com."
+  },
+  "cancel": {
+    "message": "Hủy"
+  },
+  "backupExport": {
+    "message": "Xuất"
+  },
+  "backupImport": {
+    "message": "Nhập"
+  },
+  "backupHint": {
+    "message": "Lưu cài đặt và trang web của bạn vào một tệp, hoặc khôi phục từ một tệp."
+  },
+  "backupImported": {
+    "message": "Trang web đã nhập: {count}"
+  },
+  "backupInvalid": {
+    "message": "Tệp này không phải là bản sao lưu hợp lệ."
+  },
+  "aboutLine": {
+    "message": "Phiên bản {version} · Tạo bởi radiowasnton · Giấy phép Apache 2.0"
+  },
+  "engine": {
+    "message": "Công cụ"
+  },
+  "engineStyles": {
+    "message": "Kiểu dáng"
+  },
+  "engineRender": {
+    "message": "Kết xuất"
+  },
+  "hintEngineStyles": {
+    "message": "Đổi màu CSS của trang và giữ nguyên hình ảnh lẫn nội dung. Trung thực nhất."
+  },
+  "hintEngineRender": {
+    "message": "Đảo màu trang đã kết xuất bằng bộ lọc GPU. Chạy được hầu hết mọi nơi nhưng có thể làm thay đổi hình ảnh."
+  },
+  "hcInvert": {
+    "message": "Đảo màu"
+  },
+  "hcInvertGray": {
+    "message": "Thang độ xám đảo màu"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Tối với nền xám dịu."
+  },
+  "hintOled": {
+    "message": "Tối với nền đen tuyền. Tiết kiệm điện trên màn hình OLED."
+  },
+  "hcStack": {
+    "message": "Chồng lên chế độ"
+  },
+  "hintHcStack": {
+    "message": "Bật: áp dụng bảng màu lên trên các thay đổi của chế độ. Tắt: chỉ hiển thị bảng màu, như tiện ích gốc."
+  },
+  "solidBg": {
+    "message": "Nền đặc"
+  },
+  "hintSolidBg": {
+    "message": "Thay hình nền và dải màu của trang bằng một màu đặc. Dùng khi trang chỉ tối đi một chút."
+  }
+}

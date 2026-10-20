@@ -1,0 +1,9 @@
+body {
+    background: none !important;
+}
+
+.ipc-page-background .ipc-page-section,
+.ipc-page-background .ipc-page-section::before {
+    background: none !important;
+    background-color: #2b2b2b !important;
+}

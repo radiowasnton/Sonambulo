@@ -1,0 +1,16 @@
+.filled-svg,
+.fill-svg {
+    display: none;
+}
+
+#pipeline-view-board-container svg[fill="none"] {
+    display: none;
+}
+
+body {
+    background-color: red !important;
+}
+
+div[style*='--pd-color-surface-foreground-secondary'] {
+    background-color: #424242 !important;
+}

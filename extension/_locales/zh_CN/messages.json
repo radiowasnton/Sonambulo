@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - 深色模式"
+  },
+  "extDescription": {
+    "message": "夜晚，比以往更生动。为每个网站选择深色或浅色模式，只给双眼最好的呵护。"
+  },
+  "cmdToggleSite": {
+    "message": "在此网站上切换深色和普通模式"
+  },
+  "cmdCycleMode": {
+    "message": "循环切换模式：深色、滤镜、普通"
+  },
+  "cmdToggleContrast": {
+    "message": "在此网站上开启或关闭高对比度"
+  },
+  "cmdTogglePower": {
+    "message": "暂停或恢复 Sonámbulo"
+  },
+  "modeDark": {
+    "message": "深色"
+  },
+  "modeFiltered": {
+    "message": "滤镜"
+  },
+  "modeNormal": {
+    "message": "普通"
+  },
+  "modeContrast": {
+    "message": "高对比度"
+  },
+  "hintFiltered": {
+    "message": "保留原有色彩，并柔化亮度和蓝光"
+  },
+  "hintContrast": {
+    "message": "在所选模式之上叠加高对比度样式"
+  },
+  "statusSaved": {
+    "message": "已为此网站保存"
+  },
+  "statusDefault": {
+    "message": "默认设置"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo 已暂停"
+  },
+  "statusScheduled": {
+    "message": "不在计划时段内"
+  },
+  "unsupported": {
+    "message": "Sonámbulo 无法修改此页面。"
+  },
+  "hcBoost": {
+    "message": "增强"
+  },
+  "hcGray": {
+    "message": "灰度"
+  },
+  "hcYellow": {
+    "message": "黑底黄字"
+  },
+  "hcCyan": {
+    "message": "黑底青字"
+  },
+  "hcGreen": {
+    "message": "黑底绿字"
+  },
+  "hcIntensity": {
+    "message": "强度"
+  },
+  "tuneTitle": {
+    "message": "调整"
+  },
+  "tuneBrightness": {
+    "message": "亮度"
+  },
+  "tuneContrast": {
+    "message": "对比度"
+  },
+  "tuneSaturation": {
+    "message": "饱和度"
+  },
+  "tuneWarmth": {
+    "message": "蓝光过滤"
+  },
+  "reset": {
+    "message": "重置"
+  },
+  "powerPause": {
+    "message": "暂停"
+  },
+  "powerResume": {
+    "message": "恢复"
+  },
+  "navSettings": {
+    "message": "设置"
+  },
+  "tabGeneral": {
+    "message": "常规"
+  },
+  "tabSites": {
+    "message": "网站"
+  },
+  "tabBackup": {
+    "message": "备份"
+  },
+  "defaultMode": {
+    "message": "默认模式"
+  },
+  "followOS": {
+    "message": "跟随系统主题"
+  },
+  "followOSHint": {
+    "message": "没有保存设置的网站会在系统处于深色模式时变为深色。"
+  },
+  "darkScrollbars": {
+    "message": "深色滚动条"
+  },
+  "detectDark": {
+    "message": "检测深色网站"
+  },
+  "detectDarkHint": {
+    "message": "不处理本身已是深色的网站。"
+  },
+  "schedule": {
+    "message": "计划"
+  },
+  "scheduleFrom": {
+    "message": "开始"
+  },
+  "scheduleTo": {
+    "message": "结束"
+  },
+  "language": {
+    "message": "语言"
+  },
+  "languageAuto": {
+    "message": "自动"
+  },
+  "shortcuts": {
+    "message": "键盘快捷键"
+  },
+  "shortcutsChange": {
+    "message": "更改快捷键"
+  },
+  "shortcutNone": {
+    "message": "未设置"
+  },
+  "sitesSearch": {
+    "message": "搜索网站"
+  },
+  "add": {
+    "message": "添加"
+  },
+  "filterAll": {
+    "message": "全部"
+  },
+  "sitesEmpty": {
+    "message": "没有可显示的网站。"
+  },
+  "sitesRemove": {
+    "message": "移除"
+  },
+  "sitesRemoveAll": {
+    "message": "全部移除"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "要移除所有已保存的网站吗？"
+  },
+  "sitesSubdomains": {
+    "message": "为某个域名保存的设置同样适用于它的子域名。"
+  },
+  "sitesInvalid": {
+    "message": "请输入有效的域名，例如 example.com。"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "backupExport": {
+    "message": "导出"
+  },
+  "backupImport": {
+    "message": "导入"
+  },
+  "backupHint": {
+    "message": "将设置和网站保存到文件，或从文件中恢复。"
+  },
+  "backupImported": {
+    "message": "已导入的网站：{count}"
+  },
+  "backupInvalid": {
+    "message": "该文件不是有效的备份。"
+  },
+  "aboutLine": {
+    "message": "版本 {version} · 作者：radiowasnton · Apache 许可证 2.0"
+  },
+  "engine": {
+    "message": "引擎"
+  },
+  "engineStyles": {
+    "message": "样式"
+  },
+  "engineRender": {
+    "message": "渲染"
+  },
+  "hintEngineStyles": {
+    "message": "重新着色页面的 CSS，不改动图片和内容。最忠实。"
+  },
+  "hintEngineRender": {
+    "message": "用 GPU 滤镜反转已渲染的页面。几乎适用于所有网站，但可能改变图片。"
+  },
+  "hcInvert": {
+    "message": "反色"
+  },
+  "hcInvertGray": {
+    "message": "反色灰度"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "柔和灰色背景的深色。"
+  },
+  "hintOled": {
+    "message": "纯黑背景的深色。可在 OLED 屏幕上省电。"
+  },
+  "hcStack": {
+    "message": "叠加在模式之上"
+  },
+  "hintHcStack": {
+    "message": "开启：在模式所做的更改之上应用配色方案。关闭：仅显示配色方案，与原版扩展一致。"
+  },
+  "solidBg": {
+    "message": "纯色背景"
+  },
+  "hintSolidBg": {
+    "message": "用纯色替换页面的背景图片和渐变。当页面只是略微变暗时使用。"
+  }
+}

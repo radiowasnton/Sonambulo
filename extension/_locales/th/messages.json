@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - โหมดมืด"
+  },
+  "extDescription": {
+    "message": "ค่ำคืนที่มีชีวิตชีวากว่าที่เคย เลือกโหมดมืดหรือโหมดสว่างให้แต่ละเว็บไซต์ แล้วมอบสิ่งที่ดีที่สุดให้ดวงตาของคุณ"
+  },
+  "cmdToggleSite": {
+    "message": "สลับระหว่างโหมดมืดกับโหมดปกติบนเว็บไซต์นี้"
+  },
+  "cmdCycleMode": {
+    "message": "สลับโหมด: มืด, กรอง, ปกติ"
+  },
+  "cmdToggleContrast": {
+    "message": "เปิดหรือปิดคอนทราสต์สูงบนเว็บไซต์นี้"
+  },
+  "cmdTogglePower": {
+    "message": "หยุดชั่วคราวหรือเปิดใช้ Sonámbulo ต่อ"
+  },
+  "modeDark": {
+    "message": "มืด"
+  },
+  "modeFiltered": {
+    "message": "กรอง"
+  },
+  "modeNormal": {
+    "message": "ปกติ"
+  },
+  "modeContrast": {
+    "message": "คอนทราสต์สูง"
+  },
+  "hintFiltered": {
+    "message": "คงสีเดิมไว้ และลดความสว่างกับแสงสีฟ้าให้นุ่มนวลลง"
+  },
+  "hintContrast": {
+    "message": "เพิ่มสไตล์คอนทราสต์สูงทับบนโหมดที่เลือก"
+  },
+  "statusSaved": {
+    "message": "บันทึกไว้สำหรับเว็บไซต์นี้"
+  },
+  "statusDefault": {
+    "message": "การตั้งค่าเริ่มต้น"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo หยุดชั่วคราวอยู่"
+  },
+  "statusScheduled": {
+    "message": "นอกช่วงเวลาที่ตั้งไว้"
+  },
+  "unsupported": {
+    "message": "Sonámbulo ไม่สามารถเปลี่ยนแปลงหน้านี้ได้"
+  },
+  "hcBoost": {
+    "message": "เพิ่มความเข้ม"
+  },
+  "hcGray": {
+    "message": "ระดับสีเทา"
+  },
+  "hcYellow": {
+    "message": "เหลืองบนดำ"
+  },
+  "hcCyan": {
+    "message": "ฟ้าอมเขียวบนดำ"
+  },
+  "hcGreen": {
+    "message": "เขียวบนดำ"
+  },
+  "hcIntensity": {
+    "message": "ความเข้ม"
+  },
+  "tuneTitle": {
+    "message": "การปรับแต่ง"
+  },
+  "tuneBrightness": {
+    "message": "ความสว่าง"
+  },
+  "tuneContrast": {
+    "message": "คอนทราสต์"
+  },
+  "tuneSaturation": {
+    "message": "ความอิ่มสี"
+  },
+  "tuneWarmth": {
+    "message": "ตัวกรองแสงสีฟ้า"
+  },
+  "reset": {
+    "message": "รีเซ็ต"
+  },
+  "powerPause": {
+    "message": "หยุดชั่วคราว"
+  },
+  "powerResume": {
+    "message": "ดำเนินการต่อ"
+  },
+  "navSettings": {
+    "message": "การตั้งค่า"
+  },
+  "tabGeneral": {
+    "message": "ทั่วไป"
+  },
+  "tabSites": {
+    "message": "เว็บไซต์"
+  },
+  "tabBackup": {
+    "message": "การสำรองข้อมูล"
+  },
+  "defaultMode": {
+    "message": "โหมดเริ่มต้น"
+  },
+  "followOS": {
+    "message": "ตามธีมของระบบ"
+  },
+  "followOSHint": {
+    "message": "เว็บไซต์ที่ไม่มีการตั้งค่าที่บันทึกไว้จะเปลี่ยนเป็นโหมดมืดเมื่อระบบของคุณอยู่ในโหมดมืด"
+  },
+  "darkScrollbars": {
+    "message": "แถบเลื่อนสีเข้ม"
+  },
+  "detectDark": {
+    "message": "ตรวจจับเว็บไซต์โหมดมืด"
+  },
+  "detectDarkHint": {
+    "message": "ไม่แตะต้องเว็บไซต์ที่มืดอยู่แล้ว"
+  },
+  "schedule": {
+    "message": "กำหนดเวลา"
+  },
+  "scheduleFrom": {
+    "message": "ตั้งแต่"
+  },
+  "scheduleTo": {
+    "message": "ถึง"
+  },
+  "language": {
+    "message": "ภาษา"
+  },
+  "languageAuto": {
+    "message": "อัตโนมัติ"
+  },
+  "shortcuts": {
+    "message": "แป้นพิมพ์ลัด"
+  },
+  "shortcutsChange": {
+    "message": "เปลี่ยนแป้นพิมพ์ลัด"
+  },
+  "shortcutNone": {
+    "message": "ยังไม่ได้ตั้งค่า"
+  },
+  "sitesSearch": {
+    "message": "ค้นหาเว็บไซต์"
+  },
+  "add": {
+    "message": "เพิ่ม"
+  },
+  "filterAll": {
+    "message": "ทั้งหมด"
+  },
+  "sitesEmpty": {
+    "message": "ไม่มีเว็บไซต์ที่จะแสดง"
+  },
+  "sitesRemove": {
+    "message": "นำออก"
+  },
+  "sitesRemoveAll": {
+    "message": "นำออกทั้งหมด"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "นำเว็บไซต์ที่บันทึกไว้ทั้งหมดออกหรือไม่"
+  },
+  "sitesSubdomains": {
+    "message": "การตั้งค่าที่บันทึกไว้สำหรับโดเมนจะใช้กับโดเมนย่อยของโดเมนนั้นด้วย"
+  },
+  "sitesInvalid": {
+    "message": "ป้อนโดเมนที่ถูกต้อง เช่น example.com"
+  },
+  "cancel": {
+    "message": "ยกเลิก"
+  },
+  "backupExport": {
+    "message": "ส่งออก"
+  },
+  "backupImport": {
+    "message": "นำเข้า"
+  },
+  "backupHint": {
+    "message": "บันทึกการตั้งค่าและเว็บไซต์ของคุณลงในไฟล์ หรือกู้คืนจากไฟล์"
+  },
+  "backupImported": {
+    "message": "เว็บไซต์ที่นำเข้า: {count}"
+  },
+  "backupInvalid": {
+    "message": "ไฟล์นี้ไม่ใช่ข้อมูลสำรองที่ถูกต้อง"
+  },
+  "aboutLine": {
+    "message": "เวอร์ชัน {version} · สร้างโดย radiowasnton · สัญญาอนุญาต Apache 2.0"
+  },
+  "engine": {
+    "message": "เอนจิน"
+  },
+  "engineStyles": {
+    "message": "สไตล์"
+  },
+  "engineRender": {
+    "message": "เรนเดอร์"
+  },
+  "hintEngineStyles": {
+    "message": "เปลี่ยนสีของ CSS ในหน้าเว็บ โดยไม่แตะต้องรูปภาพและเนื้อหา ตรงต้นฉบับที่สุด"
+  },
+  "hintEngineRender": {
+    "message": "กลับสีหน้าเว็บที่เรนเดอร์แล้วด้วยตัวกรอง GPU ใช้ได้เกือบทุกที่ แต่อาจเปลี่ยนรูปภาพ"
+  },
+  "hcInvert": {
+    "message": "สีกลับด้าน"
+  },
+  "hcInvertGray": {
+    "message": "ระดับสีเทากลับด้าน"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "โหมดมืดพื้นหลังเทานุ่ม"
+  },
+  "hintOled": {
+    "message": "โหมดมืดพื้นหลังดำสนิท ประหยัดพลังงานบนจอ OLED"
+  },
+  "hcStack": {
+    "message": "ซ้อนทับบนโหมด"
+  },
+  "hintHcStack": {
+    "message": "เปิด: ใช้ชุดสีทับการเปลี่ยนแปลงของโหมด ปิด: แสดงเฉพาะชุดสี เหมือนส่วนขยายต้นฉบับ"
+  },
+  "solidBg": {
+    "message": "พื้นหลังสีล้วน"
+  },
+  "hintSolidBg": {
+    "message": "แทนที่ภาพพื้นหลังและการไล่สีของหน้าด้วยสีล้วน ใช้เมื่อหน้าเว็บมืดลงเพียงเล็กน้อย"
+  }
+}

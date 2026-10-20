@@ -1,0 +1,67 @@
+/* Sonámbulo — popup. Copyright 2026 radiowasnton · SPDX-License-Identifier: Apache-2.0 */
+
+body { width: 348px; }
+
+.bar { display: flex; align-items: center; gap: 10px; padding: 14px 14px 10px; }
+.logo { border-radius: 8px; }
+.bar h1 { font-size: 17px; font-weight: 600; letter-spacing: 0.04em; }
+.bar-actions { display: flex; gap: 4px; margin-inline-start: auto; }
+
+main { display: grid; gap: 12px; padding: 0 14px 12px; }
+
+.site { padding: 2px 2px 0; }
+.site-host { overflow: hidden; font-size: 15px; font-weight: 600; text-overflow: ellipsis; white-space: nowrap; }
+.site-status { color: var(--muted); font-size: 12px; }
+
+.unsupported {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px;
+  border: 1px dashed var(--line-hi);
+  border-radius: var(--radius);
+  color: var(--muted);
+}
+
+#controls { display: grid; gap: 12px; }
+#controls.is-off { opacity: 0.4; pointer-events: none; }
+
+.modes { display: grid; grid-template-columns: 4fr 1.15fr; gap: 8px; }
+.modes .seg { grid-auto-flow: column; }
+.modes .seg:last-child .seg-item { height: 100%; }
+
+.solid { padding: 0 2px; color: var(--muted); }
+
+.engine { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 0 2px; color: var(--muted); }
+
+.panel { padding: 12px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+.panel:not([hidden]) { display: grid; gap: 12px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+
+details.panel:not([hidden]) { display: block; padding: 0; }
+summary { display: flex; align-items: center; gap: 8px; padding: 11px 12px; color: var(--muted); list-style: none; cursor: pointer; }
+summary::-webkit-details-marker { display: none; }
+summary:hover { color: var(--text); }
+summary .chevron { width: 16px; height: 16px; margin-inline-start: auto; transition: transform 0.15s; }
+details[open] summary .chevron { transform: rotate(180deg); }
+.tune-body { display: grid; gap: 12px; padding: 2px 12px 12px; }
+.tune-body .btn { justify-self: start; }
+
+footer { display: flex; align-items: center; justify-content: space-between; padding: 10px 14px 12px; border-top: 1px solid var(--line); }
+.version { color: var(--muted); font-size: 11px; }
+
+.power {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px 6px 9px;
+  border: 1px solid var(--line-hi);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.power:hover { border-color: var(--accent); color: var(--text); }
+.power[aria-pressed="true"] { border-color: var(--accent); color: var(--accent-hi); }
+.power .glyph { width: 17px; height: 17px; }

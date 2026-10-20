@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Karanlık Mod"
+  },
+  "extDescription": {
+    "message": "Gece, her zamankinden daha canlı. Her web sitesi için karanlık veya aydınlık modu seçin, gözlerinize yalnızca en iyisini verin."
+  },
+  "cmdToggleSite": {
+    "message": "Bu sitede karanlık ve normal mod arasında geçiş yap"
+  },
+  "cmdCycleMode": {
+    "message": "Modu değiştir: Karanlık, Filtreli, Normal"
+  },
+  "cmdToggleContrast": {
+    "message": "Bu sitede yüksek karşıtlığı aç veya kapat"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo'yu duraklat veya sürdür"
+  },
+  "modeDark": {
+    "message": "Karanlık"
+  },
+  "modeFiltered": {
+    "message": "Filtreli"
+  },
+  "modeNormal": {
+    "message": "Normal"
+  },
+  "modeContrast": {
+    "message": "Yüksek karşıtlık"
+  },
+  "hintFiltered": {
+    "message": "Özgün renkleri korur, parlaklığı ve mavi ışığı yumuşatır"
+  },
+  "hintContrast": {
+    "message": "Seçilen modun üzerine yüksek karşıtlıklı bir stil ekler"
+  },
+  "statusSaved": {
+    "message": "Bu site için kaydedildi"
+  },
+  "statusDefault": {
+    "message": "Varsayılan ayarlar"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo duraklatıldı"
+  },
+  "statusScheduled": {
+    "message": "Planlanan saatlerin dışında"
+  },
+  "unsupported": {
+    "message": "Sonámbulo bu sayfayı değiştiremez."
+  },
+  "hcBoost": {
+    "message": "Artırılmış"
+  },
+  "hcGray": {
+    "message": "Gri tonlama"
+  },
+  "hcYellow": {
+    "message": "Siyah üzerinde sarı"
+  },
+  "hcCyan": {
+    "message": "Siyah üzerinde camgöbeği"
+  },
+  "hcGreen": {
+    "message": "Siyah üzerinde yeşil"
+  },
+  "hcIntensity": {
+    "message": "Yoğunluk"
+  },
+  "tuneTitle": {
+    "message": "Ayarlamalar"
+  },
+  "tuneBrightness": {
+    "message": "Parlaklık"
+  },
+  "tuneContrast": {
+    "message": "Karşıtlık"
+  },
+  "tuneSaturation": {
+    "message": "Doygunluk"
+  },
+  "tuneWarmth": {
+    "message": "Mavi ışık filtresi"
+  },
+  "reset": {
+    "message": "Sıfırla"
+  },
+  "powerPause": {
+    "message": "Duraklat"
+  },
+  "powerResume": {
+    "message": "Sürdür"
+  },
+  "navSettings": {
+    "message": "Ayarlar"
+  },
+  "tabGeneral": {
+    "message": "Genel"
+  },
+  "tabSites": {
+    "message": "Web siteleri"
+  },
+  "tabBackup": {
+    "message": "Yedekleme"
+  },
+  "defaultMode": {
+    "message": "Varsayılan mod"
+  },
+  "followOS": {
+    "message": "Sistem temasını izle"
+  },
+  "followOSHint": {
+    "message": "Kayıtlı ayarı olmayan siteler, sisteminiz karanlık moddayken karanlık olur."
+  },
+  "darkScrollbars": {
+    "message": "Koyu kaydırma çubukları"
+  },
+  "detectDark": {
+    "message": "Karanlık siteleri algıla"
+  },
+  "detectDarkHint": {
+    "message": "Zaten karanlık olan sitelere dokunmaz."
+  },
+  "schedule": {
+    "message": "Zamanlama"
+  },
+  "scheduleFrom": {
+    "message": "Başlangıç"
+  },
+  "scheduleTo": {
+    "message": "Bitiş"
+  },
+  "language": {
+    "message": "Dil"
+  },
+  "languageAuto": {
+    "message": "Otomatik"
+  },
+  "shortcuts": {
+    "message": "Klavye kısayolları"
+  },
+  "shortcutsChange": {
+    "message": "Kısayolları değiştir"
+  },
+  "shortcutNone": {
+    "message": "Atanmamış"
+  },
+  "sitesSearch": {
+    "message": "Web sitelerinde ara"
+  },
+  "add": {
+    "message": "Ekle"
+  },
+  "filterAll": {
+    "message": "Tümü"
+  },
+  "sitesEmpty": {
+    "message": "Gösterilecek site yok."
+  },
+  "sitesRemove": {
+    "message": "Kaldır"
+  },
+  "sitesRemoveAll": {
+    "message": "Tümünü kaldır"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Kayıtlı tüm siteler kaldırılsın mı?"
+  },
+  "sitesSubdomains": {
+    "message": "Bir alan adı için kaydedilen ayarlar, alt alan adları için de geçerlidir."
+  },
+  "sitesInvalid": {
+    "message": "Geçerli bir alan adı girin, örneğin example.com."
+  },
+  "cancel": {
+    "message": "İptal"
+  },
+  "backupExport": {
+    "message": "Dışa aktar"
+  },
+  "backupImport": {
+    "message": "İçe aktar"
+  },
+  "backupHint": {
+    "message": "Ayarlarınızı ve sitelerinizi bir dosyaya kaydedin ya da bir dosyadan geri yükleyin."
+  },
+  "backupImported": {
+    "message": "İçe aktarılan siteler: {count}"
+  },
+  "backupInvalid": {
+    "message": "Bu dosya geçerli bir yedek değil."
+  },
+  "aboutLine": {
+    "message": "Sürüm {version} · Geliştiren: radiowasnton · Apache Lisansı 2.0"
+  },
+  "engine": {
+    "message": "Motor"
+  },
+  "engineStyles": {
+    "message": "Stiller"
+  },
+  "engineRender": {
+    "message": "Oluşturma"
+  },
+  "hintEngineStyles": {
+    "message": "Sayfanın CSS'ini yeniden renklendirir; görsellere ve içeriğe dokunmaz. En sadık olanı."
+  },
+  "hintEngineRender": {
+    "message": "Oluşturulmuş sayfayı GPU filtresiyle tersine çevirir. Neredeyse her yerde çalışır ama görselleri değiştirebilir."
+  },
+  "hcInvert": {
+    "message": "Ters renkler"
+  },
+  "hcInvertGray": {
+    "message": "Ters gri tonlama"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Yumuşak gri arka planlı karanlık."
+  },
+  "hintOled": {
+    "message": "Saf siyah arka planlı karanlık. OLED ekranlarda enerji tasarrufu sağlar."
+  },
+  "hcStack": {
+    "message": "Modun üstüne"
+  },
+  "hintHcStack": {
+    "message": "Açık: şemayı modun değişikliklerinin üzerine uygular. Kapalı: yalnızca şemayı gösterir, özgün eklenti gibi."
+  },
+  "solidBg": {
+    "message": "Düz arka plan"
+  },
+  "hintSolidBg": {
+    "message": "Sayfanın arka plan görsellerini ve geçişlerini düz bir renkle değiştirir. Bir sayfa yalnızca biraz koyulaşıyorsa kullanın."
+  }
+}

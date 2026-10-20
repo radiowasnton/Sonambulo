@@ -1,0 +1,110 @@
+/* Sonámbulo — settings page. Copyright 2026 radiowasnton · SPDX-License-Identifier: Apache-2.0 */
+
+body { min-height: 100vh; }
+
+.top {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px 24px;
+  padding: 14px max(20px, calc((100% - 720px) / 2));
+  border-bottom: 1px solid var(--line);
+  background: var(--bg);
+}
+
+.brand { display: flex; align-items: center; gap: 12px; }
+.brand img { border-radius: 8px; }
+.brand h1 { font-size: 19px; font-weight: 600; letter-spacing: 0.06em; }
+
+.tabs { display: flex; gap: 4px; }
+.tabs button {
+  padding: 7px 14px;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+}
+.tabs button:hover { color: var(--text); background: var(--accent-soft); }
+.tabs button[aria-selected="true"] { background: var(--accent); color: var(--on-accent); }
+
+main { max-width: 720px; margin: 0 auto; padding: 24px 20px 12px; }
+.view { display: grid; gap: 16px; }
+
+.card { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+.card > * + * { border-top: 1px solid var(--line); }
+
+.item { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 14px 16px; }
+label.item { cursor: pointer; }
+.item-text h2 { font-size: 14px; font-weight: 500; }
+.item-text p, .note { color: var(--muted); font-size: 12px; }
+.card > .note { padding: 16px; }
+
+.seg-inline .seg-item { flex-direction: row; padding: 7px 14px; font-size: 12.5px; }
+.select { width: auto; min-width: 190px; }
+
+.schedule { justify-content: flex-start; gap: 24px; }
+.schedule label { display: grid; gap: 4px; color: var(--muted); font-size: 12px; }
+
+.shortcuts { margin: 0; padding: 4px 16px 12px; list-style: none; }
+.shortcuts li { font-size: 13px; display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 7px 0; }
+.shortcuts .none { color: var(--muted); }
+
+.toolbar { display: grid; grid-template-columns: 1fr auto; gap: 12px; }
+.search { position: relative; }
+.search .glyph { position: absolute; inset-block: 0; inset-inline-start: 11px; margin-block: auto; width: 17px; height: 17px; color: var(--muted); pointer-events: none; }
+.search .field { padding-inline-start: 36px; }
+.add { display: flex; gap: 8px; }
+.add .field { width: 190px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.error { color: var(--danger); font-size: 12px; }
+
+.sites { margin: 0; padding: 0; list-style: none; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+.sites:empty { display: none; }
+.sites li { padding: 10px 14px; }
+.sites li + li { border-top: 1px solid var(--line); }
+.sites li:hover { background: var(--surface-hi); }
+.site-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 16px; }
+.site-name { min-width: 0; overflow: hidden; font-size: 14px; font-weight: 500; text-overflow: ellipsis; white-space: nowrap; }
+.site-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+
+@media (min-width: 700px) {
+  .site-head { flex-wrap: nowrap; }
+  .site-name { flex: 1 1 0; }
+  .site-controls { flex: none; flex-wrap: nowrap; }
+}
+.site-controls .seg { padding: 3px; }
+.site-controls .seg-item { flex-direction: row; min-width: 68px; padding: 5px 8px; font-size: 12px; }
+.site-controls .seg-item.contrast { min-width: 0; padding: 5px 8px; border-color: var(--line-hi); }
+.site-controls .icon-btn { width: 30px; height: 30px; }
+.site-controls .icon-btn.remove:hover { color: var(--danger); border-color: var(--danger); background: rgb(255 122 122 / 0.1); }
+.site-controls .icon-btn[aria-expanded="true"] { color: var(--accent-hi); border-color: var(--accent); }
+
+.site-detail { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); align-items: start; gap: 18px 28px; margin-top: 12px; padding: 14px 2px 6px; border-top: 1px dashed var(--line-hi); }
+.detail-block { display: grid; align-content: start; gap: 10px; }
+.detail-block h3 { color: var(--muted); font-size: 12px; font-weight: 500; }
+.detail-block .btn { justify-self: start; }
+
+.empty { padding: 28px 0; color: var(--muted); text-align: center; }
+#remove-all { justify-self: start; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 10px; padding: 14px 16px 16px; }
+.result { padding: 0 16px 16px; color: var(--accent-hi); }
+.result.is-error { color: var(--danger); }
+
+.about { padding: 24px 20px 32px; color: var(--muted); font-size: 12px; text-align: center; }
+
+dialog { max-width: 340px; padding: 4px 4px 0; border: 1px solid var(--line-hi); border-radius: var(--radius); background: var(--surface-hi); color: var(--text); }
+dialog::backdrop { background: rgb(0 0 0 / 0.7); }
+dialog p { padding: 16px 16px 0; }
+dialog .actions { justify-content: flex-end; }
+
+@media (max-width: 560px) {
+  .toolbar { grid-template-columns: 1fr; }
+  .add .field { width: 100%; }
+  .item { flex-wrap: wrap; }
+}

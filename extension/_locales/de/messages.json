@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Dunkelmodus"
+  },
+  "extDescription": {
+    "message": "Die Nacht, lebendiger denn je. Wähle für jede Website den dunklen oder hellen Modus und gönne deinen Augen nur das Beste."
+  },
+  "cmdToggleSite": {
+    "message": "Auf dieser Website zwischen Dunkel und Normal wechseln"
+  },
+  "cmdCycleMode": {
+    "message": "Modus wechseln: Dunkel, Gefiltert, Normal"
+  },
+  "cmdToggleContrast": {
+    "message": "Hohen Kontrast auf dieser Website ein- oder ausschalten"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo pausieren oder fortsetzen"
+  },
+  "modeDark": {
+    "message": "Dunkel"
+  },
+  "modeFiltered": {
+    "message": "Gefiltert"
+  },
+  "modeNormal": {
+    "message": "Normal"
+  },
+  "modeContrast": {
+    "message": "Hoher Kontrast"
+  },
+  "hintFiltered": {
+    "message": "Behält die Originalfarben bei und mildert Helligkeit und Blaulicht"
+  },
+  "hintContrast": {
+    "message": "Fügt dem Modus einen Stil mit hohem Kontrast hinzu"
+  },
+  "statusSaved": {
+    "message": "Für diese Website gespeichert"
+  },
+  "statusDefault": {
+    "message": "Standardeinstellungen"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo ist pausiert"
+  },
+  "statusScheduled": {
+    "message": "Außerhalb der geplanten Zeiten"
+  },
+  "unsupported": {
+    "message": "Sonámbulo kann diese Seite nicht ändern."
+  },
+  "hcBoost": {
+    "message": "Verstärkt"
+  },
+  "hcGray": {
+    "message": "Graustufen"
+  },
+  "hcYellow": {
+    "message": "Gelb auf Schwarz"
+  },
+  "hcCyan": {
+    "message": "Cyan auf Schwarz"
+  },
+  "hcGreen": {
+    "message": "Grün auf Schwarz"
+  },
+  "hcIntensity": {
+    "message": "Intensität"
+  },
+  "tuneTitle": {
+    "message": "Anpassungen"
+  },
+  "tuneBrightness": {
+    "message": "Helligkeit"
+  },
+  "tuneContrast": {
+    "message": "Kontrast"
+  },
+  "tuneSaturation": {
+    "message": "Sättigung"
+  },
+  "tuneWarmth": {
+    "message": "Blaulichtfilter"
+  },
+  "reset": {
+    "message": "Zurücksetzen"
+  },
+  "powerPause": {
+    "message": "Pausieren"
+  },
+  "powerResume": {
+    "message": "Fortsetzen"
+  },
+  "navSettings": {
+    "message": "Einstellungen"
+  },
+  "tabGeneral": {
+    "message": "Allgemein"
+  },
+  "tabSites": {
+    "message": "Websites"
+  },
+  "tabBackup": {
+    "message": "Sicherung"
+  },
+  "defaultMode": {
+    "message": "Standardmodus"
+  },
+  "followOS": {
+    "message": "Systemdesign folgen"
+  },
+  "followOSHint": {
+    "message": "Websites ohne gespeicherte Einstellungen werden dunkel, wenn dein System dunkel ist."
+  },
+  "darkScrollbars": {
+    "message": "Dunkle Scrollleisten"
+  },
+  "detectDark": {
+    "message": "Dunkle Websites erkennen"
+  },
+  "detectDarkHint": {
+    "message": "Lässt Websites, die bereits dunkel sind, unverändert."
+  },
+  "schedule": {
+    "message": "Zeitplan"
+  },
+  "scheduleFrom": {
+    "message": "Von"
+  },
+  "scheduleTo": {
+    "message": "Bis"
+  },
+  "language": {
+    "message": "Sprache"
+  },
+  "languageAuto": {
+    "message": "Automatisch"
+  },
+  "shortcuts": {
+    "message": "Tastenkürzel"
+  },
+  "shortcutsChange": {
+    "message": "Tastenkürzel ändern"
+  },
+  "shortcutNone": {
+    "message": "Nicht festgelegt"
+  },
+  "sitesSearch": {
+    "message": "Websites suchen"
+  },
+  "add": {
+    "message": "Hinzufügen"
+  },
+  "filterAll": {
+    "message": "Alle"
+  },
+  "sitesEmpty": {
+    "message": "Keine Websites vorhanden."
+  },
+  "sitesRemove": {
+    "message": "Entfernen"
+  },
+  "sitesRemoveAll": {
+    "message": "Alle entfernen"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Alle gespeicherten Websites entfernen?"
+  },
+  "sitesSubdomains": {
+    "message": "Für eine Domain gespeicherte Einstellungen gelten auch für ihre Subdomains."
+  },
+  "sitesInvalid": {
+    "message": "Gib eine gültige Domain ein, z. B. example.com."
+  },
+  "cancel": {
+    "message": "Abbrechen"
+  },
+  "backupExport": {
+    "message": "Exportieren"
+  },
+  "backupImport": {
+    "message": "Importieren"
+  },
+  "backupHint": {
+    "message": "Speichere deine Einstellungen und Websites in einer Datei oder stelle sie daraus wieder her."
+  },
+  "backupImported": {
+    "message": "Importierte Websites: {count}"
+  },
+  "backupInvalid": {
+    "message": "Diese Datei ist keine gültige Sicherung."
+  },
+  "aboutLine": {
+    "message": "Version {version} · Erstellt von radiowasnton · Apache-Lizenz 2.0"
+  },
+  "engine": {
+    "message": "Engine"
+  },
+  "engineStyles": {
+    "message": "Stile"
+  },
+  "engineRender": {
+    "message": "Darstellung"
+  },
+  "hintEngineStyles": {
+    "message": "Färbt das CSS der Seite um und lässt Bilder und Inhalte unberührt. Am originalgetreuesten."
+  },
+  "hintEngineRender": {
+    "message": "Invertiert die gerenderte Seite mit einem GPU-Filter. Funktioniert fast überall, kann aber Bilder verändern."
+  },
+  "hcInvert": {
+    "message": "Invertierte Farben"
+  },
+  "hcInvertGray": {
+    "message": "Invertierte Graustufen"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Dunkel mit weichem grauem Hintergrund."
+  },
+  "hintOled": {
+    "message": "Dunkel mit rein schwarzem Hintergrund. Spart Strom auf OLED-Displays."
+  },
+  "hcStack": {
+    "message": "Zusätzlich zum Modus"
+  },
+  "hintHcStack": {
+    "message": "An: wendet das Schema zusätzlich zu den Änderungen des Modus an. Aus: zeigt nur das Schema, wie die ursprüngliche Erweiterung."
+  },
+  "solidBg": {
+    "message": "Einfarbiger Hintergrund"
+  },
+  "hintSolidBg": {
+    "message": "Ersetzt Hintergrundbilder und Farbverläufe der Seite durch eine einfarbige Fläche. Nützlich, wenn eine Seite nur leicht dunkler wird."
+  }
+}

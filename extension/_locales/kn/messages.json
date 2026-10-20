@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - ಡಾರ್ಕ್ ಮೋಡ್"
+  },
+  "extDescription": {
+    "message": "ರಾತ್ರಿ, ಎಂದಿಗಿಂತಲೂ ಹೆಚ್ಚು ಜೀವಂತ. ಪ್ರತಿ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಡಾರ್ಕ್ ಅಥವಾ ಲೈಟ್ ಮೋಡ್ ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು ನಿಮ್ಮ ಕಣ್ಣುಗಳಿಗೆ ಅತ್ಯುತ್ತಮವಾದದ್ದನ್ನೇ ನೀಡಿ."
+  },
+  "cmdToggleSite": {
+    "message": "ಈ ಸೈಟ್‌ನಲ್ಲಿ ಡಾರ್ಕ್ ಮತ್ತು ಸಾಮಾನ್ಯ ಮೋಡ್ ನಡುವೆ ಬದಲಿಸಿ"
+  },
+  "cmdCycleMode": {
+    "message": "ಮೋಡ್ ಬದಲಿಸಿ: ಡಾರ್ಕ್, ಫಿಲ್ಟರ್ಡ್, ಸಾಮಾನ್ಯ"
+  },
+  "cmdToggleContrast": {
+    "message": "ಈ ಸೈಟ್‌ನಲ್ಲಿ ಹೈ ಕಾಂಟ್ರಾಸ್ಟ್ ಆನ್ ಅಥವಾ ಆಫ್ ಮಾಡಿ"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo ವಿರಾಮಗೊಳಿಸಿ ಅಥವಾ ಮುಂದುವರಿಸಿ"
+  },
+  "modeDark": {
+    "message": "ಡಾರ್ಕ್"
+  },
+  "modeFiltered": {
+    "message": "ಫಿಲ್ಟರ್ಡ್"
+  },
+  "modeNormal": {
+    "message": "ಸಾಮಾನ್ಯ"
+  },
+  "modeContrast": {
+    "message": "ಹೈ ಕಾಂಟ್ರಾಸ್ಟ್"
+  },
+  "hintFiltered": {
+    "message": "ಮೂಲ ಬಣ್ಣಗಳನ್ನು ಉಳಿಸಿಕೊಂಡು, ಪ್ರಕಾಶ ಮತ್ತು ನೀಲಿ ಬೆಳಕನ್ನು ಮೃದುಗೊಳಿಸುತ್ತದೆ"
+  },
+  "hintContrast": {
+    "message": "ಆಯ್ಕೆಮಾಡಿದ ಮೋಡ್‌ನ ಮೇಲೆ ಹೈ ಕಾಂಟ್ರಾಸ್ಟ್ ಶೈಲಿಯನ್ನು ಸೇರಿಸುತ್ತದೆ"
+  },
+  "statusSaved": {
+    "message": "ಈ ಸೈಟ್‌ಗಾಗಿ ಉಳಿಸಲಾಗಿದೆ"
+  },
+  "statusDefault": {
+    "message": "ಡೀಫಾಲ್ಟ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo ವಿರಾಮದಲ್ಲಿದೆ"
+  },
+  "statusScheduled": {
+    "message": "ನಿಗದಿತ ಸಮಯದ ಹೊರಗೆ"
+  },
+  "unsupported": {
+    "message": "Sonámbulo ಈ ಪುಟವನ್ನು ಬದಲಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+  },
+  "hcBoost": {
+    "message": "ವರ್ಧಿತ"
+  },
+  "hcGray": {
+    "message": "ಗ್ರೇಸ್ಕೇಲ್"
+  },
+  "hcYellow": {
+    "message": "ಕಪ್ಪಿನ ಮೇಲೆ ಹಳದಿ"
+  },
+  "hcCyan": {
+    "message": "ಕಪ್ಪಿನ ಮೇಲೆ ಸಯಾನ್"
+  },
+  "hcGreen": {
+    "message": "ಕಪ್ಪಿನ ಮೇಲೆ ಹಸಿರು"
+  },
+  "hcIntensity": {
+    "message": "ತೀವ್ರತೆ"
+  },
+  "tuneTitle": {
+    "message": "ಹೊಂದಾಣಿಕೆಗಳು"
+  },
+  "tuneBrightness": {
+    "message": "ಪ್ರಕಾಶ"
+  },
+  "tuneContrast": {
+    "message": "ಕಾಂಟ್ರಾಸ್ಟ್"
+  },
+  "tuneSaturation": {
+    "message": "ಸ್ಯಾಚುರೇಶನ್"
+  },
+  "tuneWarmth": {
+    "message": "ನೀಲಿ ಬೆಳಕಿನ ಫಿಲ್ಟರ್"
+  },
+  "reset": {
+    "message": "ಮರುಹೊಂದಿಸಿ"
+  },
+  "powerPause": {
+    "message": "ವಿರಾಮಗೊಳಿಸಿ"
+  },
+  "powerResume": {
+    "message": "ಮುಂದುವರಿಸಿ"
+  },
+  "navSettings": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "tabGeneral": {
+    "message": "ಸಾಮಾನ್ಯ"
+  },
+  "tabSites": {
+    "message": "ವೆಬ್‌ಸೈಟ್‌ಗಳು"
+  },
+  "tabBackup": {
+    "message": "ಬ್ಯಾಕಪ್"
+  },
+  "defaultMode": {
+    "message": "ಡೀಫಾಲ್ಟ್ ಮೋಡ್"
+  },
+  "followOS": {
+    "message": "ಸಿಸ್ಟಂ ಥೀಮ್ ಅನ್ನು ಅನುಸರಿಸಿ"
+  },
+  "followOSHint": {
+    "message": "ಉಳಿಸಿದ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಲ್ಲದ ಸೈಟ್‌ಗಳು, ನಿಮ್ಮ ಸಿಸ್ಟಂ ಡಾರ್ಕ್ ಮೋಡ್‌ನಲ್ಲಿದ್ದಾಗ ಡಾರ್ಕ್ ಆಗುತ್ತವೆ."
+  },
+  "darkScrollbars": {
+    "message": "ಡಾರ್ಕ್ ಸ್ಕ್ರಾಲ್‌ಬಾರ್‌ಗಳು"
+  },
+  "detectDark": {
+    "message": "ಡಾರ್ಕ್ ಸೈಟ್‌ಗಳನ್ನು ಪತ್ತೆಹಚ್ಚಿ"
+  },
+  "detectDarkHint": {
+    "message": "ಈಗಾಗಲೇ ಡಾರ್ಕ್ ಆಗಿರುವ ಸೈಟ್‌ಗಳನ್ನು ಬದಲಿಸದೆ ಬಿಡುತ್ತದೆ."
+  },
+  "schedule": {
+    "message": "ವೇಳಾಪಟ್ಟಿ"
+  },
+  "scheduleFrom": {
+    "message": "ಇಂದ"
+  },
+  "scheduleTo": {
+    "message": "ವರೆಗೆ"
+  },
+  "language": {
+    "message": "ಭಾಷೆ"
+  },
+  "languageAuto": {
+    "message": "ಸ್ವಯಂಚಾಲಿತ"
+  },
+  "shortcuts": {
+    "message": "ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು"
+  },
+  "shortcutsChange": {
+    "message": "ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ಬದಲಿಸಿ"
+  },
+  "shortcutNone": {
+    "message": "ಹೊಂದಿಸಿಲ್ಲ"
+  },
+  "sitesSearch": {
+    "message": "ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಹುಡುಕಿ"
+  },
+  "add": {
+    "message": "ಸೇರಿಸಿ"
+  },
+  "filterAll": {
+    "message": "ಎಲ್ಲಾ"
+  },
+  "sitesEmpty": {
+    "message": "ತೋರಿಸಲು ಯಾವುದೇ ಸೈಟ್‌ಗಳಿಲ್ಲ."
+  },
+  "sitesRemove": {
+    "message": "ತೆಗೆದುಹಾಕಿ"
+  },
+  "sitesRemoveAll": {
+    "message": "ಎಲ್ಲವನ್ನೂ ತೆಗೆದುಹಾಕಿ"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "ಉಳಿಸಿದ ಎಲ್ಲಾ ಸೈಟ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಬೇಕೇ?"
+  },
+  "sitesSubdomains": {
+    "message": "ಒಂದು ಡೊಮೇನ್‌ಗಾಗಿ ಉಳಿಸಿದ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಅದರ ಸಬ್‌ಡೊಮೇನ್‌ಗಳಿಗೂ ಅನ್ವಯಿಸುತ್ತವೆ."
+  },
+  "sitesInvalid": {
+    "message": "ಮಾನ್ಯವಾದ ಡೊಮೇನ್ ನಮೂದಿಸಿ, ಉದಾ. example.com."
+  },
+  "cancel": {
+    "message": "ರದ್ದುಮಾಡಿ"
+  },
+  "backupExport": {
+    "message": "ರಫ್ತು ಮಾಡಿ"
+  },
+  "backupImport": {
+    "message": "ಆಮದು ಮಾಡಿ"
+  },
+  "backupHint": {
+    "message": "ನಿಮ್ಮ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ಸೈಟ್‌ಗಳನ್ನು ಫೈಲ್‌ಗೆ ಉಳಿಸಿ, ಅಥವಾ ಫೈಲ್‌ನಿಂದ ಮರುಸ್ಥಾಪಿಸಿ."
+  },
+  "backupImported": {
+    "message": "ಆಮದು ಮಾಡಿದ ಸೈಟ್‌ಗಳು: {count}"
+  },
+  "backupInvalid": {
+    "message": "ಆ ಫೈಲ್ ಮಾನ್ಯವಾದ ಬ್ಯಾಕಪ್ ಅಲ್ಲ."
+  },
+  "aboutLine": {
+    "message": "ಆವೃತ್ತಿ {version} · ರಚಿಸಿದವರು: radiowasnton · Apache ಪರವಾನಗಿ 2.0"
+  },
+  "engine": {
+    "message": "ಎಂಜಿನ್"
+  },
+  "engineStyles": {
+    "message": "ಶೈಲಿಗಳು"
+  },
+  "engineRender": {
+    "message": "ರೆಂಡರ್"
+  },
+  "hintEngineStyles": {
+    "message": "ಪುಟದ CSS ಬಣ್ಣಗಳನ್ನು ಬದಲಿಸಿ, ಚಿತ್ರಗಳು ಮತ್ತು ವಿಷಯವನ್ನು ಮುಟ್ಟದೆ ಬಿಡುತ್ತದೆ. ಅತ್ಯಂತ ನಿಖರ."
+  },
+  "hintEngineRender": {
+    "message": "ಈಗಾಗಲೇ ರೆಂಡರ್ ಆದ ಪುಟವನ್ನು GPU ಫಿಲ್ಟರ್‌ನಿಂದ ತಿರುವುಮುರುವು ಮಾಡುತ್ತದೆ. ಬಹುತೇಕ ಎಲ್ಲೆಡೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ, ಆದರೆ ಚಿತ್ರಗಳನ್ನು ಬದಲಾಯಿಸಬಹುದು."
+  },
+  "hcInvert": {
+    "message": "ತಿರುವುಮುರುವಾದ ಬಣ್ಣಗಳು"
+  },
+  "hcInvertGray": {
+    "message": "ತಿರುವುಮುರುವಾದ ಗ್ರೇಸ್ಕೇಲ್"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "ಮೃದುವಾದ ಬೂದು ಹಿನ್ನೆಲೆಯೊಂದಿಗೆ ಡಾರ್ಕ್."
+  },
+  "hintOled": {
+    "message": "ಶುದ್ಧ ಕಪ್ಪು ಹಿನ್ನೆಲೆಯೊಂದಿಗೆ ಡಾರ್ಕ್. OLED ಪರದೆಗಳಲ್ಲಿ ವಿದ್ಯುತ್ ಉಳಿಸುತ್ತದೆ."
+  },
+  "hcStack": {
+    "message": "ಮೋಡ್‌ನ ಮೇಲೆ"
+  },
+  "hintHcStack": {
+    "message": "ಆನ್: ಮೋಡ್‌ನ ಬದಲಾವಣೆಗಳ ಮೇಲೆ ಸ್ಕೀಮ್ ಅನ್ವಯಿಸುತ್ತದೆ. ಆಫ್: ಮೂಲ ಎಕ್ಸ್‌ಟೆನ್ಶನ್‌ನಂತೆ ಸ್ಕೀಮ್ ಮಾತ್ರ ತೋರಿಸುತ್ತದೆ."
+  },
+  "solidBg": {
+    "message": "ಘನ ಹಿನ್ನೆಲೆ"
+  },
+  "hintSolidBg": {
+    "message": "ಪುಟದ ಹಿನ್ನೆಲೆ ಚಿತ್ರಗಳು ಮತ್ತು ಗ್ರೇಡಿಯಂಟ್‌ಗಳನ್ನು ಒಂದೇ ಘನ ಬಣ್ಣದಿಂದ ಬದಲಿಸುತ್ತದೆ. ಪುಟ ಸ್ವಲ್ಪ ಮಾತ್ರ ಗಾಢವಾದರೆ ಇದನ್ನು ಬಳಸಿ."
+  }
+}

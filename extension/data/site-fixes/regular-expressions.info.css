@@ -1,0 +1,42 @@
+span[class=regexnest1] {
+    color: rgb(237, 177, 208);
+}
+
+span[class=regexnest2] {
+    color: rgb(233, 229, 162);
+}
+
+span[class=regexplain] {
+    color: rgb(221, 211, 215);
+}
+
+span[class^=regex] {
+    background: rgb(60, 44, 62);
+}
+
+tt[class=syntax] {
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+    font-size: 11pt;
+    background: rgb(60, 44, 62);
+    box-decoration-break: clone;
+    padding: .1rem .3rem .2rem;
+    border-radius: .2rem;
+}
+
+tt[class=string] {
+    background: rgb(48, 62, 44);
+    color: rgb(213, 220, 210);
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+    font-size: 11pt;
+    padding: .1rem .3rem .2rem;
+    border-radius: .2rem;
+}
+
+tt[class=match] {
+    background: rgb(43, 69, 71);
+    color: rgb(191, 247, 246);
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+    font-size: 11pt;
+    padding: .1rem .3rem .2rem;
+    border-radius: .2rem;
+}

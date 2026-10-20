@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Dark Mode"
+  },
+  "extDescription": {
+    "message": "Ang gabi, mas buhay kaysa dati. Pumili ng dark o light mode para sa bawat website at ibigay sa iyong mga mata ang pinakamahusay."
+  },
+  "cmdToggleSite": {
+    "message": "Magpalit sa pagitan ng dark at normal mode sa site na ito"
+  },
+  "cmdCycleMode": {
+    "message": "Palitan ang mode: Dark, Filtered, Normal"
+  },
+  "cmdToggleContrast": {
+    "message": "I-on o i-off ang high contrast sa site na ito"
+  },
+  "cmdTogglePower": {
+    "message": "I-pause o ituloy ang Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Dark"
+  },
+  "modeFiltered": {
+    "message": "Filtered"
+  },
+  "modeNormal": {
+    "message": "Normal"
+  },
+  "modeContrast": {
+    "message": "High contrast"
+  },
+  "hintFiltered": {
+    "message": "Pinananatili ang orihinal na kulay at pinapahina ang liwanag at asul na ilaw"
+  },
+  "hintContrast": {
+    "message": "Nagdaragdag ng high-contrast na istilo sa ibabaw ng napiling mode"
+  },
+  "statusSaved": {
+    "message": "Nai-save para sa site na ito"
+  },
+  "statusDefault": {
+    "message": "Mga default na setting"
+  },
+  "statusPaused": {
+    "message": "Naka-pause ang Sonámbulo"
+  },
+  "statusScheduled": {
+    "message": "Labas sa nakaiskedyul na oras"
+  },
+  "unsupported": {
+    "message": "Hindi mababago ng Sonámbulo ang pahinang ito."
+  },
+  "hcBoost": {
+    "message": "Pinalakas"
+  },
+  "hcGray": {
+    "message": "Grayscale"
+  },
+  "hcYellow": {
+    "message": "Dilaw sa itim"
+  },
+  "hcCyan": {
+    "message": "Cyan sa itim"
+  },
+  "hcGreen": {
+    "message": "Berde sa itim"
+  },
+  "hcIntensity": {
+    "message": "Tindi"
+  },
+  "tuneTitle": {
+    "message": "Mga pagsasaayos"
+  },
+  "tuneBrightness": {
+    "message": "Liwanag"
+  },
+  "tuneContrast": {
+    "message": "Contrast"
+  },
+  "tuneSaturation": {
+    "message": "Saturation"
+  },
+  "tuneWarmth": {
+    "message": "Filter ng asul na ilaw"
+  },
+  "reset": {
+    "message": "I-reset"
+  },
+  "powerPause": {
+    "message": "I-pause"
+  },
+  "powerResume": {
+    "message": "Ituloy"
+  },
+  "navSettings": {
+    "message": "Mga setting"
+  },
+  "tabGeneral": {
+    "message": "Pangkalahatan"
+  },
+  "tabSites": {
+    "message": "Mga website"
+  },
+  "tabBackup": {
+    "message": "Backup"
+  },
+  "defaultMode": {
+    "message": "Default na mode"
+  },
+  "followOS": {
+    "message": "Sundin ang tema ng system"
+  },
+  "followOSHint": {
+    "message": "Ang mga site na walang naka-save na setting ay magiging dark kapag dark mode ang iyong system."
+  },
+  "darkScrollbars": {
+    "message": "Madilim na scrollbar"
+  },
+  "detectDark": {
+    "message": "Tukuyin ang mga dark na site"
+  },
+  "detectDarkHint": {
+    "message": "Hindi ginagalaw ang mga site na dark na."
+  },
+  "schedule": {
+    "message": "Iskedyul"
+  },
+  "scheduleFrom": {
+    "message": "Mula"
+  },
+  "scheduleTo": {
+    "message": "Hanggang"
+  },
+  "language": {
+    "message": "Wika"
+  },
+  "languageAuto": {
+    "message": "Awtomatiko"
+  },
+  "shortcuts": {
+    "message": "Mga keyboard shortcut"
+  },
+  "shortcutsChange": {
+    "message": "Baguhin ang mga shortcut"
+  },
+  "shortcutNone": {
+    "message": "Hindi nakatakda"
+  },
+  "sitesSearch": {
+    "message": "Maghanap ng mga website"
+  },
+  "add": {
+    "message": "Idagdag"
+  },
+  "filterAll": {
+    "message": "Lahat"
+  },
+  "sitesEmpty": {
+    "message": "Walang site na ipapakita."
+  },
+  "sitesRemove": {
+    "message": "Alisin"
+  },
+  "sitesRemoveAll": {
+    "message": "Alisin lahat"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Alisin ang lahat ng naka-save na site?"
+  },
+  "sitesSubdomains": {
+    "message": "Ang mga setting na naka-save para sa isang domain ay nalalapat din sa mga subdomain nito."
+  },
+  "sitesInvalid": {
+    "message": "Maglagay ng wastong domain, tulad ng example.com."
+  },
+  "cancel": {
+    "message": "Kanselahin"
+  },
+  "backupExport": {
+    "message": "I-export"
+  },
+  "backupImport": {
+    "message": "I-import"
+  },
+  "backupHint": {
+    "message": "I-save ang iyong mga setting at website sa isang file, o ibalik ang mga ito mula sa isang file."
+  },
+  "backupImported": {
+    "message": "Mga na-import na site: {count}"
+  },
+  "backupInvalid": {
+    "message": "Hindi wastong backup ang file na iyon."
+  },
+  "aboutLine": {
+    "message": "Bersyon {version} · Ginawa ni radiowasnton · Lisensya ng Apache 2.0"
+  },
+  "engine": {
+    "message": "Engine"
+  },
+  "engineStyles": {
+    "message": "Mga istilo"
+  },
+  "engineRender": {
+    "message": "Render"
+  },
+  "hintEngineStyles": {
+    "message": "Kinukulayan muli ang CSS ng pahina at hindi ginagalaw ang mga larawan at nilalaman. Pinakatapat."
+  },
+  "hintEngineRender": {
+    "message": "Binabaligtad ang na-render nang pahina gamit ang GPU filter. Gumagana sa halos lahat, pero maaaring baguhin ang mga larawan."
+  },
+  "hcInvert": {
+    "message": "Binaligtad na kulay"
+  },
+  "hcInvertGray": {
+    "message": "Binaligtad na grayscale"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Dark na may malambot na kulay-abong background."
+  },
+  "hintOled": {
+    "message": "Dark na may purong itim na background. Nakakatipid ng kuryente sa mga OLED screen."
+  },
+  "hcStack": {
+    "message": "Sa ibabaw ng mode"
+  },
+  "hintHcStack": {
+    "message": "Naka-on: inilalapat ang scheme sa ibabaw ng mga pagbabago ng mode. Naka-off: scheme lang ang ipinapakita, tulad ng orihinal na extension."
+  },
+  "solidBg": {
+    "message": "Solidong background"
+  },
+  "hintSolidBg": {
+    "message": "Pinapalitan ng solidong kulay ang mga larawan at gradient sa background ng pahina. Gamitin kung bahagya lang dumidilim ang isang pahina."
+  }
+}

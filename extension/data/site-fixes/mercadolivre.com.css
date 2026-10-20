@@ -1,0 +1,7 @@
+header {
+    background-color: #1f1f1f !important;
+}
+
+path[fill*="hsla(44,100%,20%,1)"] {
+    fill: #ffdc29 !important;
+}

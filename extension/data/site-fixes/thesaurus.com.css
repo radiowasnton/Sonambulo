@@ -1,0 +1,7 @@
+main li span a {
+    color: #fff !important;
+}
+
+li a[data-linkid] {
+    color: #000;
+}

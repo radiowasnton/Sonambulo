@@ -1,0 +1,16 @@
+{
+  "name": "sonambulo",
+  "version": "2.0.0",
+  "description": "Dark mode, filters and high contrast for every website.",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "author": "radiowasnton",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test test/core.test.mjs test/color.test.mjs",
+    "check": "node scripts/check-locales.mjs",
+    "build": "node scripts/build.mjs",
+    "lint:firefox": "npx --yes web-ext lint --source-dir dist/firefox"
+  }
+}

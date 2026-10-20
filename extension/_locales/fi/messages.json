@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Tumma tila"
+  },
+  "extDescription": {
+    "message": "Yö, elävämpi kuin koskaan. Valitse tumma tai vaalea tila jokaiselle sivustolle ja anna silmillesi vain parasta."
+  },
+  "cmdToggleSite": {
+    "message": "Vaihda tumman ja normaalin tilan välillä tällä sivustolla"
+  },
+  "cmdCycleMode": {
+    "message": "Vaihda tilaa: Tumma, Suodatettu, Normaali"
+  },
+  "cmdToggleContrast": {
+    "message": "Ota korkea kontrasti käyttöön tai pois käytöstä tällä sivustolla"
+  },
+  "cmdTogglePower": {
+    "message": "Keskeytä Sonámbulo tai jatka sen käyttöä"
+  },
+  "modeDark": {
+    "message": "Tumma"
+  },
+  "modeFiltered": {
+    "message": "Suodatettu"
+  },
+  "modeNormal": {
+    "message": "Normaali"
+  },
+  "modeContrast": {
+    "message": "Korkea kontrasti"
+  },
+  "hintFiltered": {
+    "message": "Säilyttää alkuperäiset värit ja pehmentää kirkkautta ja sinistä valoa"
+  },
+  "hintContrast": {
+    "message": "Lisää korkean kontrastin tyylin valitun tilan päälle"
+  },
+  "statusSaved": {
+    "message": "Tallennettu tälle sivustolle"
+  },
+  "statusDefault": {
+    "message": "Oletusasetukset"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo on keskeytetty"
+  },
+  "statusScheduled": {
+    "message": "Ajastettujen tuntien ulkopuolella"
+  },
+  "unsupported": {
+    "message": "Sonámbulo ei voi muokata tätä sivua."
+  },
+  "hcBoost": {
+    "message": "Tehostettu"
+  },
+  "hcGray": {
+    "message": "Harmaasävyt"
+  },
+  "hcYellow": {
+    "message": "Keltainen mustalla"
+  },
+  "hcCyan": {
+    "message": "Syaani mustalla"
+  },
+  "hcGreen": {
+    "message": "Vihreä mustalla"
+  },
+  "hcIntensity": {
+    "message": "Voimakkuus"
+  },
+  "tuneTitle": {
+    "message": "Säädöt"
+  },
+  "tuneBrightness": {
+    "message": "Kirkkaus"
+  },
+  "tuneContrast": {
+    "message": "Kontrasti"
+  },
+  "tuneSaturation": {
+    "message": "Kylläisyys"
+  },
+  "tuneWarmth": {
+    "message": "Sinisen valon suodatin"
+  },
+  "reset": {
+    "message": "Palauta"
+  },
+  "powerPause": {
+    "message": "Keskeytä"
+  },
+  "powerResume": {
+    "message": "Jatka"
+  },
+  "navSettings": {
+    "message": "Asetukset"
+  },
+  "tabGeneral": {
+    "message": "Yleiset"
+  },
+  "tabSites": {
+    "message": "Sivustot"
+  },
+  "tabBackup": {
+    "message": "Varmuuskopio"
+  },
+  "defaultMode": {
+    "message": "Oletustila"
+  },
+  "followOS": {
+    "message": "Seuraa järjestelmän teemaa"
+  },
+  "followOSHint": {
+    "message": "Sivustot, joille ei ole tallennettu asetuksia, tummuvat, kun järjestelmäsi on tummassa tilassa."
+  },
+  "darkScrollbars": {
+    "message": "Tummat vierityspalkit"
+  },
+  "detectDark": {
+    "message": "Tunnista tummat sivustot"
+  },
+  "detectDarkHint": {
+    "message": "Jättää jo valmiiksi tummat sivustot koskematta."
+  },
+  "schedule": {
+    "message": "Aikataulu"
+  },
+  "scheduleFrom": {
+    "message": "Alkaen"
+  },
+  "scheduleTo": {
+    "message": "Päättyen"
+  },
+  "language": {
+    "message": "Kieli"
+  },
+  "languageAuto": {
+    "message": "Automaattinen"
+  },
+  "shortcuts": {
+    "message": "Pikanäppäimet"
+  },
+  "shortcutsChange": {
+    "message": "Muuta pikanäppäimiä"
+  },
+  "shortcutNone": {
+    "message": "Ei määritetty"
+  },
+  "sitesSearch": {
+    "message": "Hae sivustoja"
+  },
+  "add": {
+    "message": "Lisää"
+  },
+  "filterAll": {
+    "message": "Kaikki"
+  },
+  "sitesEmpty": {
+    "message": "Ei näytettäviä sivustoja."
+  },
+  "sitesRemove": {
+    "message": "Poista"
+  },
+  "sitesRemoveAll": {
+    "message": "Poista kaikki"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Poistetaanko kaikki tallennetut sivustot?"
+  },
+  "sitesSubdomains": {
+    "message": "Verkkotunnukselle tallennetut asetukset koskevat myös sen aliverkkotunnuksia."
+  },
+  "sitesInvalid": {
+    "message": "Anna kelvollinen verkkotunnus, esimerkiksi example.com."
+  },
+  "cancel": {
+    "message": "Peruuta"
+  },
+  "backupExport": {
+    "message": "Vie"
+  },
+  "backupImport": {
+    "message": "Tuo"
+  },
+  "backupHint": {
+    "message": "Tallenna asetuksesi ja sivustosi tiedostoon tai palauta ne tiedostosta."
+  },
+  "backupImported": {
+    "message": "Tuodut sivustot: {count}"
+  },
+  "backupInvalid": {
+    "message": "Tämä tiedosto ei ole kelvollinen varmuuskopio."
+  },
+  "aboutLine": {
+    "message": "Versio {version} · Tekijä: radiowasnton · Apache-lisenssi 2.0"
+  },
+  "engine": {
+    "message": "Moottori"
+  },
+  "engineStyles": {
+    "message": "Tyylit"
+  },
+  "engineRender": {
+    "message": "Renderöinti"
+  },
+  "hintEngineStyles": {
+    "message": "Värittää sivun CSS:n uudelleen ja jättää kuvat ja sisällön koskemattomiksi. Uskollisin."
+  },
+  "hintEngineRender": {
+    "message": "Kääntää jo piirretyn sivun GPU-suodattimella. Toimii melkein kaikkialla, mutta voi muuttaa kuvia."
+  },
+  "hcInvert": {
+    "message": "Käänteiset värit"
+  },
+  "hcInvertGray": {
+    "message": "Käänteiset harmaasävyt"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Tumma pehmeällä harmaalla taustalla."
+  },
+  "hintOled": {
+    "message": "Tumma aidon mustalla taustalla. Säästää virtaa OLED-näytöillä."
+  },
+  "hcStack": {
+    "message": "Tilan päälle"
+  },
+  "hintHcStack": {
+    "message": "Päällä: käyttää kaaviota tilan muutosten päällä. Pois: näyttää vain kaavion kuten alkuperäinen laajennus."
+  },
+  "solidBg": {
+    "message": "Yksivärinen tausta"
+  },
+  "hintSolidBg": {
+    "message": "Korvaa sivun taustakuvat ja liukuvärit yhdellä värillä. Käytä, jos sivu tummenee vain vähän."
+  }
+}

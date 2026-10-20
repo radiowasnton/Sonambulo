@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - ഡാർക്ക് മോഡ്"
+  },
+  "extDescription": {
+    "message": "രാത്രി, എന്നത്തേക്കാളും ഊർജ്ജസ്വലം. ഓരോ സൈറ്റിനും ഡാർക്ക് അല്ലെങ്കിൽ ലൈറ്റ് മോഡ് തിരഞ്ഞെടുത്ത് കണ്ണുകൾക്ക് ഏറ്റവും മികച്ചത് നൽകൂ."
+  },
+  "cmdToggleSite": {
+    "message": "ഈ സൈറ്റിൽ ഡാർക്ക്, സാധാരണ മോഡുകൾക്കിടയിൽ മാറുക"
+  },
+  "cmdCycleMode": {
+    "message": "മോഡ് മാറ്റുക: ഡാർക്ക്, ഫിൽട്ടേഡ്, സാധാരണ"
+  },
+  "cmdToggleContrast": {
+    "message": "ഈ സൈറ്റിൽ ഹൈ കോൺട്രാസ്റ്റ് ഓണോ ഓഫോ ആക്കുക"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo താൽക്കാലികമായി നിർത്തുക അല്ലെങ്കിൽ തുടരുക"
+  },
+  "modeDark": {
+    "message": "ഡാർക്ക്"
+  },
+  "modeFiltered": {
+    "message": "ഫിൽട്ടേഡ്"
+  },
+  "modeNormal": {
+    "message": "സാധാരണ"
+  },
+  "modeContrast": {
+    "message": "ഹൈ കോൺട്രാസ്റ്റ്"
+  },
+  "hintFiltered": {
+    "message": "യഥാർത്ഥ നിറങ്ങൾ നിലനിർത്തി തെളിച്ചവും നീല വെളിച്ചവും കുറയ്ക്കുന്നു"
+  },
+  "hintContrast": {
+    "message": "തിരഞ്ഞെടുത്ത മോഡിന് മുകളിൽ ഹൈ കോൺട്രാസ്റ്റ് ശൈലി ചേർക്കുന്നു"
+  },
+  "statusSaved": {
+    "message": "ഈ സൈറ്റിനായി സംരക്ഷിച്ചു"
+  },
+  "statusDefault": {
+    "message": "ഡിഫോൾട്ട് ക്രമീകരണങ്ങൾ"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo താൽക്കാലികമായി നിർത്തിയിരിക്കുന്നു"
+  },
+  "statusScheduled": {
+    "message": "ഷെഡ്യൂൾ ചെയ്ത സമയത്തിന് പുറത്ത്"
+  },
+  "unsupported": {
+    "message": "Sonámbulo-യ്ക്ക് ഈ പേജ് മാറ്റാൻ കഴിയില്ല."
+  },
+  "hcBoost": {
+    "message": "വർദ്ധിപ്പിച്ചത്"
+  },
+  "hcGray": {
+    "message": "ഗ്രേസ്കെയിൽ"
+  },
+  "hcYellow": {
+    "message": "കറുപ്പിൽ മഞ്ഞ"
+  },
+  "hcCyan": {
+    "message": "കറുപ്പിൽ സിയാൻ"
+  },
+  "hcGreen": {
+    "message": "കറുപ്പിൽ പച്ച"
+  },
+  "hcIntensity": {
+    "message": "തീവ്രത"
+  },
+  "tuneTitle": {
+    "message": "ക്രമീകരണങ്ങൾ"
+  },
+  "tuneBrightness": {
+    "message": "തെളിച്ചം"
+  },
+  "tuneContrast": {
+    "message": "കോൺട്രാസ്റ്റ്"
+  },
+  "tuneSaturation": {
+    "message": "സാച്ചുറേഷൻ"
+  },
+  "tuneWarmth": {
+    "message": "നീല വെളിച്ച ഫിൽട്ടർ"
+  },
+  "reset": {
+    "message": "പുനഃസജ്ജമാക്കുക"
+  },
+  "powerPause": {
+    "message": "താൽക്കാലികമായി നിർത്തുക"
+  },
+  "powerResume": {
+    "message": "തുടരുക"
+  },
+  "navSettings": {
+    "message": "ക്രമീകരണങ്ങൾ"
+  },
+  "tabGeneral": {
+    "message": "പൊതുവായത്"
+  },
+  "tabSites": {
+    "message": "വെബ്‌സൈറ്റുകൾ"
+  },
+  "tabBackup": {
+    "message": "ബാക്കപ്പ്"
+  },
+  "defaultMode": {
+    "message": "ഡിഫോൾട്ട് മോഡ്"
+  },
+  "followOS": {
+    "message": "സിസ്റ്റം തീം പിന്തുടരുക"
+  },
+  "followOSHint": {
+    "message": "സംരക്ഷിച്ച ക്രമീകരണങ്ങളില്ലാത്ത സൈറ്റുകൾ, നിങ്ങളുടെ സിസ്റ്റം ഡാർക്ക് മോഡിൽ ആകുമ്പോൾ ഡാർക്ക് ആകും."
+  },
+  "darkScrollbars": {
+    "message": "ഡാർക്ക് സ്ക്രോൾബാറുകൾ"
+  },
+  "detectDark": {
+    "message": "ഡാർക്ക് സൈറ്റുകൾ കണ്ടെത്തുക"
+  },
+  "detectDarkHint": {
+    "message": "ഇതിനകം ഡാർക്ക് ആയ സൈറ്റുകളിൽ മാറ്റം വരുത്തുന്നില്ല."
+  },
+  "schedule": {
+    "message": "ഷെഡ്യൂൾ"
+  },
+  "scheduleFrom": {
+    "message": "മുതൽ"
+  },
+  "scheduleTo": {
+    "message": "വരെ"
+  },
+  "language": {
+    "message": "ഭാഷ"
+  },
+  "languageAuto": {
+    "message": "ഓട്ടോമാറ്റിക്"
+  },
+  "shortcuts": {
+    "message": "കീബോർഡ് കുറുക്കുവഴികൾ"
+  },
+  "shortcutsChange": {
+    "message": "കുറുക്കുവഴികൾ മാറ്റുക"
+  },
+  "shortcutNone": {
+    "message": "സജ്ജമാക്കിയിട്ടില്ല"
+  },
+  "sitesSearch": {
+    "message": "വെബ്‌സൈറ്റുകൾ തിരയുക"
+  },
+  "add": {
+    "message": "ചേർക്കുക"
+  },
+  "filterAll": {
+    "message": "എല്ലാം"
+  },
+  "sitesEmpty": {
+    "message": "കാണിക്കാൻ സൈറ്റുകളൊന്നുമില്ല."
+  },
+  "sitesRemove": {
+    "message": "നീക്കം ചെയ്യുക"
+  },
+  "sitesRemoveAll": {
+    "message": "എല്ലാം നീക്കം ചെയ്യുക"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "സംരക്ഷിച്ച എല്ലാ സൈറ്റുകളും നീക്കം ചെയ്യണോ?"
+  },
+  "sitesSubdomains": {
+    "message": "ഒരു ഡൊമെയ്‌നിനായി സംരക്ഷിച്ച ക്രമീകരണങ്ങൾ അതിന്റെ സബ്ഡൊമെയ്‌നുകൾക്കും ബാധകമാണ്."
+  },
+  "sitesInvalid": {
+    "message": "സാധുവായ ഒരു ഡൊമെയ്‌ൻ നൽകുക, ഉദാ. example.com."
+  },
+  "cancel": {
+    "message": "റദ്ദാക്കുക"
+  },
+  "backupExport": {
+    "message": "എക്‌സ്‌പോർട്ട്"
+  },
+  "backupImport": {
+    "message": "ഇറക്കുമതി"
+  },
+  "backupHint": {
+    "message": "നിങ്ങളുടെ ക്രമീകരണങ്ങളും സൈറ്റുകളും ഒരു ഫയലിൽ സംരക്ഷിക്കുക, അല്ലെങ്കിൽ ഒരു ഫയലിൽ നിന്ന് പുനഃസ്ഥാപിക്കുക."
+  },
+  "backupImported": {
+    "message": "ഇറക്കുമതി ചെയ്ത സൈറ്റുകൾ: {count}"
+  },
+  "backupInvalid": {
+    "message": "ആ ഫയൽ സാധുവായ ബാക്കപ്പ് അല്ല."
+  },
+  "aboutLine": {
+    "message": "പതിപ്പ് {version} · നിർമ്മാതാവ്: radiowasnton · Apache ലൈസൻസ് 2.0"
+  },
+  "engine": {
+    "message": "എഞ്ചിൻ"
+  },
+  "engineStyles": {
+    "message": "ശൈലികൾ"
+  },
+  "engineRender": {
+    "message": "റെൻഡർ"
+  },
+  "hintEngineStyles": {
+    "message": "പേജിന്റെ CSS നിറങ്ങൾ മാറ്റി ചിത്രങ്ങളെയും ഉള്ളടക്കത്തെയും തൊടാതെ വിടുന്നു. ഏറ്റവും കൃത്യം."
+  },
+  "hintEngineRender": {
+    "message": "ഇതിനകം റെൻഡർ ചെയ്ത പേജിനെ GPU ഫിൽട്ടർ ഉപയോഗിച്ച് തലകീഴാക്കുന്നു. മിക്കയിടത്തും പ്രവർത്തിക്കും, പക്ഷേ ചിത്രങ്ങൾ മാറിയേക്കാം."
+  },
+  "hcInvert": {
+    "message": "തലകീഴായ നിറങ്ങൾ"
+  },
+  "hcInvertGray": {
+    "message": "തലകീഴായ ഗ്രേസ്കെയിൽ"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "മൃദുവായ ചാരനിറ പശ്ചാത്തലത്തോടെ ഡാർക്ക്."
+  },
+  "hintOled": {
+    "message": "തനി കറുപ്പ് പശ്ചാത്തലത്തോടെ ഡാർക്ക്. OLED സ്ക്രീനുകളിൽ വൈദ്യുതി ലാഭിക്കുന്നു."
+  },
+  "hcStack": {
+    "message": "മോഡിന് മുകളിൽ"
+  },
+  "hintHcStack": {
+    "message": "ഓൺ: മോഡിന്റെ മാറ്റങ്ങൾക്ക് മുകളിൽ സ്കീം പ്രയോഗിക്കുന്നു. ഓഫ്: യഥാർത്ഥ എക്സ്റ്റൻഷൻ പോലെ സ്കീം മാത്രം കാണിക്കുന്നു."
+  },
+  "solidBg": {
+    "message": "ഖര പശ്ചാത്തലം"
+  },
+  "hintSolidBg": {
+    "message": "പേജിന്റെ പശ്ചാത്തല ചിത്രങ്ങളെയും ഗ്രേഡിയന്റുകളെയും ഒറ്റ ഖര നിറം കൊണ്ട് മാറ്റുന്നു. ഒരു പേജ് ചെറുതായി മാത്രം ഇരുണ്ടാൽ ഇത് ഉപയോഗിക്കുക."
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - ダークモード"
+  },
+  "extDescription": {
+    "message": "夜を、これまで以上に鮮やかに。サイトごとにダークモードかライトモードを選んで、目にいちばん優しい表示を。"
+  },
+  "cmdToggleSite": {
+    "message": "このサイトでダークモードと通常モードを切り替える"
+  },
+  "cmdCycleMode": {
+    "message": "モードを切り替え：ダーク、フィルター、通常"
+  },
+  "cmdToggleContrast": {
+    "message": "このサイトでハイコントラストを切り替える"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbuloを一時停止または再開する"
+  },
+  "modeDark": {
+    "message": "ダーク"
+  },
+  "modeFiltered": {
+    "message": "フィルター"
+  },
+  "modeNormal": {
+    "message": "通常"
+  },
+  "modeContrast": {
+    "message": "ハイコントラスト"
+  },
+  "hintFiltered": {
+    "message": "元の色を保ちつつ、明るさとブルーライトを抑えます"
+  },
+  "hintContrast": {
+    "message": "選択したモードにハイコントラストのスタイルを重ねます"
+  },
+  "statusSaved": {
+    "message": "このサイト用に保存済み"
+  },
+  "statusDefault": {
+    "message": "既定の設定"
+  },
+  "statusPaused": {
+    "message": "Sonámbuloは一時停止中です"
+  },
+  "statusScheduled": {
+    "message": "スケジュール時間外"
+  },
+  "unsupported": {
+    "message": "Sonámbuloはこのページを変更できません。"
+  },
+  "hcBoost": {
+    "message": "強調"
+  },
+  "hcGray": {
+    "message": "グレースケール"
+  },
+  "hcYellow": {
+    "message": "黒地に黄色"
+  },
+  "hcCyan": {
+    "message": "黒地にシアン"
+  },
+  "hcGreen": {
+    "message": "黒地に緑"
+  },
+  "hcIntensity": {
+    "message": "強さ"
+  },
+  "tuneTitle": {
+    "message": "調整"
+  },
+  "tuneBrightness": {
+    "message": "明るさ"
+  },
+  "tuneContrast": {
+    "message": "コントラスト"
+  },
+  "tuneSaturation": {
+    "message": "彩度"
+  },
+  "tuneWarmth": {
+    "message": "ブルーライトフィルター"
+  },
+  "reset": {
+    "message": "リセット"
+  },
+  "powerPause": {
+    "message": "一時停止"
+  },
+  "powerResume": {
+    "message": "再開"
+  },
+  "navSettings": {
+    "message": "設定"
+  },
+  "tabGeneral": {
+    "message": "一般"
+  },
+  "tabSites": {
+    "message": "ウェブサイト"
+  },
+  "tabBackup": {
+    "message": "バックアップ"
+  },
+  "defaultMode": {
+    "message": "既定のモード"
+  },
+  "followOS": {
+    "message": "システムのテーマに従う"
+  },
+  "followOSHint": {
+    "message": "保存済みの設定がないサイトは、システムがダークモードのときにダークになります。"
+  },
+  "darkScrollbars": {
+    "message": "ダークスクロールバー"
+  },
+  "detectDark": {
+    "message": "ダークサイトを検出"
+  },
+  "detectDarkHint": {
+    "message": "すでにダークなサイトはそのままにします。"
+  },
+  "schedule": {
+    "message": "スケジュール"
+  },
+  "scheduleFrom": {
+    "message": "開始"
+  },
+  "scheduleTo": {
+    "message": "終了"
+  },
+  "language": {
+    "message": "言語"
+  },
+  "languageAuto": {
+    "message": "自動"
+  },
+  "shortcuts": {
+    "message": "キーボードショートカット"
+  },
+  "shortcutsChange": {
+    "message": "ショートカットを変更"
+  },
+  "shortcutNone": {
+    "message": "未設定"
+  },
+  "sitesSearch": {
+    "message": "サイトを検索"
+  },
+  "add": {
+    "message": "追加"
+  },
+  "filterAll": {
+    "message": "すべて"
+  },
+  "sitesEmpty": {
+    "message": "表示するサイトがありません。"
+  },
+  "sitesRemove": {
+    "message": "削除"
+  },
+  "sitesRemoveAll": {
+    "message": "すべて削除"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "保存済みのサイトをすべて削除しますか？"
+  },
+  "sitesSubdomains": {
+    "message": "ドメインに保存した設定は、そのサブドメインにも適用されます。"
+  },
+  "sitesInvalid": {
+    "message": "example.com のような有効なドメインを入力してください。"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "backupExport": {
+    "message": "エクスポート"
+  },
+  "backupImport": {
+    "message": "インポート"
+  },
+  "backupHint": {
+    "message": "設定とサイトをファイルに保存するか、ファイルから復元します。"
+  },
+  "backupImported": {
+    "message": "インポートしたサイト：{count}"
+  },
+  "backupInvalid": {
+    "message": "このファイルは有効なバックアップではありません。"
+  },
+  "aboutLine": {
+    "message": "バージョン {version} · 作者：radiowasnton · Apache License 2.0"
+  },
+  "engine": {
+    "message": "エンジン"
+  },
+  "engineStyles": {
+    "message": "スタイル"
+  },
+  "engineRender": {
+    "message": "レンダー"
+  },
+  "hintEngineStyles": {
+    "message": "ページのCSSの色を変更し、画像やコンテンツには触れません。最も忠実です。"
+  },
+  "hintEngineRender": {
+    "message": "描画済みのページをGPUフィルターで反転します。ほとんどのサイトで動作しますが、画像が変わることがあります。"
+  },
+  "hcInvert": {
+    "message": "色反転"
+  },
+  "hcInvertGray": {
+    "message": "グレースケール反転"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "やわらかなグレーの背景のダーク。"
+  },
+  "hintOled": {
+    "message": "真っ黒な背景のダーク。OLED画面で電力を節約します。"
+  },
+  "hcStack": {
+    "message": "モードの上に重ねる"
+  },
+  "hintHcStack": {
+    "message": "オン：モードの変更の上にスキームを適用します。オフ：元の拡張機能と同じように、スキームのみを表示します。"
+  },
+  "solidBg": {
+    "message": "単色の背景"
+  },
+  "hintSolidBg": {
+    "message": "ページの背景画像やグラデーションを単色に置き換えます。ページが少ししか暗くならないときに使います。"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - डार्क मोड"
+  },
+  "extDescription": {
+    "message": "रात, पहले से कहीं ज़्यादा जीवंत। हर वेबसाइट के लिए डार्क या लाइट मोड चुनें और अपनी आँखों को सिर्फ़ सर्वश्रेष्ठ दें।"
+  },
+  "cmdToggleSite": {
+    "message": "इस साइट पर डार्क और सामान्य मोड के बीच बदलें"
+  },
+  "cmdCycleMode": {
+    "message": "मोड बदलें: डार्क, फ़िल्टर्ड, सामान्य"
+  },
+  "cmdToggleContrast": {
+    "message": "इस साइट पर हाई कॉन्ट्रास्ट चालू या बंद करें"
+  },
+  "cmdTogglePower": {
+    "message": "Sonámbulo को रोकें या फिर से शुरू करें"
+  },
+  "modeDark": {
+    "message": "डार्क"
+  },
+  "modeFiltered": {
+    "message": "फ़िल्टर्ड"
+  },
+  "modeNormal": {
+    "message": "सामान्य"
+  },
+  "modeContrast": {
+    "message": "हाई कॉन्ट्रास्ट"
+  },
+  "hintFiltered": {
+    "message": "मूल रंग बनाए रखता है और चमक व नीली रोशनी को हल्का करता है"
+  },
+  "hintContrast": {
+    "message": "चुने गए मोड के ऊपर हाई कॉन्ट्रास्ट शैली जोड़ता है"
+  },
+  "statusSaved": {
+    "message": "इस साइट के लिए सहेजा गया"
+  },
+  "statusDefault": {
+    "message": "डिफ़ॉल्ट सेटिंग"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo रुका हुआ है"
+  },
+  "statusScheduled": {
+    "message": "निर्धारित समय के बाहर"
+  },
+  "unsupported": {
+    "message": "Sonámbulo इस पेज को नहीं बदल सकता।"
+  },
+  "hcBoost": {
+    "message": "बढ़ा हुआ"
+  },
+  "hcGray": {
+    "message": "ग्रेस्केल"
+  },
+  "hcYellow": {
+    "message": "काले पर पीला"
+  },
+  "hcCyan": {
+    "message": "काले पर सियान"
+  },
+  "hcGreen": {
+    "message": "काले पर हरा"
+  },
+  "hcIntensity": {
+    "message": "तीव्रता"
+  },
+  "tuneTitle": {
+    "message": "समायोजन"
+  },
+  "tuneBrightness": {
+    "message": "चमक"
+  },
+  "tuneContrast": {
+    "message": "कॉन्ट्रास्ट"
+  },
+  "tuneSaturation": {
+    "message": "संतृप्ति"
+  },
+  "tuneWarmth": {
+    "message": "नीली रोशनी फ़िल्टर"
+  },
+  "reset": {
+    "message": "रीसेट करें"
+  },
+  "powerPause": {
+    "message": "रोकें"
+  },
+  "powerResume": {
+    "message": "फिर शुरू करें"
+  },
+  "navSettings": {
+    "message": "सेटिंग"
+  },
+  "tabGeneral": {
+    "message": "सामान्य"
+  },
+  "tabSites": {
+    "message": "वेबसाइटें"
+  },
+  "tabBackup": {
+    "message": "बैकअप"
+  },
+  "defaultMode": {
+    "message": "डिफ़ॉल्ट मोड"
+  },
+  "followOS": {
+    "message": "सिस्टम थीम का पालन करें"
+  },
+  "followOSHint": {
+    "message": "जिन साइटों की सेटिंग सहेजी नहीं गई है, वे आपके सिस्टम के डार्क मोड में होने पर डार्क हो जाती हैं।"
+  },
+  "darkScrollbars": {
+    "message": "डार्क स्क्रॉलबार"
+  },
+  "detectDark": {
+    "message": "डार्क साइटों की पहचान करें"
+  },
+  "detectDarkHint": {
+    "message": "जो साइटें पहले से डार्क हैं, उन्हें अछूता छोड़ता है।"
+  },
+  "schedule": {
+    "message": "समय-सारणी"
+  },
+  "scheduleFrom": {
+    "message": "से"
+  },
+  "scheduleTo": {
+    "message": "तक"
+  },
+  "language": {
+    "message": "भाषा"
+  },
+  "languageAuto": {
+    "message": "स्वचालित"
+  },
+  "shortcuts": {
+    "message": "कीबोर्ड शॉर्टकट"
+  },
+  "shortcutsChange": {
+    "message": "शॉर्टकट बदलें"
+  },
+  "shortcutNone": {
+    "message": "सेट नहीं है"
+  },
+  "sitesSearch": {
+    "message": "वेबसाइटें खोजें"
+  },
+  "add": {
+    "message": "जोड़ें"
+  },
+  "filterAll": {
+    "message": "सभी"
+  },
+  "sitesEmpty": {
+    "message": "दिखाने के लिए कोई वेबसाइट नहीं है।"
+  },
+  "sitesRemove": {
+    "message": "हटाएँ"
+  },
+  "sitesRemoveAll": {
+    "message": "सभी हटाएँ"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "क्या सभी सहेजी गई वेबसाइटें हटानी हैं?"
+  },
+  "sitesSubdomains": {
+    "message": "किसी डोमेन के लिए सहेजी गई सेटिंग उसके सबडोमेन पर भी लागू होती हैं।"
+  },
+  "sitesInvalid": {
+    "message": "कोई मान्य डोमेन दर्ज करें, जैसे example.com।"
+  },
+  "cancel": {
+    "message": "रद्द करें"
+  },
+  "backupExport": {
+    "message": "निर्यात करें"
+  },
+  "backupImport": {
+    "message": "आयात करें"
+  },
+  "backupHint": {
+    "message": "अपनी सेटिंग और वेबसाइटें किसी फ़ाइल में सहेजें, या किसी फ़ाइल से पुनर्स्थापित करें।"
+  },
+  "backupImported": {
+    "message": "आयात की गई वेबसाइटें: {count}"
+  },
+  "backupInvalid": {
+    "message": "यह फ़ाइल मान्य बैकअप नहीं है।"
+  },
+  "aboutLine": {
+    "message": "संस्करण {version} · निर्माता: radiowasnton · Apache लाइसेंस 2.0"
+  },
+  "engine": {
+    "message": "इंजन"
+  },
+  "engineStyles": {
+    "message": "स्टाइल"
+  },
+  "engineRender": {
+    "message": "रेंडर"
+  },
+  "hintEngineStyles": {
+    "message": "पेज के CSS का रंग बदलता है और छवियों व सामग्री को अछूता रखता है। सबसे सटीक।"
+  },
+  "hintEngineRender": {
+    "message": "पहले से रेंडर हुए पेज को GPU फ़िल्टर से उलटता है। लगभग हर जगह काम करता है, पर छवियाँ बदल सकती हैं।"
+  },
+  "hcInvert": {
+    "message": "उलटे रंग"
+  },
+  "hcInvertGray": {
+    "message": "उलटा ग्रेस्केल"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "नरम ग्रे बैकग्राउंड वाला डार्क।"
+  },
+  "hintOled": {
+    "message": "शुद्ध काले बैकग्राउंड वाला डार्क। OLED स्क्रीन पर बिजली बचाता है।"
+  },
+  "hcStack": {
+    "message": "मोड के ऊपर"
+  },
+  "hintHcStack": {
+    "message": "चालू: योजना को मोड के बदलावों के ऊपर लागू करता है। बंद: केवल योजना दिखाता है, जैसा मूल एक्सटेंशन करता था।"
+  },
+  "solidBg": {
+    "message": "ठोस बैकग्राउंड"
+  },
+  "hintSolidBg": {
+    "message": "पेज के बैकग्राउंड चित्रों और ग्रेडिएंट को एक ठोस रंग से बदलता है। जब कोई पेज बस थोड़ा ही गहरा हो, तब इसका उपयोग करें।"
+  }
+}

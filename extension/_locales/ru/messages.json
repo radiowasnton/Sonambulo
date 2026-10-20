@@ -1,0 +1,239 @@
+{
+  "extName": {
+    "message": "Sonámbulo - Тёмный режим"
+  },
+  "extDescription": {
+    "message": "Ночь, живее, чем когда-либо. Выбирайте тёмный или светлый режим для каждого сайта и дарите глазам только лучшее."
+  },
+  "cmdToggleSite": {
+    "message": "Переключить тёмный и обычный режим на этом сайте"
+  },
+  "cmdCycleMode": {
+    "message": "Сменить режим: Тёмный, Фильтр, Обычный"
+  },
+  "cmdToggleContrast": {
+    "message": "Включить или выключить высокий контраст на этом сайте"
+  },
+  "cmdTogglePower": {
+    "message": "Приостановить или возобновить Sonámbulo"
+  },
+  "modeDark": {
+    "message": "Тёмный"
+  },
+  "modeFiltered": {
+    "message": "Фильтр"
+  },
+  "modeNormal": {
+    "message": "Обычный"
+  },
+  "modeContrast": {
+    "message": "Высокий контраст"
+  },
+  "hintFiltered": {
+    "message": "Сохраняет исходные цвета и смягчает яркость и синий свет"
+  },
+  "hintContrast": {
+    "message": "Добавляет стиль с высоким контрастом поверх выбранного режима"
+  },
+  "statusSaved": {
+    "message": "Сохранено для этого сайта"
+  },
+  "statusDefault": {
+    "message": "Настройки по умолчанию"
+  },
+  "statusPaused": {
+    "message": "Sonámbulo приостановлен"
+  },
+  "statusScheduled": {
+    "message": "Вне заданного расписания"
+  },
+  "unsupported": {
+    "message": "Sonámbulo не может изменить эту страницу."
+  },
+  "hcBoost": {
+    "message": "Усиленный"
+  },
+  "hcGray": {
+    "message": "Оттенки серого"
+  },
+  "hcYellow": {
+    "message": "Жёлтый на чёрном"
+  },
+  "hcCyan": {
+    "message": "Голубой на чёрном"
+  },
+  "hcGreen": {
+    "message": "Зелёный на чёрном"
+  },
+  "hcIntensity": {
+    "message": "Интенсивность"
+  },
+  "tuneTitle": {
+    "message": "Настройки изображения"
+  },
+  "tuneBrightness": {
+    "message": "Яркость"
+  },
+  "tuneContrast": {
+    "message": "Контраст"
+  },
+  "tuneSaturation": {
+    "message": "Насыщенность"
+  },
+  "tuneWarmth": {
+    "message": "Фильтр синего света"
+  },
+  "reset": {
+    "message": "Сбросить"
+  },
+  "powerPause": {
+    "message": "Приостановить"
+  },
+  "powerResume": {
+    "message": "Возобновить"
+  },
+  "navSettings": {
+    "message": "Настройки"
+  },
+  "tabGeneral": {
+    "message": "Общие"
+  },
+  "tabSites": {
+    "message": "Сайты"
+  },
+  "tabBackup": {
+    "message": "Резервная копия"
+  },
+  "defaultMode": {
+    "message": "Режим по умолчанию"
+  },
+  "followOS": {
+    "message": "Следовать теме системы"
+  },
+  "followOSHint": {
+    "message": "Сайты без сохранённых настроек становятся тёмными, когда в вашей системе включена тёмная тема."
+  },
+  "darkScrollbars": {
+    "message": "Тёмные полосы прокрутки"
+  },
+  "detectDark": {
+    "message": "Распознавать тёмные сайты"
+  },
+  "detectDarkHint": {
+    "message": "Не изменяет сайты, которые уже тёмные."
+  },
+  "schedule": {
+    "message": "Расписание"
+  },
+  "scheduleFrom": {
+    "message": "С"
+  },
+  "scheduleTo": {
+    "message": "До"
+  },
+  "language": {
+    "message": "Язык"
+  },
+  "languageAuto": {
+    "message": "Автоматически"
+  },
+  "shortcuts": {
+    "message": "Сочетания клавиш"
+  },
+  "shortcutsChange": {
+    "message": "Изменить сочетания клавиш"
+  },
+  "shortcutNone": {
+    "message": "Не назначено"
+  },
+  "sitesSearch": {
+    "message": "Поиск сайтов"
+  },
+  "add": {
+    "message": "Добавить"
+  },
+  "filterAll": {
+    "message": "Все"
+  },
+  "sitesEmpty": {
+    "message": "Нет сайтов для показа."
+  },
+  "sitesRemove": {
+    "message": "Удалить"
+  },
+  "sitesRemoveAll": {
+    "message": "Удалить все"
+  },
+  "sitesRemoveAllConfirm": {
+    "message": "Удалить все сохранённые сайты?"
+  },
+  "sitesSubdomains": {
+    "message": "Настройки, сохранённые для домена, действуют и на его поддомены."
+  },
+  "sitesInvalid": {
+    "message": "Введите допустимый домен, например example.com."
+  },
+  "cancel": {
+    "message": "Отмена"
+  },
+  "backupExport": {
+    "message": "Экспорт"
+  },
+  "backupImport": {
+    "message": "Импорт"
+  },
+  "backupHint": {
+    "message": "Сохраните настройки и сайты в файл или восстановите их из файла."
+  },
+  "backupImported": {
+    "message": "Импортировано сайтов: {count}"
+  },
+  "backupInvalid": {
+    "message": "Этот файл не является допустимой резервной копией."
+  },
+  "aboutLine": {
+    "message": "Версия {version} · Автор: radiowasnton · Лицензия Apache 2.0"
+  },
+  "engine": {
+    "message": "Движок"
+  },
+  "engineStyles": {
+    "message": "Стили"
+  },
+  "engineRender": {
+    "message": "Рендер"
+  },
+  "hintEngineStyles": {
+    "message": "Перекрашивает CSS страницы и не трогает изображения и содержимое. Самый точный."
+  },
+  "hintEngineRender": {
+    "message": "Инвертирует уже отрисованную страницу GPU-фильтром. Работает почти везде, но может искажать изображения."
+  },
+  "hcInvert": {
+    "message": "Инвертированные цвета"
+  },
+  "hcInvertGray": {
+    "message": "Инвертированные оттенки серого"
+  },
+  "modeOled": {
+    "message": "OLED"
+  },
+  "hintDark": {
+    "message": "Тёмный режим с мягким серым фоном."
+  },
+  "hintOled": {
+    "message": "Тёмный режим с чисто чёрным фоном. Экономит энергию на OLED-экранах."
+  },
+  "hcStack": {
+    "message": "Поверх режима"
+  },
+  "hintHcStack": {
+    "message": "Вкл.: применяет схему поверх изменений режима. Выкл.: показывает только схему, как исходное расширение."
+  },
+  "solidBg": {
+    "message": "Сплошной фон"
+  },
+  "hintSolidBg": {
+    "message": "Заменяет фоновые изображения и градиенты страницы однотонным цветом. Используйте, если страница темнеет лишь слегка."
+  }
+}
