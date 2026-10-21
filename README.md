@@ -13,7 +13,7 @@
 ## Features
 
 - **Per website:** Dark · OLED · Filtered · Normal, plus High contrast. Every choice, OLED included, is remembered per site (and for its subdomains) and can be changed from the Websites page.
-- **High contrast** Seven schemes with its exact filters: Increased, Grayscale, Inverted color, Inverted grayscale, and Yellow / Cyan / Green on black. Intensity 60 % is the original strength. A switch decides how they relate to the mode: **on** (default) applies the scheme to what the mode is showing, so "Inverted color" over OLED inverts the OLED look; **off** shows the scheme alone, exactly like the original extension. With the Styles engine the scheme is applied to the CSS colors, so images are never touched; with Render it is a filter.
+- **High contrast** Seven schemes with its exact filters: Increased, Grayscale, Inverted color, Inverted grayscale, and Yellow / Cyan / Green on black. Intensity 60 % is the original strength. A switch decides how they relate to the mode: **on** (default) applies the scheme to what the mode is showing, so "Inverted color" over OLED inverts the OLED look; **off** shows the scheme alone. With the Styles engine the scheme is applied to the CSS colors, so images are never touched; with Render it is a filter.
 - **Dark** has two engines, switchable per site:
   - **Styles** *(default)* recolors the page's CSS. Images, video and content are never touched.
   - **Render** inverts the rendered page with a GPU filter. Works on almost anything, but can alter images.
@@ -24,7 +24,6 @@
 - 170 per-site fixes for the Styles engine.
 - Every website keeps its complete configuration (mode, engine, high-contrast scheme and intensity, adjustments) and the gear on the Websites page edits all of it.
 - Follow the system theme, a daily schedule, keyboard shortcuts, backup and restore.
-- Imports backups made with Sonámbulo 1.x.
 - 51 languages, including right-to-left layouts.
 - No analytics and no remote code. The only network requests are for the stylesheets of the page you are on, which the Styles engine needs to recolor them. Nothing is sent anywhere.
 

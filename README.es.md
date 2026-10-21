@@ -13,7 +13,7 @@
 ## Características
 
 - **Por sitio:** Oscuro · OLED · Filtrado · Normal, más Alto contraste. Cada elección, OLED incluido, se recuerda por sitio (y para sus subdominios) y se puede cambiar desde la página Sitios web.
-- **Alto contraste** Siete esquemas con sus filtros exactos: Aumentado, Escala de grises, Color invertido, Escala de grises invertida, y Amarillo / Cian / Verde sobre negro. La intensidad 60 % es la fuerza original. Un interruptor decide cómo se relacionan con el modo: **activado** (predeterminado) aplica el esquema sobre lo que el modo está mostrando, así "Color invertido" sobre OLED invierte el aspecto OLED; **desactivado** muestra el esquema solo, igual que la extensión original. Con el motor Estilos el esquema se aplica a los colores del CSS, por lo que las imágenes nunca se tocan; con Render es un filtro.
+- **Alto contraste** Siete esquemas con sus filtros exactos: Aumentado, Escala de grises, Color invertido, Escala de grises invertida, y Amarillo / Cian / Verde sobre negro. La intensidad 60 % es la fuerza original. Un interruptor decide cómo se relacionan con el modo: **activado** (predeterminado) aplica el esquema sobre lo que el modo está mostrando, así "Color invertido" sobre OLED invierte el aspecto OLED; **desactivado** muestra el esquema solo. Con el motor Estilos el esquema se aplica a los colores del CSS, por lo que las imágenes nunca se tocan; con Render es un filtro.
 - **Oscuro** tiene dos motores, elegibles por sitio:
   - **Estilos** *(predeterminado)* recolorea el CSS de la página. Las imágenes, los videos y el contenido nunca se tocan.
   - **Render** invierte la página ya renderizada con un filtro de GPU. Funciona en casi todo, pero puede alterar las imágenes.
@@ -24,7 +24,6 @@
 - 170 parches por sitio para el motor Estilos.
 - Cada sitio guarda su configuración completa (modo, motor, esquema de alto contraste e intensidad, ajustes) y el engranaje de la página Sitios web la edita toda.
 - Seguir el tema del sistema, horario diario, atajos de teclado, copia de seguridad y restauración.
-- Importa las copias hechas con Sonámbulo 1.x.
 - 51 idiomas, incluidos los de escritura de derecha a izquierda.
 - Sin analíticas y sin código remoto. Las únicas peticiones de red son las hojas de estilo de la página que visitas, que el motor Estilos necesita para recolorearlas. No se envía nada a ningún sitio.
 
@@ -50,8 +49,6 @@ npm run build       # dist/sonambulo-<versión>-chrome.zip y -firefox.zip
 ```
 
 Carga `extension/` como extensión descomprimida en Chrome, o `dist/firefox/manifest.json` desde `about:debugging` en Firefox. La estructura de carpetas está descrita en el [README en inglés](README.md#develop).
-
-Guía para subir a las tiendas: [docs/PUBLICACION.md](docs/PUBLICACION.md).
 
 ## Licencia
 
